@@ -1,0 +1,1001 @@
+Invoice ID,Date,Customer Name,Customer Email,Product,Category,Quantity,Price Per Unit (BDT),Payment Method,City,Total Price
+bdd640fb-0667-4ad1-9c80-317fa3b1799d,2024-09-27,আশীষ চন্দ্র,debaaphiphaa@example.com,Detergent,Household,8,50,Debit Card,Khulna,400
+37f8a88b-17fc-495a-87a0-ca6e0822e8f3,2024-09-11,অদৃতা সরকার,shaarminkhaanm@example.org,Smartphone,Electronics,22,10860,Credit Card,Rangpur,238920
+cf36d58b-4737-4190-96da-1dac72ff5d2a,2025-05-16,চঞ্চল মোড়ল,ekraamul23@example.com,Laptop,Electronics,1,65795,Credit Card,Rajshahi,65795
+18c26797-6142-4a7d-97be-31111a2a73ed,2024-10-30,মুনতাকিম হক,tnmy78@example.org,Jeans,Clothing,17,2130,Credit Card,Rajshahi,36210
+142c3fe8-60e7-4113-ac1b-8ca1f91e1d4c,2025-01-13,মোস্তাফিজ সিনহা,priymkumaar@example.net,Notebook,Stationery,14,70,Debit Card,Barishal,980
+fc377a4c-4a15-444d-85e7-ce8a3a578a8e,2024-07-13,কাফি জাহান,daacaaryy@example.net,Pen,Stationery,9,92,Credit Card,Khulna,828
+5ec42e08-29a3-42e9-9d65-a441d58842de,2024-10-28,মনোজ পাণ্ডে,raayaashaaltaa@example.net,Electric Kettle,Appliances,11,2095,Mobile Payment,Khulna,23045
+6123fdf7-7656-4f72-a9d4-beef3eabedcb,2024-09-25,হৈমন্তী দাশগুপ্তা,nyn30@example.com,Jeans,Clothing,11,2130,Credit Card,Chittagong,23430
+3602f8ac-10f1-4c81-848a-aa9e66b2bc5b,2025-06-02,প্রিয়াঙ্কা দে,psaahaa@example.com,Electric Kettle,Appliances,4,2095,Mobile Payment,Mymensing,8380
+3f22faf8-23be-401d-83cf-2fde24933b83,2025-03-29,হৈমন্তী মৃধা,xsin@example.org,Pen,Stationery,9,92,Credit Card,Barishal,828
+827050a8-2369-4584-bf5e-9ff0ff50bde4,2024-12-21,সৌমিক চৌধুরী,shuklaaphaarihaa@example.org,Notebook,Stationery,4,70,Cash on Delivery,Chittagong,280
+98ae4334-6c12-4ce8-ae34-0454cac5b68c,2024-07-07,মুশফিক হাকিম,kaaberi01@example.net,Notebook,Stationery,10,70,Mobile Payment,Rajshahi,700
+444ea7c8-c039-4710-8976-e334e2817efd,2025-04-07,ঋষিতা চট্টোপাধ্যায়,priiti27@example.org,Smartphone,Electronics,2,10860,Debit Card,Sylhet,21720
+b83cfe0b-e037-45ed-b8db-0672f42d47cc,2024-09-23,আরাধ্যা সরকার,ghossmaalihaa@example.net,Smartphone,Electronics,8,10860,Credit Card,Rangpur,86880
+5fb8d16c-2720-497d-b2eb-d6899be578c7,2025-04-05,অর্ক বন্দোপাধ্যায়,hmrdhaa@example.com,Detergent,Household,15,50,Mobile Payment,Khulna,750
+ce88cb2d-d4e8-4839-bc3e-058be0f3eab0,2024-10-10,অশোক পাল,daasrinaa@example.org,Toothpaste,Household,12,30,Debit Card,Sylhet,360
+c40db9b4-885f-4e66-82b6-d2c5fa5d3100,2024-07-31,রাজু দত্ত,aarunni96@example.org,Smartphone,Electronics,20,10860,Debit Card,Rajshahi,217200
+badcc32a-c159-4f53-8a0f-4efbedcd465e,2025-03-07,শেখর ব্যানার্জি,cbaagcii@example.net,T-shirt,Clothing,15,1794,Cash on Delivery,Sylhet,26910
+3985c3cf-3f76-4e1d-9efa-21977394988f,2024-07-07,আকাশ কাদের,aakaashcndr@example.net,Notebook,Stationery,8,70,Mobile Payment,Dhaka,560
+114125c6-3a9b-4dd4-8f12-59e0a18ff6b6,2025-05-30,মিলন তালুকদার,ekraamulhosaain@example.org,Jeans,Clothing,2,2130,Mobile Payment,Rangpur,4260
+ef7ddc76-b92d-422b-a1df-306f8a0b3c33,2025-05-21,মিম পাল,mraay@example.org,Detergent,Household,3,50,Debit Card,Mymensing,150
+5ab33edf-6e59-4ed3-a8b3-17fa18d0752b,2024-11-24,রাশেদুল আক্তার,ghosskeyaa@example.net,Jeans,Clothing,21,2130,Cash on Delivery,Rangpur,44730
+1bf90e27-dc96-425e-8cf3-a17156dc8907,2024-09-17,অজয় রাও,bmukhaarji@example.org,Rice Cooker,Appliances,5,5772,Mobile Payment,Khulna,28860
+dfde4fbf-3ff3-40bf-b66e-cb15474ebc19,2025-06-06,প্রদ্যুম্ন সরকার,kaantshaarmin@example.net,Jeans,Clothing,24,2130,Mobile Payment,Rangpur,51120
+17e011b7-f810-4383-83c7-2ba8d605e770,2025-06-07,জনা বেগম,ehosaain@example.org,Pen,Stationery,13,92,Mobile Payment,Rajshahi,1196
+0f02bad0-e706-4ef4-a6aa-9385dd59ba71,2024-08-15,আবু হক,brsstti46@example.net,T-shirt,Clothing,17,1794,Cash on Delivery,Chittagong,30498
+c88a618e-fed4-457d-bb02-6576f512c4c3,2025-01-14,মাধুরী ঠাকুর,naadimminyaa@example.org,Laptop,Electronics,4,65795,Debit Card,Khulna,263180
+0f9aea4b-8acd-4e10-bc59-4585944528c0,2025-03-30,আদি আক্তার,hrhmaan@example.org,Electric Kettle,Appliances,20,2095,Credit Card,Rangpur,41900
+14822f53-8201-4c62-b5f5-9b220e8fa8e0,2025-05-09,অভিষেক গঙ্গোপাধ্যায়,keyaabndopaadhyaay@example.net,Electric Kettle,Appliances,20,2095,Cash on Delivery,Sylhet,41900
+0a2c827e-9832-4856-9434-0a033f07f814,2025-02-08,জগদীশ সিনহা,iusuph35@example.org,Notebook,Stationery,1,70,Credit Card,Sylhet,70
+abf3e3fc-2181-4d25-a552-38a643ff5011,2025-02-18,রাশেদুল মজুমদার,praamaanikbinaa@example.net,Toothpaste,Household,4,30,Mobile Payment,Rangpur,120
+19985f15-ff00-4d4d-9020-59e4ff9ab5c2,2024-07-11,আরুণি সরকার,ashok51@example.org,T-shirt,Clothing,15,1794,Credit Card,Sylhet,26910
+702cdd20-2862-48b8-88f4-ef125e9953d2,2025-05-02,আয়ুশি সিনহা,ghossshaant@example.org,Notebook,Stationery,6,70,Credit Card,Sylhet,420
+1b66b5a9-e3c4-4657-9d8c-bbac43b409ef,2025-03-28,আমায়া মৃধা,jobaaydaa35@example.org,Notebook,Stationery,20,70,Debit Card,Khulna,1400
+439472e6-da58-4e8a-a25d-6b29afffcfd2,2024-12-26,নন্দিতা চৌধুরী,khaatunenaamul@example.org,Toothpaste,Household,6,30,Credit Card,Mymensing,180
+217d65a0-c568-41cd-9563-f61600e85ece,2025-02-15,ইমতিয়াজ মন্ডল,hpraamaanik@example.org,Rice Cooker,Appliances,1,5772,Credit Card,Mymensing,5772
+e767dcea-b0e6-4969-a213-42b0f1eedba3,2024-08-09,অনিন্দিতা মজুমদার,nishitaabsu@example.org,Detergent,Household,8,50,Credit Card,Rajshahi,400
+eededb07-e623-4689-9d59-cd2a4eea04e7,2025-04-18,আজাদ আবদুল্লাহ,aajmpoddaar@example.com,Pen,Stationery,3,92,Credit Card,Barishal,276
+dfed2c43-e256-46dc-8f54-86b7c7b5b2bc,2024-11-17,ইশিতা পাল,jgdiishraao@example.org,Smartphone,Electronics,18,10860,Debit Card,Khulna,195480
+550a1b46-ecab-4301-bc8f-7d292dea9493,2025-04-12,করিম খান,shubhmishr@example.org,Rice Cooker,Appliances,18,5772,Debit Card,Sylhet,103896
+33173470-38f1-4a81-b87f-2425dbccc477,2025-04-26,বাঁধন মৃধা,saumymoddl@example.net,Notebook,Stationery,20,70,Cash on Delivery,Rajshahi,1400
+475287aa-5408-49ac-a601-ddd03170f437,2025-05-14,সৌমিক মৃধা,raajiyaa86@example.net,Notebook,Stationery,24,70,Debit Card,Sylhet,1680
+54c63cd8-8945-4f27-97fa-2d8dfb2ca025,2025-06-12,আবির মৃধা,aaktaaraamoddl@example.org,Electric Kettle,Appliances,22,2095,Mobile Payment,Barishal,46090
+587ef344-6f3f-420c-98b8-e4cc1bc044fc,2025-03-22,প্রিয়াঙ্কা উদ্দিন,mitrshubhshrii@example.org,Notebook,Stationery,15,70,Credit Card,Rajshahi,1050
+6fa17735-b572-43d0-8b5c-ea6a41357e8c,2024-06-13,হৈমন্তী বিশ্বাস,nishitaa15@example.net,Jeans,Clothing,3,2130,Mobile Payment,Dhaka,6390
+1fe771d6-d917-4793-a9d3-c2e6505cc686,2025-03-19,শহিদুল মৃধা,zdeb@example.net,Pen,Stationery,18,92,Debit Card,Rajshahi,1656
+311c6eb6-2095-4ef6-8ded-f9fb4bb00f20,2024-11-23,কাবেরি দাস,keyaa80@example.com,Laptop,Electronics,3,65795,Credit Card,Rajshahi,197385
+c9277d9b-6e0d-4648-b5ce-884149732d6c,2025-01-24,প্রিয়াঙ্কা শুক্লা,raali@example.org,Smartphone,Electronics,2,10860,Mobile Payment,Chittagong,21720
+e6b3c944-cb32-4e35-b922-bac282dc4c8e,2025-04-18,ইমতিয়াজ তালুকদার,alokaa95@example.org,Notebook,Stationery,8,70,Mobile Payment,Barishal,560
+3c20592f-c04a-46c4-b3b6-3fe1d1843324,2025-03-01,কাফি বিশ্বাস,aanndkumaar@example.org,Jeans,Clothing,18,2130,Debit Card,Barishal,38340
+d98868dd-9c7c-4377-b9a2-8903fbe33b24,2025-04-07,প্রদ্যুম্ন মোড়ল,annyaahuraairaa@example.com,Jeans,Clothing,16,2130,Cash on Delivery,Rajshahi,34080
+b00805cc-a7f3-4ae9-a5c7-3c443e75c3b4,2024-06-15,আরিয়া উদ্দিন,jgdiishislaam@example.org,Smartphone,Electronics,4,10860,Cash on Delivery,Mymensing,43440
+d92c9227-eadf-4085-bfcb-75468eb22579,2024-07-30,আলিয়া মন্ডল,priyaangkaa98@example.com,Electric Kettle,Appliances,14,2095,Cash on Delivery,Dhaka,29330
+722764e6-8c41-461b-a827-a1b9d4a02e53,2025-05-27,রাজু যাদব,aajm48@example.com,Smartphone,Electronics,2,10860,Cash on Delivery,Mymensing,21720
+709b7d97-464c-44af-bd3f-3799a07295e9,2024-07-13,নাইম বিশ্বাস,raashed58@example.org,Smartphone,Electronics,8,10860,Debit Card,Rajshahi,86880
+620e99d3-3b33-43d8-a69c-d696236c7b87,2025-03-09,তুষার গঙ্গোপাধ্যায়,vraay@example.net,Notebook,Stationery,15,70,Debit Card,Rangpur,1050
+34f3193c-0ff0-455c-aa70-2e2f7746d0ba,2025-05-02,মুশফিক আলি,ajaamaan@example.com,T-shirt,Clothing,9,1794,Cash on Delivery,Rajshahi,16146
+da7b9095-63d6-4a39-80e3-befd4c71e0fe,2025-05-25,রহিম মিঞা,rinaahosaain@example.com,Smartphone,Electronics,15,10860,Credit Card,Dhaka,162900
+638c254c-076e-4bba-bc53-08bf6f92f25e,2024-10-21,কাবেরি দত্ত,nbsu@example.net,Notebook,Stationery,1,70,Credit Card,Rajshahi,70
+978648f8-64de-42e6-a82c-7d7b06e745f9,2025-01-18,অদৃতা ঘোষ,dbaagcii@example.org,T-shirt,Clothing,14,1794,Cash on Delivery,Barishal,25116
+53cd6268-610c-4373-8299-9aa40cdf742b,2024-09-03,প্রিয়াঙ্কা মজুমদার,waacaaryy@example.com,Jeans,Clothing,13,2130,Credit Card,Khulna,27690
+78660765-14f7-4e8d-95bc-b8d04094dded,2024-06-20,সাব্বির চৌধুরী,saumy10@example.org,Electric Kettle,Appliances,1,2095,Cash on Delivery,Sylhet,2095
+d6d7b3b8-3309-4d35-bf4d-f561f319c125,2024-06-20,ইশিতা পাল,milaabyaanaarji@example.net,Rice Cooker,Appliances,10,5772,Cash on Delivery,Barishal,57720
+b31022f0-770c-4798-b7cc-863bf2a03459,2024-09-20,বৃষ্টি বেগম,sinmuntaasir@example.org,T-shirt,Clothing,7,1794,Mobile Payment,Rajshahi,12558
+4fdc6e1b-edcb-4cb6-8692-dc639424aed5,2025-01-22,কাবেরি মুখার্জি,prtyytaalukdaar@example.org,Laptop,Electronics,19,65795,Credit Card,Mymensing,1250105
+d9acd158-4d34-45c5-85c1-4eb4b27b3d90,2025-03-05,আশা কান্ত,aashaaltaa65@example.org,Laptop,Electronics,2,65795,Cash on Delivery,Khulna,131590
+033d2bce-575a-4d2c-a5c5-650c8186a576,2025-05-08,শাহজাহান আলম,obos@example.com,Laptop,Electronics,17,65795,Credit Card,Khulna,1118515
+2d174fc9-6f7c-45ea-a72a-6d8eb5122df8,2025-03-24,আশ্বিনী সিনহা,buddin@example.net,Smartphone,Electronics,20,10860,Credit Card,Rajshahi,217200
+da09dfa0-5282-4d80-84b5-91f797ac6aa8,2024-09-16,আজম আক্তার,wtaalukdaar@example.com,Electric Kettle,Appliances,4,2095,Debit Card,Dhaka,8380
+6105716b-ab0e-464e-9c3e-b2d591e1aa96,2024-10-21,রুদ্র মজুমদার,rinaajaamaan@example.com,Pen,Stationery,3,92,Cash on Delivery,Mymensing,276
+4797b2c9-5720-4246-8223-623bcc3ebdde,2025-05-20,নিশিতা আচার্য্য,milncaudhurii@example.net,Detergent,Household,7,50,Mobile Payment,Rajshahi,350
+c2171429-8e20-4724-bd13-7018680bac63,2024-09-14,শাহাবাজ মন্ডল,fmrdhaa@example.com,Detergent,Household,13,50,Debit Card,Sylhet,650
+3e493f43-b118-468d-a786-d50638ba8abc,2024-10-09,শুভশ্রী বর্মন,bpaanndde@example.net,Rice Cooker,Appliances,11,5772,Credit Card,Dhaka,63492
+b3ee4d3b-5a10-4129-94ae-bd1b8ce6424d,2024-12-06,বাকের মৃধা,raajuaabdullaah@example.com,Rice Cooker,Appliances,20,5772,Credit Card,Chittagong,115440
+f36cb62b-892e-4161-be2d-740a1e9b23bc,2025-04-05,ইজাজ বিশ্বাস,mimsinhaa@example.net,Notebook,Stationery,7,70,Mobile Payment,Khulna,490
+864e9a13-c29c-4c0c-ba02-eaec96ef2ad6,2025-01-30,আব্বাস বিশ্বাস,aabu52@example.com,Toothpaste,Household,3,30,Debit Card,Mymensing,90
+2067bdac-88bd-43d1-b540-b30e039f3a25,2024-09-27,আদি সরকার,arghy71@example.org,Detergent,Household,6,50,Cash on Delivery,Sylhet,300
+7a8d03aa-782a-45e0-88ca-765192f5df7b,2024-12-01,তন্ময় আক্তার,minaa11@example.com,Pen,Stationery,21,92,Credit Card,Sylhet,1932
+a1235a8c-93b7-4886-92f7-0c977de31a51,2025-03-06,চয়ন প্রামানিক,miln31@example.net,Smartphone,Electronics,5,10860,Mobile Payment,Chittagong,54300
+989bc4da-9b37-422b-aa8a-616fc3b290d0,2025-04-16,ডলি রায়,caaoyaal@example.com,Smartphone,Electronics,24,10860,Debit Card,Sylhet,260640
+6dc7cac7-fd72-4050-96a9-954fdc33e1f9,2024-10-09,অন্তরা চ্যাটার্জি,phaarihaajaamaan@example.com,Detergent,Household,20,50,Debit Card,Mymensing,1000
+3d67cde9-2834-44c0-94c8-b3b4a911d192,2024-08-19,অলোকা প্রামানিক,raaybaandhn@example.net,Jeans,Clothing,22,2130,Mobile Payment,Barishal,46860
+085b15fb-4a8f-4810-b84c-2f29980402a2,2024-09-10,নাইম মন্ডল,haakimishtiyaak@example.net,Detergent,Household,2,50,Credit Card,Rangpur,100
+ef04e57d-cdcc-433a-a943-4aa096fc734d,2024-08-28,ইকবাল কাদের,imtiyaajmishr@example.org,Detergent,Household,2,50,Credit Card,Mymensing,100
+4ebfa5c3-cae9-44a7-aa79-ea680f44704f,2025-01-30,নাইম মন্ডল,uddinbaaker@example.net,T-shirt,Clothing,21,1794,Mobile Payment,Khulna,37674
+801ef1da-45b1-4d25-b153-3ae8670acc5c,2025-01-08,মিলা তালুকদার,taabaassummushphik@example.net,Rice Cooker,Appliances,18,5772,Cash on Delivery,Dhaka,103896
+3a9aca5e-1761-42ed-869f-14f140181c6e,2025-03-01,আতাহার হাকিম,shubhshrii02@example.com,Smartphone,Electronics,3,10860,Debit Card,Dhaka,32580
+ea83bf00-7135-4221-a6c9-537f84dad06a,2024-09-29,শুভ সিং,kaadershaahjaahaan@example.com,Toothpaste,Household,19,30,Debit Card,Rangpur,570
+1ac70ec0-ab8d-4eb4-9230-dfbd5553b2fe,2025-05-12,মিলন মিশ্র,qkaant@example.com,T-shirt,Clothing,2,1794,Mobile Payment,Mymensing,3588
+0964fbbf-8cd3-41b0-82b0-1cfdd045dd1c,2024-12-06,কুনাল মৃধা,raaj68@example.org,Laptop,Electronics,12,65795,Debit Card,Rajshahi,789540
+764414fd-8ae7-49ed-9e8e-de0ba85c6e4a,2024-11-20,তনয় সরকার,phaujiyaa77@example.org,Smartphone,Electronics,12,10860,Cash on Delivery,Khulna,130320
+218a1536-8c99-4894-845d-cc38341c6494,2025-06-08,রাসেল মন্ডল,mnddlmehjaabin@example.net,Jeans,Clothing,6,2130,Debit Card,Rangpur,12780
+288b78b5-b5b4-43ca-bd42-993ccc9fd334,2024-10-11,অদৃতা সরকার,ode@example.org,Laptop,Electronics,6,65795,Mobile Payment,Rangpur,394770
+a5d04d53-1e12-42e3-b272-92b6762172ed,2025-05-02,রুদ্র প্রধান,khushi77@example.org,Jeans,Clothing,9,2130,Debit Card,Chittagong,19170
+6232b17a-2507-4181-8d1f-b54074eff545,2024-08-26,লতা চন্দ্র,sinhaakhushi@example.com,Electric Kettle,Appliances,2,2095,Cash on Delivery,Rajshahi,4190
+44656d6b-81fb-48b3-89a7-d91fef2ae713,2025-04-27,প্রিয় মৃধা,cyaadb@example.net,Jeans,Clothing,15,2130,Mobile Payment,Sylhet,31950
+8d4a75b8-551a-48ea-985a-0afa7bfdcc12,2025-04-05,কাবেরি মন্ডল,prshaant39@example.com,Jeans,Clothing,8,2130,Credit Card,Rajshahi,17040
+69288e92-c68a-452f-9b23-aa8c3bcabf85,2024-06-29,রাজু হক,fyaadb@example.org,Electric Kettle,Appliances,11,2095,Mobile Payment,Chittagong,23045
+9716108e-f721-49bb-8096-27182051acef,2024-10-19,আব্বাস কাদের,aalmaadi@example.net,Detergent,Household,12,50,Cash on Delivery,Mymensing,600
+a79fbfaf-def5-4689-a8f4-5bce24e75e8e,2024-08-11,প্রদীপ মৃধা,phaujiyaa61@example.com,Laptop,Electronics,4,65795,Mobile Payment,Khulna,263180
+889b78d5-dbfd-497e-aca2-b148da330aa1,2024-11-07,রুদ্র আক্তার,rhmaanmehjaabin@example.net,Pen,Stationery,9,92,Credit Card,Chittagong,828
+3a3c8a71-ff57-4e2b-8991-ab9bebc2026f,2025-03-30,জগদীশ তালুকদার,aalikunaal@example.net,Pen,Stationery,14,92,Mobile Payment,Mymensing,1288
+0bc61066-0769-465f-a746-ccb94ca9cf07,2024-10-16,অন্তরা আওয়াল,ahnaa62@example.org,Electric Kettle,Appliances,20,2095,Credit Card,Rangpur,41900
+ae8a7813-90e0-495b-a97c-392387fa841a,2025-04-16,চঞ্চল দাস,mishrnusraat@example.net,Pen,Stationery,7,92,Mobile Payment,Dhaka,644
+9549c931-e9af-499d-bf67-1eec3da70577,2024-08-07,প্রদ্যুম্ন পোদ্দার,qmrdhaa@example.org,Electric Kettle,Appliances,1,2095,Debit Card,Mymensing,2095
+e6b5a92c-771a-4655-8dfc-6ee0e61ede90,2024-10-02,হৈমন্তী দত্ত,aalishaahaabaaj@example.net,Electric Kettle,Appliances,3,2095,Mobile Payment,Mymensing,6285
+6c9f82b9-f647-4986-a391-7c994c955f6a,2025-03-08,রাশেদুল মৃধা,annyaaminyaa@example.org,Smartphone,Electronics,24,10860,Mobile Payment,Sylhet,260640
+5be4bf51-9269-4698-a1a1-17293cb98350,2025-01-22,নাইম চৌধুরী,asinhaa@example.net,Electric Kettle,Appliances,11,2095,Cash on Delivery,Sylhet,23045
+bea29dfe-c73f-4e1b-af90-8e3cdd750e98,2024-07-02,রিনা প্রধান,taasphiyaabyaanaarji@example.org,Notebook,Stationery,5,70,Debit Card,Rangpur,350
+402913ec-9ef2-493e-b0ac-7d7ba2f963a3,2025-03-03,আলিয়া হুরাইরা,aacaaryymuntaasir@example.com,Electric Kettle,Appliances,22,2095,Debit Card,Sylhet,46090
+bb7bee03-5d67-4bb1-945e-f2e4088a93ec,2024-08-03,আয়ুষ মজুমদার,mraao@example.org,Electric Kettle,Appliances,18,2095,Credit Card,Sylhet,37710
+f8b38a8b-e05f-48bc-8a16-a06cc958e75e,2024-11-02,মাধু মৃধা,ikbaalminyaa@example.com,Detergent,Household,7,50,Cash on Delivery,Mymensing,350
+cde22f1c-56b6-4afc-9ed2-55d0bf1e8366,2024-07-27,অর্না প্রামানিক,aaliyaabsu@example.org,Rice Cooker,Appliances,15,5772,Cash on Delivery,Rajshahi,86580
+43b38eb4-0390-4c5d-a502-d6a2ca6a2224,2025-01-07,প্রদ্যুম্ন মজুমদার,aaphiyaa65@example.org,Notebook,Stationery,16,70,Debit Card,Chittagong,1120
+066803ee-78b2-4549-bbdb-c09eacc216a0,2025-02-08,ঋষিতা সিনহা,rojinaacyaattaarji@example.net,Detergent,Household,17,50,Mobile Payment,Chittagong,850
+b379cb1e-e8cd-40cc-b6da-3ca0d2e82f38,2024-10-08,দূর্গা চট্টোপাধ্যায়,tnmysinhaa@example.com,Jeans,Clothing,22,2130,Mobile Payment,Rajshahi,46860
+18e19331-1dba-4267-be1c-a5a1fef518a6,2024-09-12,আমায়া মোড়ল,qbrmn@example.net,Jeans,Clothing,5,2130,Credit Card,Dhaka,10650
+6b4be411-8a4a-4e2d-b22b-5b98b24cc64f,2025-01-27,ইশতিয়াক মোড়ল,hktaamaannaa@example.com,Jeans,Clothing,16,2130,Credit Card,Barishal,34080
+08601833-479d-4cda-b396-ea37f065c817,2025-03-08,তুষার হাকিম,xrhmaan@example.org,Electric Kettle,Appliances,21,2095,Debit Card,Rangpur,43995
+8b621d41-5e09-49ee-af88-bdecfb1e143b,2025-05-29,ঈশানি গাঙ্গুলি,msinhaa@example.org,Rice Cooker,Appliances,13,5772,Debit Card,Khulna,75036
+74685b98-d2fe-4fde-9918-b3e5f2f25eef,2024-07-18,আরুণি কুমার,daashguptaaaanis@example.org,Laptop,Electronics,4,65795,Cash on Delivery,Rajshahi,263180
+11906f50-3488-4a46-9088-2eafc9776598,2025-05-01,সুরভি সুলতানা,aataahaarde@example.org,T-shirt,Clothing,23,1794,Cash on Delivery,Dhaka,41262
+00b9d4a3-9892-40ac-a689-33a9c9e48e8c,2024-09-28,ইশতিয়াক তাবাসসুম,jydiip10@example.org,Notebook,Stationery,8,70,Credit Card,Barishal,560
+c9d6a63b-ca3c-4f5f-9bb5-c40c03cde2e3,2024-09-13,প্রিয়াঙ্কা কুমার,ishtiyaakgaangguli@example.org,T-shirt,Clothing,15,1794,Mobile Payment,Barishal,26910
+1d181ee9-86ad-4a8c-abc4-123ebde13c1b,2025-03-29,প্রদীপ মন্ডল,alokaa91@example.com,Pen,Stationery,24,92,Cash on Delivery,Barishal,2208
+9d77a45e-f206-4269-b8b7-7c0780fb9296,2024-06-29,সাবের মৃধা,dmnddl@example.com,T-shirt,Clothing,24,1794,Cash on Delivery,Barishal,43056
+afa415e5-6d20-4496-a6d0-6371d8e88ebb,2024-07-24,মিলা তালুকদার,daastaasphiyaa@example.org,Detergent,Household,8,50,Mobile Payment,Barishal,400
+9fd34579-4667-42ce-a04e-178c10d08d11,2025-02-13,সুরভি বন্দোপাধ্যায়,dgnggopaadhyaay@example.net,Jeans,Clothing,9,2130,Cash on Delivery,Chittagong,19170
+cb08587d-1963-426d-ae21-8b099afd4015,2025-03-12,মৃত্যুঞ্জয় সরকার,nishitaaaaoyaal@example.org,Detergent,Household,8,50,Mobile Payment,Mymensing,400
+74188109-d3d1-4f0f-96c4-38e469efafb1,2024-11-14,আব্বাস মিঞা,qtthaakur@example.com,Toothpaste,Household,18,30,Credit Card,Khulna,540
+afd380c4-2713-482c-b41e-a3ac5fd23109,2025-06-06,অর্না তালুকদার,denishitaa@example.org,T-shirt,Clothing,8,1794,Cash on Delivery,Khulna,14352
+cfd01cbd-5f65-48ce-bd21-bc11be9d61ee,2024-08-02,অনিন্দিতা সিনহা,rudr65@example.net,Jeans,Clothing,3,2130,Cash on Delivery,Rangpur,6390
+de3b496f-6c45-46f6-8012-a0fff0ede303,2025-06-03,আসাদ মৃধা,shhidul19@example.net,Toothpaste,Household,18,30,Cash on Delivery,Rangpur,540
+7b70c3b8-a81f-4ec3-a79c-658a36760ce5,2024-09-08,আব্বাস আবদুল্লাহ,raaj49@example.org,Laptop,Electronics,7,65795,Cash on Delivery,Rangpur,460565
+8f9b72ae-d85c-46bd-adda-4f8dcea60f4c,2025-04-07,আতাহার হক,aabir24@example.net,Pen,Stationery,23,92,Credit Card,Rangpur,2116
+56febfb9-ebe9-4207-8f19-9ec0c32d4526,2024-10-27,তন্ময় প্রামানিক,jcttttopaadhyaay@example.net,Rice Cooker,Appliances,1,5772,Mobile Payment,Sylhet,5772
+177d6e7e-07d9-44ce-b8c8-8faea2178f84,2025-03-29,আরুণি মোড়ল,vaalm@example.org,Electric Kettle,Appliances,14,2095,Debit Card,Barishal,29330
+530ac1c7-b8ba-4368-8fc7-77685ebbcca5,2025-04-10,অনন্যা গাঙ্গুলি,aashutosskaant@example.net,Jeans,Clothing,9,2130,Cash on Delivery,Barishal,19170
+a974d079-716f-4a0a-85a8-882914e286e5,2024-11-24,মিলা মোড়ল,sushaant81@example.com,Laptop,Electronics,13,65795,Mobile Payment,Rangpur,855335
+ad9fb00d-4882-473c-9c63-45ab6e0ed1e8,2025-03-03,রিনা রায়,tnmy36@example.net,T-shirt,Clothing,15,1794,Debit Card,Dhaka,26910
+4d29d1ab-3455-42f7-81f7-c7ec0e0630cd,2024-09-03,আলিয়া আক্তার,raayhaan10@example.com,Electric Kettle,Appliances,19,2095,Credit Card,Chittagong,39805
+2112507c-2cfa-45b0-ae3f-683abf3c5140,2024-11-07,আশালতা সরকার,priy60@example.com,Electric Kettle,Appliances,5,2095,Cash on Delivery,Khulna,10475
+13eecdc6-ebd1-4d2c-b5b2-745504cc3ede,2025-05-13,শুভ হক,hgaangguli@example.com,Laptop,Electronics,9,65795,Cash on Delivery,Mymensing,592155
+2bffe17b-5324-41fc-b758-dce20556daea,2025-04-20,মিনা বর্মন,begmshubh@example.org,Jeans,Clothing,15,2130,Mobile Payment,Mymensing,31950
+862268d1-6683-4107-96c0-44d06f887f28,2024-07-13,বাকের মিঞা,raashedraay@example.org,Electric Kettle,Appliances,9,2095,Cash on Delivery,Sylhet,18855
+87d5b7be-1d30-4990-a21b-030782af085c,2024-12-28,সৌমিক বসু,rojinaa23@example.org,Smartphone,Electronics,16,10860,Credit Card,Dhaka,173760
+2c6a6e9a-3280-47a1-8187-222b257d5e52,2025-02-01,অভিষেক দাস,wislaam@example.net,Toothpaste,Household,8,30,Credit Card,Dhaka,240
+ae5ec365-72eb-4474-9458-054ec2874f06,2025-06-06,প্রিয়াঙ্কা বন্দোপাধ্যায়,priyticttttopaadhyaay@example.com,Laptop,Electronics,8,65795,Debit Card,Dhaka,526360
+cbdc4318-4d85-43d2-a1a2-748571348c2a,2024-09-27,অন্তরা বসু,cndrbipaashaa@example.com,Pen,Stationery,5,92,Debit Card,Khulna,460
+d4ea120a-5e65-4654-8e90-58b609a0a0f6,2024-10-02,মৃত্যুঞ্জয় তালুকদার,lislaam@example.net,Rice Cooker,Appliances,22,5772,Credit Card,Rajshahi,126984
+e5582e16-bd29-4de9-8ab4-923bf4488385,2024-06-28,কাজল মজুমদার,jrhmaan@example.org,Rice Cooker,Appliances,23,5772,Mobile Payment,Mymensing,132756
+e62d2d06-cf9b-4558-9a7f-195b73557b9d,2025-05-04,অভি ইসলাম,praamaanikpriyti@example.com,T-shirt,Clothing,20,1794,Credit Card,Khulna,35880
+28a39779-9c1c-4517-85d2-d0a686295b5d,2024-11-01,প্রিয় হক,rpaal@example.net,Detergent,Household,4,50,Credit Card,Sylhet,200
+a5b5cdc2-a181-485e-8a0a-c6ac0d67d38e,2024-10-20,কুনাল তালুকদার,qkumaar@example.net,Pen,Stationery,22,92,Cash on Delivery,Rangpur,2024
+e806133c-f6e3-4356-a814-9562da003f16,2025-02-02,ইশতিয়াক আলম,mishrshaahjaahaan@example.com,Jeans,Clothing,3,2130,Debit Card,Chittagong,6390
+a981b098-b2cf-452d-a7f3-33b3f7baf55e,2024-11-12,অভি ব্যানার্জি,ide@example.net,Detergent,Household,22,50,Credit Card,Dhaka,1100
+bd20563b-f275-45f3-9436-a7a8b3ecb951,2025-03-06,অলোকা মোড়ল,abhissek54@example.org,Toothpaste,Household,18,30,Cash on Delivery,Mymensing,540
+f29a6339-577b-455a-b6d5-5494f37fd50d,2025-04-06,কাজল বিশ্বাস,aashiisstthaakur@example.com,Smartphone,Electronics,17,10860,Mobile Payment,Dhaka,184620
+81f7f3fb-19e4-4c6a-89c2-3e69d82c7565,2025-04-08,মাধু চৌধুরী,nusraat29@example.com,Electric Kettle,Appliances,16,2095,Credit Card,Rangpur,33520
+d4d30795-2e4b-4bc4-a989-0880277d1be9,2025-03-09,কেয়া কাদের,raaoarpitaa@example.net,Toothpaste,Household,21,30,Cash on Delivery,Khulna,630
+71b701aa-f836-4571-bcce-c76cb836c448,2025-02-05,রাসেল বিশ্বাস,muntaasirkaader@example.org,Electric Kettle,Appliances,6,2095,Mobile Payment,Barishal,12570
+92070158-f277-4f63-ada5-84175e2ad32d,2024-12-01,প্রীতি মোড়ল,msin@example.net,Rice Cooker,Appliances,14,5772,Mobile Payment,Mymensing,80808
+0d5ba7cd-4000-45f0-9f7d-0dd7236e1608,2025-02-17,বৃষ্টি সরকার,boskaaphi@example.org,Jeans,Clothing,3,2130,Mobile Payment,Barishal,6390
+73069588-45d5-468d-a90a-3abbc35b9fea,2025-05-30,আমায়া মোড়ল,hosaainbaandhn@example.com,Jeans,Clothing,15,2130,Cash on Delivery,Mymensing,31950
+0da23e5c-6a36-4f18-86d3-db93ee33688d,2024-11-13,ঈশানি বিশ্বাস,xdtt@example.org,Laptop,Electronics,16,65795,Mobile Payment,Khulna,1052720
+195d82f8-ee4a-4b5d-9195-54e307374c86,2025-05-04,মুনতাসির প্রামানিক,cynkaant@example.com,Rice Cooker,Appliances,7,5772,Mobile Payment,Sylhet,40404
+c24369e7-2387-4af6-94c3-a832b231c60b,2025-03-14,মিলা সিনহা,dttabhissek@example.com,Toothpaste,Household,9,30,Mobile Payment,Dhaka,270
+8c7e6f42-2646-4af9-95c0-244d3735262d,2025-06-13,সাবের মোড়ল,kaantaajaad@example.com,Notebook,Stationery,7,70,Credit Card,Rajshahi,490
+6b79afcc-3d0a-4f0c-8c39-4ec71f317405,2025-02-16,মিনা খাতুন,haakimaaphsaanaa@example.net,Electric Kettle,Appliances,16,2095,Debit Card,Barishal,33520
+93364f7e-83ef-49f3-a1c7-cc8a04351b64,2024-09-14,ইশতিয়াক মৃধা,ncaudhurii@example.com,Rice Cooker,Appliances,15,5772,Credit Card,Chittagong,86580
+2ff3cde4-6aa4-4c9f-9217-04753d959e3f,2025-02-26,অলোকা রায়,priym88@example.net,Detergent,Household,8,50,Cash on Delivery,Rajshahi,400
+8ddce719-81f3-4dd4-bd03-4adac9525185,2024-06-20,শাহাবাজ আক্তার,qbaagcii@example.net,Detergent,Household,22,50,Mobile Payment,Barishal,1100
+114b9547-c9dc-42b8-9b6a-810204287378,2024-10-24,সুশান্ত চ্যাটার্জি,ajit05@example.net,Notebook,Stationery,17,70,Mobile Payment,Rangpur,1190
+2cd2a404-a48e-40f1-9042-1dfa56ab087a,2025-05-01,মিনা রহমান,zaaktaar@example.org,Notebook,Stationery,11,70,Mobile Payment,Barishal,770
+f1901b7e-c6b4-49ef-b74e-ba9310275b53,2024-12-07,প্রিয় বিশ্বাস,uddincnycl@example.com,Detergent,Household,10,50,Mobile Payment,Rajshahi,500
+65f202f9-83f0-4dc7-8f61-2217eef16694,2025-04-25,মাধুরী মৃধা,aalmkrim@example.com,Smartphone,Electronics,24,10860,Debit Card,Mymensing,260640
+dda4f4a7-0c3c-4284-87e5-3bbbdcb51c53,2025-02-22,প্রিয়ম আলম,priiti67@example.com,Smartphone,Electronics,24,10860,Debit Card,Rajshahi,260640
+7f072cb9-2fd3-40c0-b945-f2fd56cb1ab0,2025-03-08,বৃষ্টি সরকার,miln61@example.com,Jeans,Clothing,24,2130,Cash on Delivery,Sylhet,51120
+2e326567-d284-454e-bebe-c0db9a3a6103,2025-01-10,বাসির তালুকদার,debnaadim@example.com,Pen,Stationery,17,92,Mobile Payment,Chittagong,1564
+6d15f16f-b7b8-41a5-9a45-693d7227890e,2024-08-16,রাসেল মজুমদার,uaacaaryy@example.com,Jeans,Clothing,10,2130,Debit Card,Mymensing,21300
+46494296-6f58-42c3-bf86-cc319d66e815,2025-02-16,অন্তরা খাতুন,gbsu@example.net,T-shirt,Clothing,10,1794,Credit Card,Khulna,17940
+07f8d4f0-f3ea-4184-a8f4-e3ceadedda80,2024-08-07,রাসেল খানম,priymrhmaan@example.net,Detergent,Household,2,50,Credit Card,Sylhet,100
+f31046dc-6202-4ee6-9cb5-e69c5dc7b3e6,2025-01-19,চয়ন মন্ডল,ahnaa71@example.net,T-shirt,Clothing,21,1794,Cash on Delivery,Chittagong,37674
+65e58f34-5df0-4e8c-878a-aed9233ffc82,2024-10-13,আশ্বিনী পাল,moddlprdiip@example.com,Laptop,Electronics,19,65795,Mobile Payment,Barishal,1250105
+8fc9c86b-e9dd-4bf5-a311-9aca848af440,2024-07-28,তামিম মন্ডল,taasnimkaant@example.net,Rice Cooker,Appliances,15,5772,Mobile Payment,Khulna,86580
+333ee344-7dbf-4bc1-bfa6-23d0ea9e5c8d,2024-07-30,অভিষেক যাদব,priyaangkaadeb@example.net,Laptop,Electronics,9,65795,Cash on Delivery,Chittagong,592155
+51d08109-fc90-4838-9874-1408f7b217c7,2025-02-27,অভিষেক জামান,aashutoss25@example.net,Smartphone,Electronics,13,10860,Cash on Delivery,Chittagong,141180
+3373730e-fc31-4597-9f11-9c0f3967e60a,2025-04-16,প্রান্ত সিং,boskaaberi@example.net,Pen,Stationery,21,92,Credit Card,Khulna,1932
+fba6abf7-cdbc-4653-b7a7-e8b75e70f65f,2025-01-13,অভি গঙ্গোপাধ্যায়,aaliyaa78@example.com,T-shirt,Clothing,19,1794,Mobile Payment,Chittagong,34086
+932cae01-d2c6-4ee4-a8d0-a2a8c4e7f7dd,2024-07-11,বাদল গঙ্গোপাধ্যায়,ruddin@example.net,Jeans,Clothing,4,2130,Cash on Delivery,Rajshahi,8520
+d43cdd6d-e0c1-4f1e-a0da-897258321ee4,2025-04-12,শুভশ্রী প্রামানিক,nishitaarhmaan@example.org,Notebook,Stationery,13,70,Cash on Delivery,Barishal,910
+272c0588-84a2-476c-9fc9-05f8d4d60735,2024-10-09,চঞ্চল বন্দোপাধ্যায়,shaahaabaajkumaar@example.org,Detergent,Household,19,50,Cash on Delivery,Sylhet,950
+f4d375c1-a293-49fa-b240-d7a14027ab7d,2025-01-12,ইউসুফ মৃধা,rhmaanraajiyaa@example.org,Pen,Stationery,20,92,Credit Card,Chittagong,1840
+27794685-94a5-4fde-b10d-27c89780c215,2024-08-18,ঋষিতা কান্ত,dtttnmy@example.net,Jeans,Clothing,21,2130,Debit Card,Sylhet,44730
+a6b07458-43c0-4d43-93a7-4792c561b8dc,2024-09-02,মিথিলা হক,haakimphaarihaa@example.net,Smartphone,Electronics,6,10860,Debit Card,Khulna,65160
+4d560a3d-f4e7-469a-a454-09374a27ebf2,2024-12-17,সৌম্য মুখার্জি,brsstti10@example.org,Notebook,Stationery,3,70,Debit Card,Dhaka,210
+76e5ae78-7bf7-41d3-aa66-2fce7089fc6d,2024-08-31,চয়ন মিঞা,shaahaabaaj62@example.com,Electric Kettle,Appliances,15,2095,Cash on Delivery,Sylhet,31425
+51b1943c-1b2e-4edb-8fc8-5fc083d5bceb,2024-09-14,আশা মৃধা,jpraamaanik@example.org,Laptop,Electronics,8,65795,Mobile Payment,Sylhet,526360
+6257a4a2-f204-4e89-8a4b-55630cf477ef,2025-05-14,মিথিলা পাল,raayhaantthaakur@example.org,Rice Cooker,Appliances,3,5772,Debit Card,Sylhet,17316
+fef7d9ea-7f8e-4483-a8ca-aa1dc35bec2c,2024-12-29,রিনা মৃধা,fmjumdaar@example.com,Pen,Stationery,22,92,Debit Card,Rangpur,2024
+3da06476-f778-4676-b50d-112e8164ceec,2024-09-04,বাঁধন গাঙ্গুলি,kumaarshraabnii@example.net,Smartphone,Electronics,18,10860,Debit Card,Khulna,195480
+ac2a4f71-a77d-45f1-97c4-fe9ce1e0fffc,2024-12-12,সাব্বির চৌধুরী,taabaassumajit@example.com,Detergent,Household,5,50,Credit Card,Dhaka,250
+673ba8bd-c38c-4dec-9da3-9a73ba3df7ff,2024-11-02,শাওন চৌধুরী,saabbirkaant@example.org,T-shirt,Clothing,10,1794,Mobile Payment,Barishal,17940
+c3affcfe-734a-4ca3-8116-e3fc62e7c1a6,2025-01-12,ইকবাল প্রামানিক,shuklaaahnaa@example.com,Smartphone,Electronics,15,10860,Mobile Payment,Rangpur,162900
+c14565c7-5d98-4115-b05e-eefe8ece1128,2024-08-08,মৃনাল সেন,crhmaan@example.org,Detergent,Household,17,50,Cash on Delivery,Barishal,850
+554227de-b6ad-448b-a314-d0c809f64405,2025-04-21,শ্রাবনী মন্ডল,taasphiyaamukhaarji@example.com,Smartphone,Electronics,20,10860,Credit Card,Rangpur,217200
+2999bbef-518b-4f21-9cf2-0859ee6e2e72,2024-11-12,প্রিয়তি বোস,eghoss@example.org,Toothpaste,Household,20,30,Mobile Payment,Dhaka,600
+1c0f0bdc-ac7e-437c-94cc-1e2a5e4cb287,2024-11-21,প্রিয়তি কুমার,pmoddl@example.net,Smartphone,Electronics,8,10860,Credit Card,Sylhet,86880
+0d259caa-b8ad-4d87-ba40-45dd93dfd907,2025-01-25,কেয়া সরকার,rmitr@example.org,Pen,Stationery,2,92,Debit Card,Barishal,184
+b35556a5-f2bd-42f2-9293-f70508150147,2024-07-25,অর্ঘ্য যাদব,ddli26@example.net,Notebook,Stationery,21,70,Cash on Delivery,Sylhet,1470
+c66495a7-8077-4e33-a90e-7e6234323ec6,2025-02-05,অন্তরা প্রামানিক,bidyaadeb@example.net,T-shirt,Clothing,19,1794,Cash on Delivery,Barishal,34086
+50521700-6077-46a3-8685-abaa7a768555,2024-08-19,শ্রাবন্তী মজুমদার,raajiyaa49@example.com,Smartphone,Electronics,16,10860,Mobile Payment,Rangpur,173760
+476cf68c-3f1b-40d0-b514-105831383975,2025-01-15,কাফি মৃধা,mnoj75@example.com,Toothpaste,Household,11,30,Credit Card,Khulna,330
+ef3a6f27-ef06-4ccb-8f7c-1d59594b2a3a,2025-04-17,নাদিম মৃধা,mishraaliyaa@example.com,Toothpaste,Household,14,30,Cash on Delivery,Sylhet,420
+257f7595-cdfb-4db9-85e7-8b23f4613f09,2024-10-03,প্রিয় তালুকদার,priyaangkaa47@example.org,Electric Kettle,Appliances,18,2095,Credit Card,Barishal,37710
+4568f426-89e0-4e22-93f4-a49b33baba88,2025-06-10,আশ্বিনী প্রামানিক,caudhuriiaanis@example.org,Smartphone,Electronics,11,10860,Mobile Payment,Mymensing,119460
+39c59df9-87f2-45d6-a7ba-26acab7a3d1c,2025-02-15,অশোক চ্যাটার্জি,tde@example.com,Smartphone,Electronics,13,10860,Credit Card,Barishal,141180
+23310a28-c550-4ca8-ae62-990c19bd4f93,2024-06-15,আরাধ্যা মোড়ল,pjaamaan@example.org,Electric Kettle,Appliances,2,2095,Debit Card,Mymensing,4190
+52380bf2-4988-4418-b6c3-1218c1836315,2024-10-01,অনিন্দিতা ঘোষ,aashaaltaasinhaa@example.org,Pen,Stationery,16,92,Cash on Delivery,Dhaka,1472
+2d007d05-d66d-4627-a1da-ce6a6afa828c,2025-06-10,শাওন মন্ডল,taamimsinhaa@example.org,Jeans,Clothing,9,2130,Debit Card,Sylhet,19170
+1b780ede-9a4f-4c0c-9165-f2ed4c636e95,2025-06-08,প্রিয় হাকিম,gbaagcii@example.com,Rice Cooker,Appliances,23,5772,Cash on Delivery,Chittagong,132756
+1cd66b09-cf0e-4d2b-b15c-167a45d8a6ad,2024-10-19,রাজ পোদ্দার,aadipaal@example.com,Laptop,Electronics,21,65795,Debit Card,Khulna,1381695
+317304b5-c1dd-484a-aca5-8d95915a1c30,2024-08-20,বিপাশা মিত্র,raahul61@example.org,Detergent,Household,18,50,Credit Card,Rangpur,900
+52d78f10-7a3a-4e96-a3ff-23d3fb4fb88a,2025-06-11,অর্ঘ্য পোদ্দার,crhmaan@example.com,Smartphone,Electronics,8,10860,Credit Card,Barishal,86880
+951c25d5-4d4c-4280-9462-52e7f43ba052,2025-03-20,অর্পিতা পোদ্দার,aajaad01@example.com,Smartphone,Electronics,21,10860,Debit Card,Barishal,228060
+afa28559-67c9-4204-a8e3-33b64e8adc4b,2024-12-25,বাকের তালুকদার,anyjnaa93@example.org,Detergent,Household,17,50,Mobile Payment,Rangpur,850
+27372b52-7a6a-4107-a231-9050f5159494,2024-12-06,মোস্তাফিজ মোড়ল,wminyaa@example.org,Rice Cooker,Appliances,16,5772,Debit Card,Barishal,92352
+df85c777-9887-4bfe-8136-9c65ae2ae341,2025-04-14,প্রশান্ত মন্ডল,prtyy91@example.org,Notebook,Stationery,5,70,Cash on Delivery,Rajshahi,350
+8167999f-e723-4da3-8c32-bdb2d42a895e,2024-08-30,শ্রাবন্তী ঠাকুর,raayhaanaali@example.org,Pen,Stationery,17,92,Debit Card,Chittagong,1564
+95492a82-b787-4f8d-b495-311eae27d432,2024-12-19,প্রশান্ত মন্ডল,aalmashok@example.net,Detergent,Household,14,50,Mobile Payment,Sylhet,700
+0ec7d662-905c-4bdd-b4f0-beae6a5943ce,2025-01-16,প্রিয়তি চৌধুরী,amrdhaa@example.net,Laptop,Electronics,10,65795,Mobile Payment,Barishal,657950
+0b981ccd-12b2-402d-940c-350337c86152,2024-11-24,অভিষেক আক্তার,kaaderimn@example.com,T-shirt,Clothing,15,1794,Cash on Delivery,Mymensing,26910
+22ab7752-c4db-4a62-ae13-418d68ab80ea,2025-04-06,দূর্গা বর্মন,yaaktaar@example.com,Toothpaste,Household,18,30,Cash on Delivery,Barishal,540
+a96b3c42-f6d2-4a7b-aec7-6a82148b4376,2025-05-18,আমায়া মজুমদার,aaliaashbinii@example.com,Toothpaste,Household,7,30,Debit Card,Rangpur,210
+fa8dae42-ba54-4920-a099-d18087623997,2024-09-07,আবু আরা,bipaashaa86@example.net,Jeans,Clothing,14,2130,Credit Card,Mymensing,29820
+3f5cf2f3-3acb-43a3-92c7-bffb6118433b,2024-12-08,চয়ন খান,sjiibsrkaar@example.net,Rice Cooker,Appliances,23,5772,Cash on Delivery,Rangpur,132756
+efad49e9-c41c-447e-9d6b-9b626b535a19,2025-05-22,প্রান্ত বিশ্বাস,paalaaphsaanaa@example.org,T-shirt,Clothing,16,1794,Credit Card,Khulna,28704
+b40a9181-ac09-4db7-9908-6e477249f62c,2025-05-17,প্রান্ত চৌধুরী,osultaanaa@example.net,Notebook,Stationery,19,70,Mobile Payment,Chittagong,1330
+c6ac1b04-dd1d-4cd1-811f-6bf5379ef467,2024-07-04,প্রিয় দাশগুপ্তা,shubhshrii95@example.org,Rice Cooker,Appliances,4,5772,Cash on Delivery,Dhaka,23088
+fc568b53-24ac-4722-a052-77394d406f1b,2025-02-24,আশালতা মোড়ল,enaamul08@example.net,T-shirt,Clothing,14,1794,Debit Card,Chittagong,25116
+2cd58759-e95d-4761-bc36-dc59e134edfc,2025-02-11,দূর্গা সিং,paanndderaajiyaa@example.net,Rice Cooker,Appliances,9,5772,Mobile Payment,Rangpur,51948
+519894d8-8643-4603-892a-7d7c61935990,2025-03-10,রহিম আবদুল্লাহ,antraa28@example.com,Smartphone,Electronics,11,10860,Cash on Delivery,Mymensing,119460
+4cfd0fc1-39b0-4e2a-996e-684f3db0174e,2025-05-12,ইশতিয়াক মন্ডল,raaokhushi@example.net,Rice Cooker,Appliances,18,5772,Credit Card,Chittagong,103896
+3e2bf9c9-636f-4e5c-a253-e70687ad8b26,2024-09-20,কুনাল ঘোষ,fbrmn@example.net,Jeans,Clothing,21,2130,Mobile Payment,Rajshahi,44730
+0d31812e-30c3-4756-9453-f867b97e6224,2024-09-25,আজাদ আওয়াল,aasiphaaminyaa@example.com,Smartphone,Electronics,14,10860,Credit Card,Chittagong,152040
+553d2625-e833-4da5-9e95-d6953579c143,2024-10-08,তুষার বিশ্বাস,jaamaanaanis@example.net,Rice Cooker,Appliances,6,5772,Mobile Payment,Dhaka,34632
+6589ada1-345a-4934-b42a-2d939aba0f15,2025-06-03,বিনয় বন্দোপাধ্যায়,arnaa78@example.net,Laptop,Electronics,11,65795,Credit Card,Sylhet,723745
+5c11ab6d-42f5-43f5-8ef4-c34d5bf86f3c,2024-12-29,মিনা তালুকদার,ndtt@example.com,Toothpaste,Household,12,30,Cash on Delivery,Khulna,360
+90019ed4-0bb4-41e7-a9f7-53f1501ba851,2025-05-14,সুশান্ত ঠাকুর,mjumdaarkaaberi@example.net,Jeans,Clothing,17,2130,Cash on Delivery,Khulna,36210
+4b91b8cb-6ae6-4582-b852-b3cd9442b5e6,2024-08-11,কুনাল দাশগুপ্তা,ftaalukdaar@example.net,T-shirt,Clothing,6,1794,Credit Card,Rangpur,10764
+566a9ce7-af52-4b94-b186-e47aa7946320,2024-09-20,রিনা হুরাইরা,kaabdullaah@example.net,Pen,Stationery,22,92,Debit Card,Barishal,2024
+23d4526b-2b54-4f7a-9a28-37b2cb8383f2,2025-03-19,মাধুরী প্রামানিক,srkaarprtyy@example.net,Pen,Stationery,5,92,Debit Card,Barishal,460
+6992896e-01a2-4ed1-83ab-b5f10c6b7074,2024-08-05,কাফি খাতুন,aariyaanminyaa@example.net,Detergent,Household,15,50,Mobile Payment,Dhaka,750
+9e2a7324-0f79-48a7-9f8a-14bd74bd0c93,2025-02-15,মাধুরী সিং,taalukdaaraashaaltaa@example.net,Rice Cooker,Appliances,10,5772,Debit Card,Chittagong,57720
+8787ea21-0448-4a22-8308-aa5e694d7b00,2025-03-20,সাব্বির মৃধা,rhmaannishitaa@example.org,Rice Cooker,Appliances,12,5772,Mobile Payment,Rangpur,69264
+863e1f2a-18a8-46ef-ab05-3fc41b656dab,2024-08-09,অজয় রায়,shhidul46@example.org,Detergent,Household,15,50,Mobile Payment,Rajshahi,750
+7580e050-67f1-498c-b594-8a545f804eeb,2025-01-18,শেখর দাশগুপ্তা,baadl01@example.com,Electric Kettle,Appliances,16,2095,Credit Card,Rajshahi,33520
+79db7862-8d7d-4772-a08e-2f5c61177270,2024-07-04,অদৃতা দত্ত,haakimpriiti@example.net,Electric Kettle,Appliances,19,2095,Mobile Payment,Sylhet,39805
+fa323f69-90db-4ad6-94ce-26bec8cce2c2,2025-05-12,প্রশান্ত চৌধুরী,shekhrkhaan@example.com,Detergent,Household,1,50,Cash on Delivery,Sylhet,50
+af36b8cc-1308-4974-ac95-b3ac0beb7c34,2025-06-07,সাব্বির সিনহা,aalimuntaakim@example.org,Laptop,Electronics,19,65795,Credit Card,Barishal,1250105
+24e9bcfd-9647-4f9f-b508-507af622d842,2025-04-01,রায়হান খাতুন,aayuss93@example.net,Detergent,Household,8,50,Mobile Payment,Rajshahi,400
+ad5229dd-639f-4471-9975-0f00d5aba8ae,2025-05-27,ঋষিতা মোড়ল,baadlrhmaan@example.net,Jeans,Clothing,20,2130,Mobile Payment,Khulna,42600
+1901ef87-0dbf-4caf-988a-3f87f96d40f8,2024-11-29,অজিত বোস,bdeb@example.net,Smartphone,Electronics,21,10860,Credit Card,Sylhet,228060
+735741e5-fe1a-4ba9-8896-9c5b45f8c28d,2024-12-20,জয়ন্ত বাগচী,raaoyaal@example.net,Rice Cooker,Appliances,2,5772,Mobile Payment,Khulna,11544
+c5acc354-15f0-4cb4-a14c-721da921cb4c,2025-02-08,করিম তালুকদার,mnddlaashiiss@example.com,Smartphone,Electronics,10,10860,Mobile Payment,Rangpur,108600
+277eb0aa-a247-441d-88ad-0899b630794d,2025-03-27,বাসির হোসাইন,deaakaash@example.com,T-shirt,Clothing,7,1794,Debit Card,Mymensing,12558
+450f69ee-c2e7-4a98-9c23-8d8d71da35b9,2024-07-22,অভি দাস,jaaktaar@example.net,Notebook,Stationery,17,70,Mobile Payment,Khulna,1190
+06b919aa-1a71-47c7-a875-9545832f52c4,2024-07-17,অভি মিঞা,sbishbaas@example.com,Detergent,Household,16,50,Mobile Payment,Mymensing,800
+b98f5dbe-15ae-4e0f-8777-a07f6346d4ef,2025-05-28,আশালতা সিনহা,arnaaraay@example.org,Smartphone,Electronics,15,10860,Credit Card,Khulna,162900
+7e3d5ee4-44b6-4ec1-8d16-f04944d7df9a,2024-08-08,অমল মোড়ল,ddli47@example.org,Jeans,Clothing,22,2130,Cash on Delivery,Mymensing,46860
+3f2086c2-f1b8-4d65-806f-64d65c72aebd,2025-03-19,মাধুরী দেব,ipaanndde@example.com,Smartphone,Electronics,13,10860,Credit Card,Sylhet,141180
+550c2fe9-654c-41d9-b2e6-182801bb819c,2025-05-05,বিনা বোস,bdaashguptaa@example.net,Notebook,Stationery,4,70,Cash on Delivery,Mymensing,280
+4ce953a7-22d9-4db3-982a-2277f966d59f,2024-10-15,কাজল সাহা,jgdiish65@example.com,Detergent,Household,19,50,Cash on Delivery,Mymensing,950
+7db2a7aa-a205-454f-b1e8-c09dbc20b9f2,2025-01-22,জনা আলম,yaacaaryy@example.com,Smartphone,Electronics,22,10860,Debit Card,Barishal,238920
+905881df-ee9b-43e1-9d27-c09a5d71a898,2024-08-29,শ্রাবন্তী দাস,islaammnoj@example.com,Laptop,Electronics,20,65795,Mobile Payment,Rajshahi,1315900
+b15da72d-d4ce-427c-8a94-ae9fcc351e4f,2024-07-09,রহিম হাকিম,omukhaarji@example.com,Smartphone,Electronics,21,10860,Cash on Delivery,Sylhet,228060
+2775ee42-a89e-42f2-80af-bf3f3df51967,2025-03-17,মুশফিক আওয়াল,ljaamaan@example.com,Electric Kettle,Appliances,4,2095,Debit Card,Dhaka,8380
+eb9ed274-ec6a-47ad-81b1-5db988cc4d49,2025-05-16,রহিম সরকার,bosaashbinii@example.net,Laptop,Electronics,10,65795,Cash on Delivery,Chittagong,657950
+1bffa279-15c1-404f-aa16-3354a35fc9c1,2025-04-07,মনোজ বসু,rojinaakumaar@example.net,Smartphone,Electronics,8,10860,Debit Card,Rangpur,86880
+a590fd3c-ad6e-4c57-a520-c3d0fbcdbf5e,2024-11-15,প্রিয়া উদ্দিন,praamaanikshaaon@example.com,Rice Cooker,Appliances,12,5772,Cash on Delivery,Khulna,69264
+84cfee39-bf31-429f-82bb-ad8438d5101f,2025-01-15,ডলি যাদব,aashaa79@example.net,Electric Kettle,Appliances,21,2095,Credit Card,Barishal,43995
+ff69723d-584f-485b-a697-384d801e8690,2024-06-22,আরিয়া মৃধা,hdaas@example.net,Pen,Stationery,14,92,Mobile Payment,Dhaka,1288
+57d337d3-4fd8-4bbb-992c-11072444d301,2024-12-06,খুশি জামান,eprdhaan@example.org,Toothpaste,Household,7,30,Cash on Delivery,Barishal,210
+73d39457-b25f-43df-b8d4-9848702ba49f,2024-10-14,আয়ুষ চৌধুরী,mjumdaarraashedul@example.net,Jeans,Clothing,12,2130,Credit Card,Mymensing,25560
+2a131c1f-ccd0-45c1-ad59-00dd1bff3142,2025-06-09,করিম সরকার,kaaberisaahaa@example.com,Notebook,Stationery,21,70,Mobile Payment,Dhaka,1470
+76492e64-f55d-4e6d-ad26-8b378f5242d3,2024-09-11,বিপাশা হুরাইরা,prdiiptaabaassum@example.com,Electric Kettle,Appliances,9,2095,Debit Card,Chittagong,18855
+e212ab7c-9d36-4cb6-bcc5-7be00779250a,2024-08-28,মিষ্টি মোড়ল,jaamaanmrtyunyjy@example.com,Rice Cooker,Appliances,3,5772,Debit Card,Dhaka,17316
+cbc72f1a-cf08-4a54-b429-9924c0986750,2024-07-07,আরিয়া রাও,arpitaadeb@example.org,Laptop,Electronics,11,65795,Debit Card,Khulna,723745
+abb316a7-4329-4780-9d2c-272175220646,2025-05-14,শ্রাবনী মজুমদার,lshuklaa@example.org,Pen,Stationery,7,92,Credit Card,Rajshahi,644
+753659ef-d873-4ad9-9a1b-af0e591196dc,2025-02-07,প্রত্যয় ঘোষ,muntaakimbndopaadhyaay@example.org,Pen,Stationery,7,92,Debit Card,Mymensing,644
+5f90fc87-2edc-417e-9df0-5d184e2d6255,2025-03-09,লিটন মিশ্র,shubhshriimitr@example.com,T-shirt,Clothing,20,1794,Credit Card,Sylhet,35880
+8991b01a-a2b0-4c4b-bc96-6b552f8d8ded,2025-03-09,আরাধ্যা দত্ত,ikaant@example.org,T-shirt,Clothing,5,1794,Mobile Payment,Khulna,8970
+9e91a71c-7374-4cbf-978c-57d3508850d3,2024-07-03,মুনতাকিম আরা,mbaagcii@example.com,Smartphone,Electronics,22,10860,Credit Card,Khulna,238920
+a72f947d-8164-42cb-8fc3-d7d3f6bd80c7,2024-12-22,শাহজাহান হুরাইরা,khk@example.org,Laptop,Electronics,12,65795,Debit Card,Mymensing,789540
+c2d49b56-cbbe-4980-87e6-7cb090bde900,2024-09-06,আজাদ মৃধা,aashbiniikaant@example.org,Laptop,Electronics,6,65795,Mobile Payment,Dhaka,394770
+be15ad12-90ce-47e9-b513-03b9c7de96ea,2025-04-09,রিনা মিঞা,byaanaarjiimtiyaaj@example.net,T-shirt,Clothing,24,1794,Cash on Delivery,Chittagong,43056
+8ac35ac4-5dea-4737-bdab-3441d2c2a960,2025-04-28,অহনা কাদের,jnaapoddaar@example.net,Smartphone,Electronics,16,10860,Cash on Delivery,Mymensing,173760
+3f5e3b8c-c058-4da5-a757-075bd47f83b1,2024-10-06,আজাদ কাদের,shaahjaahaan17@example.org,Notebook,Stationery,19,70,Credit Card,Barishal,1330
+35ba9357-3ca8-4f31-8fd7-f3b9c68fcba5,2025-04-23,মুনতাকিম সিনহা,nsen@example.org,Notebook,Stationery,8,70,Credit Card,Sylhet,560
+34fa32b6-d043-4e4c-b4e5-0699c8ebe27a,2025-04-21,রাহুল সরকার,aaphsaanaa82@example.com,Rice Cooker,Appliances,21,5772,Credit Card,Dhaka,121212
+4a11be44-4aea-4b8f-b43c-de0afa9fc10e,2025-01-21,শহিদুল তালুকদার,kaajlghoss@example.com,Rice Cooker,Appliances,13,5772,Cash on Delivery,Chittagong,75036
+b390b059-207b-4e21-a7e8-d18eddf6d4ac,2025-05-15,প্রান্ত ঠাকুর,aajm67@example.org,Rice Cooker,Appliances,23,5772,Cash on Delivery,Chittagong,132756
+a0b85755-44ca-45a2-a1e5-18a293d228d4,2024-11-20,রাসেল আওয়াল,senalokaa@example.net,Smartphone,Electronics,11,10860,Debit Card,Chittagong,119460
+e097dedb-efb3-4939-b1d8-18874739cc7b,2024-11-03,রিনা মজুমদার,debinaa@example.net,T-shirt,Clothing,9,1794,Mobile Payment,Rangpur,16146
+d9a09007-5bb4-4c18-b281-87c4aa055442,2024-07-07,শ্রাবন্তী ইসলাম,nnditaajaamaan@example.com,Pen,Stationery,17,92,Mobile Payment,Barishal,1564
+48998e5f-d40e-43ce-92a7-4a4144bed486,2024-10-22,শুভশ্রী প্রামানিক,rpoddaar@example.org,Notebook,Stationery,20,70,Cash on Delivery,Chittagong,1400
+c8acffcf-a04d-4d14-997d-bae10bc2ea72,2025-05-03,অঞ্জনা তালুকদার,priytiaalm@example.org,Smartphone,Electronics,21,10860,Debit Card,Rangpur,228060
+33cb202e-6d84-414d-b541-91eafde91c42,2025-03-07,প্রত্যয় দত্ত,rohit54@example.org,Rice Cooker,Appliances,8,5772,Cash on Delivery,Mymensing,46176
+a61f0b96-e75f-445a-aa1d-3fc65f31273d,2024-08-16,শাওন মৃধা,nnditaade@example.net,Rice Cooker,Appliances,13,5772,Cash on Delivery,Chittagong,75036
+7a10013f-36a2-452b-8047-3139185df528,2024-07-13,নয়ন রায়,apraamaanik@example.net,Toothpaste,Household,14,30,Mobile Payment,Sylhet,420
+fcf7b842-1edf-4bfa-912e-0eb557f479b5,2025-05-13,ইউসুফ রহমান,huraairaaannyaa@example.org,Toothpaste,Household,5,30,Cash on Delivery,Chittagong,150
+1a6b6a7d-1a38-4ad6-8e53-2ffdbb134f02,2024-10-12,প্রত্যয় আবদুল্লাহ,pbaagcii@example.net,Smartphone,Electronics,3,10860,Credit Card,Rangpur,32580
+9033da65-87cf-43fd-9183-6c4f249204c7,2024-06-16,কেয়া যাদব,shekhr26@example.net,Smartphone,Electronics,24,10860,Mobile Payment,Khulna,260640
+379d58f9-dc26-4108-b140-11a1afc2ccfc,2024-07-16,অক্ষয় তালুকদার,bprdhaan@example.com,Notebook,Stationery,2,70,Mobile Payment,Chittagong,140
+46e75a2c-3f6e-4d9d-a3cb-e943ca840003,2025-02-18,আশীষ সরকার,aannd43@example.net,Electric Kettle,Appliances,12,2095,Cash on Delivery,Dhaka,25140
+bf72ae52-304b-4370-8270-12389b5f8f39,2024-11-12,আসাদ বিশ্বাস,hmitr@example.org,Detergent,Household,20,50,Mobile Payment,Mymensing,1000
+122dd7be-980b-481e-a359-5d1f7fe4a42e,2025-01-04,রোহিত মজুমদার,aariyaakhaanm@example.com,Smartphone,Electronics,19,10860,Debit Card,Khulna,206340
+c34201db-2c3a-4cdc-aed5-4a468bde005b,2024-12-12,অর্না আরা,bishbaasishtiyaak@example.org,Rice Cooker,Appliances,8,5772,Credit Card,Mymensing,46176
+f2dcb12b-0f7a-4302-ac2e-28150a3217d2,2025-04-15,শহিদুল জামান,skhaatun@example.com,Notebook,Stationery,12,70,Credit Card,Sylhet,840
+89a3c811-895c-4fde-a3fa-40691519fd38,2025-02-07,প্রিয়ম ঘোষ,baadl83@example.org,Pen,Stationery,8,92,Cash on Delivery,Dhaka,736
+9620bee6-6406-4ace-93a5-e8508950ddd6,2025-02-14,অর্না আওয়াল,dcaudhurii@example.org,Pen,Stationery,22,92,Mobile Payment,Dhaka,2024
+1db14bfc-6f3a-4115-acb4-678c16120aa6,2024-12-06,অন্তরা ব্যানার্জি,raajubishbaas@example.net,T-shirt,Clothing,9,1794,Mobile Payment,Mymensing,16146
+29f0ef7c-02e7-4f89-b395-7a9823204ff5,2024-12-22,প্রিতম ইসলাম,arghy41@example.org,Toothpaste,Household,1,30,Debit Card,Khulna,30
+45a08539-6de8-470a-8e9e-9ebd55c34853,2025-01-02,আশুতোষ সিনহা,haakimbrsstti@example.net,Pen,Stationery,22,92,Cash on Delivery,Chittagong,2024
+dbff00b0-7fe6-40f3-8e31-41ec5c311464,2025-01-19,রোহিত দত্ত,shaant91@example.org,T-shirt,Clothing,24,1794,Credit Card,Chittagong,43056
+0b461173-00a8-4473-8242-5912bda3c162,2025-05-12,আবু আলি,kaaderarpitaa@example.com,Notebook,Stationery,7,70,Cash on Delivery,Rangpur,490
+ee6081ac-2dd0-422e-a66b-f2eaeb93f78c,2025-05-12,শান্ত বিশ্বাস,aajm65@example.com,Rice Cooker,Appliances,11,5772,Debit Card,Mymensing,63492
+5f705b25-9250-4e59-93f0-6822d3748a11,2024-07-29,অনিন্দিতা প্রামানিক,aditikumaar@example.com,Detergent,Household,24,50,Mobile Payment,Chittagong,1200
+ddb449dc-7710-4966-a082-7f7611a529b4,2024-09-30,প্রিয়তি আলম,aalmaariyaan@example.com,Laptop,Electronics,5,65795,Debit Card,Dhaka,328975
+c8d57717-9055-436f-8aa5-f9d3335f2f59,2024-10-09,করিম মন্ডল,aaphiphaa73@example.net,Smartphone,Electronics,9,10860,Cash on Delivery,Rangpur,97740
+cbc4ec0e-c2ae-4674-8beb-4e78e68373a3,2024-09-16,অর্ক মিশ্র,haakimaayushi@example.com,Rice Cooker,Appliances,20,5772,Cash on Delivery,Rangpur,115440
+e09016b6-b186-45a8-96ee-526ba2cd1590,2024-06-16,অর্ক হক,shaant38@example.org,Detergent,Household,7,50,Credit Card,Mymensing,350
+0f554896-f610-496b-bdf5-9abf6b790d01,2024-08-07,নাদিম তালুকদার,haakimaamaayaa@example.com,Electric Kettle,Appliances,4,2095,Mobile Payment,Barishal,8380
+755d814b-5f5b-4255-a544-9887b36ab3ed,2025-03-30,বিরাট তালুকদার,maalihaashuklaa@example.org,Notebook,Stationery,22,70,Mobile Payment,Dhaka,1540
+6f5b09a6-0ff1-451f-915c-b31b97867b12,2025-02-25,প্রান্ত প্রধান,muntaakim65@example.com,Jeans,Clothing,13,2130,Credit Card,Dhaka,27690
+131eb723-3bcd-4203-859e-e67473e7f042,2024-08-30,আনন্দ ঠাকুর,senbaandhn@example.com,Jeans,Clothing,10,2130,Debit Card,Khulna,21300
+893259f3-1ee8-4a4c-a811-34e250647c59,2024-10-30,খুশি কাদের,bipaashaa41@example.org,Detergent,Household,10,50,Mobile Payment,Chittagong,500
+4de1087b-afa1-4a55-8ebe-abaa28597b34,2025-04-29,আজাদ বিশ্বাস,aml13@example.com,Laptop,Electronics,16,65795,Cash on Delivery,Khulna,1052720
+ad5be3c8-0c88-4714-8372-17e0657046ea,2024-10-07,ইজাজ চৌধুরী,jaaoyaal@example.net,T-shirt,Clothing,13,1794,Debit Card,Mymensing,23322
+7648776e-183f-4a70-bff6-579e8cd4b90a,2024-07-22,আলিয়া জাহান,ghosssaumik@example.org,Smartphone,Electronics,13,10860,Credit Card,Rangpur,141180
+5f4b1a97-668c-479b-92dc-42c832b8d8aa,2025-03-06,অলোকা পোদ্দার,mjumdaarpritm@example.org,Laptop,Electronics,15,65795,Credit Card,Mymensing,986925
+cf2e3296-7184-4713-a55f-65b7e709fba6,2024-08-02,সৌম্য মজুমদার,aacaaryybipaashaa@example.org,Pen,Stationery,14,92,Cash on Delivery,Rangpur,1288
+6ee35607-92ea-4324-ac93-e5962b015723,2025-04-28,রায়হান মন্ডল,mishrnnditaa@example.org,Detergent,Household,4,50,Cash on Delivery,Dhaka,200
+2fe922aa-e886-4011-b6f7-a26c5a9c0679,2024-09-27,রাসেল প্রামানিক,taalukdaarrojinaa@example.com,Toothpaste,Household,6,30,Cash on Delivery,Mymensing,180
+8cf9eea9-e1fd-46d1-a978-52217fb75c57,2024-12-16,অভি মৃধা,amukhaarji@example.org,Smartphone,Electronics,14,10860,Credit Card,Rajshahi,152040
+869bc00f-cc15-4a1b-a278-9642a484e035,2024-09-17,হৈমন্তী কুমার,ebndopaadhyaay@example.net,Electric Kettle,Appliances,19,2095,Cash on Delivery,Chittagong,39805
+e9a53368-5812-4eb2-bc13-f47ac80c2195,2025-01-18,ঋষিতা মোড়ল,prdyumn05@example.net,Electric Kettle,Appliances,10,2095,Mobile Payment,Rajshahi,20950
+cf89569d-e550-4736-8780-6e713811b519,2025-04-11,আসাদ মন্ডল,aaphiyaa32@example.org,Toothpaste,Household,6,30,Credit Card,Chittagong,180
+443b1d0f-3dbc-4093-a828-44423f738f50,2025-01-06,আসাদ আলি,lbyaanaarji@example.org,Notebook,Stationery,17,70,Debit Card,Mymensing,1190
+ce63cb1a-5168-4bf2-97af-5bde3c8e9d78,2025-03-26,মুনতাকিম সিনহা,byaanaarjimaadhu@example.net,Toothpaste,Household,24,30,Debit Card,Rajshahi,720
+303014d0-f2c8-4743-9027-e7702460d0d2,2025-05-03,রিনা মিঞা,jydiip70@example.org,Smartphone,Electronics,5,10860,Mobile Payment,Rajshahi,54300
+3803dcee-9a06-4295-bb8d-34470e61065f,2024-06-20,মাধুরী চৌধুরী,taamaannaa32@example.com,T-shirt,Clothing,20,1794,Debit Card,Chittagong,35880
+cd6bb03b-eb35-47a0-ad6e-0291b7893986,2025-05-06,বাসির খানম,mitraasiphaa@example.net,T-shirt,Clothing,21,1794,Cash on Delivery,Barishal,37674
+1c654aa2-c63c-421d-a443-5958eacf33a9,2025-05-07,ঈশানি তালুকদার,aaliyaa91@example.com,Pen,Stationery,19,92,Cash on Delivery,Mymensing,1748
+f9d2014a-22ee-4f07-9296-1fb34d407b28,2024-08-13,রাশেদ মন্ডল,jydiip89@example.com,Toothpaste,Household,5,30,Cash on Delivery,Chittagong,150
+d08012b8-96c5-4fe7-aa60-4892392612e9,2024-08-20,বাকের জামান,jgdiishcaudhurii@example.net,Rice Cooker,Appliances,15,5772,Mobile Payment,Sylhet,86580
+d9cb3540-643f-4dae-92a5-4d04f2dde1f5,2025-04-08,অহনা দাস,taasnim39@example.org,Pen,Stationery,2,92,Mobile Payment,Chittagong,184
+54c7743b-2401-442a-bf05-fbf5efcac577,2025-03-29,আশীষ মজুমদার,kunaal15@example.com,Detergent,Household,15,50,Cash on Delivery,Dhaka,750
+3fe1e8f3-35ad-4e88-83e4-f66802ead2df,2025-03-09,জয়ন্ত মৃধা,caudhuriitny@example.com,Laptop,Electronics,12,65795,Mobile Payment,Chittagong,789540
+f8170ebf-6b6e-44c5-bb8a-a843702f31e5,2024-08-16,শাহজাহান হক,rssitaa61@example.com,Smartphone,Electronics,20,10860,Cash on Delivery,Barishal,217200
+a6a5f0ff-93fb-41d0-9d32-6d9cc9ea356a,2025-04-03,আশালতা দত্ত,zcndr@example.org,Pen,Stationery,18,92,Credit Card,Barishal,1656
+42d943ee-5197-4e75-8523-d4fd4b7f2183,2024-07-23,কুনাল প্রামানিক,usin@example.org,Pen,Stationery,21,92,Debit Card,Mymensing,1932
+fa60ede1-e5eb-472d-b11c-0ac58c0b393a,2024-07-19,রাজু আলি,msen@example.com,Pen,Stationery,16,92,Debit Card,Dhaka,1472
+54c29d5c-19ec-4829-8db5-d4412837f418,2024-08-31,জগদীশ রাও,kaaphi43@example.org,Rice Cooker,Appliances,4,5772,Mobile Payment,Chittagong,23088
+8cb6b0ba-925f-4199-a495-3d5f0cb4e891,2025-05-05,ইশিতা চৌধুরী,ark61@example.com,Notebook,Stationery,21,70,Debit Card,Dhaka,1470
+99a7b99b-a005-45e1-a97a-2846d2eaef18,2024-12-16,অর্ণব কুমার,jyntgaangguli@example.org,Jeans,Clothing,23,2130,Cash on Delivery,Barishal,48990
+4ef03f80-1d91-4e39-9801-4004793bed1b,2025-04-13,শাহাবাজ রহমান,rohit86@example.org,Notebook,Stationery,17,70,Debit Card,Mymensing,1190
+5e911b91-61a6-4444-a2af-a6295efb336e,2024-08-24,অহনা মৃধা,quddin@example.org,Toothpaste,Household,10,30,Cash on Delivery,Rangpur,300
+0fc79913-9072-46ea-84c0-7a9ad64acb1f,2024-08-10,আরিয়া খাতুন,aayushi69@example.org,Toothpaste,Household,22,30,Credit Card,Mymensing,660
+6319629b-d73e-4bb9-8f9c-a17b8db8dadf,2025-04-26,দূর্গা সরকার,erhmaan@example.com,Smartphone,Electronics,11,10860,Credit Card,Rangpur,119460
+da9bccc1-e71c-481a-a511-e61a143665f5,2025-03-17,চয়ন তালুকদার,kraao@example.org,Detergent,Household,9,50,Debit Card,Mymensing,450
+0aeccec7-204d-49da-b156-7f2acef74829,2024-11-24,মনোজ মোড়ল,phaarihaamitr@example.net,Smartphone,Electronics,19,10860,Debit Card,Mymensing,206340
+ba236c22-e92a-4b97-91db-1a374204d733,2025-06-03,অর্না খাতুন,jsaahaa@example.com,Detergent,Household,21,50,Cash on Delivery,Khulna,1050
+7549c9f9-850a-48d4-86b5-18dedb4bb8eb,2025-06-04,আবু রহমান,aprdhaan@example.org,Pen,Stationery,23,92,Credit Card,Sylhet,2116
+952a5345-9682-49ff-910c-4cb725f06b0a,2025-04-03,অর্ণব সিনহা,kaantaashbinii@example.com,Notebook,Stationery,13,70,Mobile Payment,Khulna,910
+620f230b-439e-454c-a930-16eae0bda1ee,2025-02-22,মিম চৌধুরী,enaamulsen@example.org,Notebook,Stationery,3,70,Cash on Delivery,Mymensing,210
+b193c8b8-ae49-4079-9bd0-d4c79e45455e,2024-11-16,শাওন মজুমদার,tnykhaan@example.com,Laptop,Electronics,12,65795,Mobile Payment,Khulna,789540
+567e642e-052d-4b9a-9f58-4603e5a3d8e9,2025-04-26,প্রিয়তি আওয়াল,ltaa13@example.org,Jeans,Clothing,11,2130,Cash on Delivery,Rajshahi,23430
+716fb276-be64-4c2a-b966-71a54cec495b,2025-04-09,বাসির আক্তার,mdeb@example.com,Jeans,Clothing,5,2130,Debit Card,Chittagong,10650
+683c510e-d2ef-493b-a9d6-bb7e361db014,2025-03-27,শ্রাবনী মজুমদার,saahaapritm@example.com,Detergent,Household,4,50,Credit Card,Mymensing,200
+22b9f24c-6744-4fb8-81bd-55d5b5a6571c,2025-04-12,সাবের হোসাইন,raaobiny@example.org,Pen,Stationery,5,92,Cash on Delivery,Khulna,460
+08775804-3fde-4814-8ec0-ad4bd6441a9d,2024-12-07,রোহিত বিশ্বাস,anyjnaa78@example.com,T-shirt,Clothing,6,1794,Debit Card,Barishal,10764
+ae61716a-1fb6-41ae-ac4e-8cbba2aa378c,2024-06-24,জয়ন্ত সিং,eaali@example.net,Laptop,Electronics,14,65795,Mobile Payment,Rajshahi,921130
+29dc073e-5820-43f2-9989-dd6c8d2434f9,2025-05-04,আজম মৃধা,mitrtny@example.org,Rice Cooker,Appliances,20,5772,Mobile Payment,Barishal,115440
+f704d72f-c7a2-4280-927f-8103da9408c0,2024-09-04,কাফি হুরাইরা,mrtyunyjymnddl@example.net,Jeans,Clothing,18,2130,Debit Card,Sylhet,38340
+dd58631b-0522-46b9-8366-663668d576b8,2025-04-12,অর্পিতা খান,rojinaaraao@example.net,Rice Cooker,Appliances,7,5772,Mobile Payment,Barishal,40404
+409ca8f2-3948-4e22-822a-addacd0579e2,2025-02-04,প্রিয়তি রহমান,jnaa65@example.com,Rice Cooker,Appliances,10,5772,Cash on Delivery,Rangpur,57720
+4d59616b-7779-457f-b7dc-8c784082fcda,2025-03-02,কাবেরি সিনহা,taalukdaaraninditaa@example.net,T-shirt,Clothing,7,1794,Debit Card,Sylhet,12558
+5fcd859e-d6e1-4109-97e1-74e6f76b9723,2025-01-17,আয়ুশি ব্যানার্জি,minyaapritm@example.com,Laptop,Electronics,21,65795,Cash on Delivery,Mymensing,1381695
+533c2ed5-a3fe-4479-86c7-9b36fd053963,2025-05-13,তামিম মৃধা,ajycaudhurii@example.org,Notebook,Stationery,4,70,Credit Card,Sylhet,280
+cf5e0f0b-cd67-45df-9b79-04e0ce30a61d,2025-02-01,বাসির আবদুল্লাহ,haakimnaadim@example.com,Smartphone,Electronics,6,10860,Mobile Payment,Barishal,65160
+6365fc2a-6793-4b09-ab27-1effe82b5b36,2025-03-26,তনয় মজুমদার,aashaaltaakhaan@example.net,Notebook,Stationery,5,70,Cash on Delivery,Chittagong,350
+d86d655d-4cd9-4164-81df-62f45bc677ca,2024-08-18,ইজাজ আওয়াল,kaaderarghy@example.net,Jeans,Clothing,15,2130,Mobile Payment,Dhaka,31950
+8f1cb2cc-ceef-4fa8-b9a5-d4d0423701f1,2025-04-05,মিলন ঘোষ,shhidulhk@example.net,Electric Kettle,Appliances,2,2095,Cash on Delivery,Mymensing,4190
+c9c04b7d-6ba4-470b-8e9d-23e9df162ec3,2025-05-23,রোহিত খান,bipaashaa17@example.org,Jeans,Clothing,13,2130,Credit Card,Mymensing,27690
+948f664a-9565-457b-a267-d32fddcbf4bc,2025-02-09,প্রদীপ বিশ্বাস,mishraarunni@example.com,Jeans,Clothing,1,2130,Mobile Payment,Chittagong,2130
+daaf7529-deef-482a-8dd7-015869c165ae,2024-08-10,তনয় বোস,jaabdullaah@example.com,Toothpaste,Household,5,30,Debit Card,Dhaka,150
+c768b07f-2e2b-4c6c-b736-0c4fdcc5d975,2024-07-14,প্রিয়া প্রামানিক,monaalisaa00@example.com,Detergent,Household,16,50,Debit Card,Barishal,800
+c606ddc4-c2dd-401d-b59a-15334605ec0e,2024-08-17,কেয়া সিং,brmntaamaannaa@example.com,Rice Cooker,Appliances,20,5772,Credit Card,Chittagong,115440
+6dd49c96-6744-4b9e-aded-cba5a22c3d4f,2024-12-15,আবু আক্তার,ahnaabishbaas@example.com,Laptop,Electronics,9,65795,Debit Card,Khulna,592155
+30c9a2be-87f1-448c-954e-7948c1c0c5e3,2024-06-19,অদৃতা পাল,shaahaabaajcndr@example.org,Notebook,Stationery,24,70,Cash on Delivery,Chittagong,1680
+96b31f4a-80da-48ca-a230-5d271a4b1606,2024-10-09,অভিষেক কান্ত,taamim78@example.net,Detergent,Household,8,50,Mobile Payment,Chittagong,400
+e3524444-6f04-4f36-967c-5d44862c92fd,2025-03-06,মিলন সিং,prshaant26@example.org,Laptop,Electronics,8,65795,Cash on Delivery,Barishal,526360
+fc21109b-ba27-4c64-b96d-1ffb3a799efa,2024-08-02,সুশান্ত কুমার,rudrbsu@example.net,Smartphone,Electronics,4,10860,Cash on Delivery,Dhaka,43440
+600c9c71-0990-4647-8ac8-d87ea689d07f,2025-05-19,আশ্বিনী রাও,kaantshubh@example.net,Notebook,Stationery,19,70,Debit Card,Khulna,1330
+b0937085-0c59-41f8-850d-cbfed60bf603,2024-07-27,রাসেল হক,bishbaasmilaa@example.net,Detergent,Household,14,50,Credit Card,Mymensing,700
+af8ca888-b1f8-4ad9-b49b-508927335670,2025-02-12,প্রত্যয় মোড়ল,srkaarphaujiyaa@example.net,Jeans,Clothing,19,2130,Cash on Delivery,Khulna,40470
+d4a5a81e-6b38-4a0a-a31d-260bb362cd55,2025-05-27,প্রশান্ত সিনহা,kumaarraaj@example.org,Smartphone,Electronics,17,10860,Mobile Payment,Chittagong,184620
+3322c68b-9be7-4aec-b2da-81f07f6bd3c6,2025-04-11,সাবের বিশ্বাস,kbitaa42@example.org,Notebook,Stationery,18,70,Credit Card,Rangpur,1260
+352b6ec8-e90d-41cb-bf11-1a368c52d271,2025-03-07,প্রিয়া বিশ্বাস,bishbaasraahul@example.org,Rice Cooker,Appliances,2,5772,Cash on Delivery,Mymensing,11544
+7e7d9a19-ab45-4578-92fb-acf6d5d1c669,2024-08-09,সৌমিক সরকার,paalikbaal@example.net,Detergent,Household,24,50,Credit Card,Mymensing,1200
+fa2fbd74-fd19-45cc-b4ed-a60e3b2d520b,2024-10-05,রাশেদুল চৌধুরী,raaocnycl@example.com,Smartphone,Electronics,12,10860,Debit Card,Chittagong,130320
+500d92a7-ad40-4244-8d35-66ef5c370739,2024-11-25,ইকবাল তালুকদার,praamaanikarnnb@example.net,Pen,Stationery,24,92,Mobile Payment,Khulna,2208
+5b86ea69-5423-4dbe-aba6-b158a5aecf37,2025-05-26,নিশিতা তালুকদার,raashedul21@example.com,Laptop,Electronics,12,65795,Mobile Payment,Khulna,789540
+4596da75-74df-483f-b659-f1886676cc75,2025-05-03,শাহাবাজ হুরাইরা,sjiibbrmn@example.net,Rice Cooker,Appliances,23,5772,Cash on Delivery,Khulna,132756
+f1458426-fb48-4ded-8f03-7337b9f6143b,2025-05-06,আনন্দ মিশ্র,lsultaanaa@example.net,T-shirt,Clothing,3,1794,Cash on Delivery,Dhaka,5382
+9c81fc46-5bcd-436c-8777-4fae613758c3,2024-06-24,ইউসুফ খান,aprdhaan@example.com,Detergent,Household,7,50,Credit Card,Rajshahi,350
+a7ac590c-42f9-4f92-9036-ca810bc4d7ba,2024-10-13,নয়ন মজুমদার,taabaassumaajm@example.com,Laptop,Electronics,11,65795,Mobile Payment,Rangpur,723745
+a4331510-ad21-44cc-a9e8-f0d8588309de,2024-11-09,আদি আচার্য্য,adrtaakaader@example.com,Notebook,Stationery,16,70,Mobile Payment,Dhaka,1120
+c05db774-132a-4e58-aa57-e880de9205ea,2024-12-20,প্রান্ত মিঞা,tny83@example.net,Jeans,Clothing,10,2130,Mobile Payment,Dhaka,21300
+d12daea8-673d-4920-a0ee-64baa4b0718e,2024-09-12,প্রদ্যুম্ন মন্ডল,fdeb@example.com,Toothpaste,Household,9,30,Credit Card,Mymensing,270
+7f53dc0a-fb0d-4cda-9e63-926150e96888,2025-03-29,অদৃতা চ্যাটার্জি,craao@example.net,Electric Kettle,Appliances,13,2095,Cash on Delivery,Rangpur,27235
+1744ee3f-d36e-41bd-800b-1f5e8c91bd13,2025-04-16,প্রিয়তি সেন,saanjidaaaalm@example.com,Toothpaste,Household,6,30,Cash on Delivery,Barishal,180
+d10bf4dc-0de4-4af4-9347-94cc5d04032d,2024-09-07,রাশেদুল আলম,tbsu@example.com,Toothpaste,Household,17,30,Mobile Payment,Chittagong,510
+a8ae57b9-c262-4ad0-98f1-a1e41d30a290,2024-09-07,মিলন মজুমদার,iishaani85@example.net,Electric Kettle,Appliances,3,2095,Cash on Delivery,Khulna,6285
+2a061609-e599-4d3c-8bb8-1d381b37ef19,2024-12-21,শান্ত চ্যাটার্জি,taasnim33@example.org,Notebook,Stationery,10,70,Mobile Payment,Chittagong,700
+3730dfba-6494-4d5c-9a29-6905ee22a70b,2024-12-07,এনামুল রহমান,shubh60@example.net,Smartphone,Electronics,11,10860,Mobile Payment,Sylhet,119460
+1f8b4af1-96bc-432d-ac11-7babd6642fe8,2025-04-08,মিনা সিনহা,shraabntiitaalukdaar@example.net,Rice Cooker,Appliances,20,5772,Cash on Delivery,Khulna,115440
+ef705d01-8da0-4d88-8c6f-3051bc788423,2024-11-28,শাহাবাজ জামান,aaktaaraaraao@example.net,Rice Cooker,Appliances,12,5772,Cash on Delivery,Dhaka,69264
+632d0302-1a82-433c-a0dd-a0ffd0b3d752,2025-02-23,প্রিয়াঙ্কা সেন,mkhaanm@example.net,Toothpaste,Household,20,30,Cash on Delivery,Sylhet,600
+65daced0-460a-4125-bf8c-93d4c32afc4a,2024-10-24,রাসেল প্রামানিক,kaajlghoss@example.net,Laptop,Electronics,3,65795,Cash on Delivery,Mymensing,197385
+b63d65d5-505c-4527-9c57-546d8c3d031a,2025-03-26,আরুণি বিশ্বাস,phaujiyaagaangguli@example.net,Notebook,Stationery,24,70,Debit Card,Dhaka,1680
+21f6c63d-ac20-4f11-abd3-3927586528e6,2025-03-15,আরাধ্যা সেন,raaj58@example.com,T-shirt,Clothing,20,1794,Cash on Delivery,Dhaka,35880
+aacad101-f153-4f68-9215-583a9532caba,2025-03-15,সাব্বির জামান,hbishbaas@example.org,T-shirt,Clothing,3,1794,Debit Card,Mymensing,5382
+0d95aaf5-2534-41bc-a180-b78a06783c34,2025-02-28,তনয় মৃধা,krimbishbaas@example.org,Toothpaste,Household,13,30,Credit Card,Khulna,390
+c8cba592-b0ca-42eb-8fe1-621ad6e1ba00,2024-10-05,সৌমিক রাও,bndopaadhyaaybaandhn@example.org,Rice Cooker,Appliances,12,5772,Mobile Payment,Barishal,69264
+bd4f6118-acef-45c4-9e37-90fb9db94eee,2025-01-17,কাফি হুরাইরা,grhmaan@example.net,Smartphone,Electronics,19,10860,Debit Card,Mymensing,206340
+0c06df90-aa1c-4023-b164-423549a2afde,2025-06-07,মুশফিক হুরাইরা,kaaberi00@example.net,Electric Kettle,Appliances,11,2095,Mobile Payment,Rajshahi,23045
+de6cf36b-9edd-4182-b3fd-862d4057e470,2025-04-12,রাসেল আলি,aasiphaa89@example.org,Smartphone,Electronics,1,10860,Debit Card,Barishal,10860
+318910ec-f6db-42b6-b993-ff63c6b18d94,2024-10-05,কবিতা তালুকদার,jydiipbndopaadhyaay@example.com,Notebook,Stationery,13,70,Credit Card,Sylhet,910
+8e7d3f5a-4773-466a-adb2-b0200a670143,2024-09-23,চঞ্চল পোদ্দার,demithilaa@example.net,Detergent,Household,23,50,Cash on Delivery,Rajshahi,1150
+27591ad4-0a39-4bf7-a7a1-58a0efffa2f4,2025-06-08,আদি জামান,ebndopaadhyaay@example.net,Pen,Stationery,10,92,Cash on Delivery,Rajshahi,920
+f4fd25b7-384f-4e3b-8680-4a8a515f352c,2024-08-23,অলোকা সরকার,khushisen@example.org,Smartphone,Electronics,5,10860,Credit Card,Barishal,54300
+369e5af8-e226-49ee-b8a0-6ffe597278c5,2025-02-25,মিলন হোসাইন,sushaant98@example.com,T-shirt,Clothing,23,1794,Cash on Delivery,Chittagong,41262
+c08bd674-d2dd-4e26-8fb3-a134ff2336e9,2025-02-20,আবির মজুমদার,pcaudhurii@example.net,Toothpaste,Household,22,30,Mobile Payment,Chittagong,660
+f57a431e-3e6b-44fd-9f02-7cbfeb29d912,2024-06-28,ঋষিতা বাগচী,mitrikbaal@example.net,Notebook,Stationery,18,70,Mobile Payment,Sylhet,1260
+e94d4fbe-0653-4d47-8867-7b30b9567731,2024-12-30,মোস্তাফিজ জামান,chosaain@example.com,T-shirt,Clothing,23,1794,Debit Card,Mymensing,41262
+5200044b-3148-4df8-a6ca-8d50e5f5c891,2024-12-29,অর্ণব প্রামানিক,cyaattaarjimnoj@example.net,Notebook,Stationery,8,70,Credit Card,Rajshahi,560
+dd6d6b41-3692-4531-8609-7cd8a127dc6b,2025-03-06,আব্বাস উদ্দিন,vcndr@example.net,T-shirt,Clothing,8,1794,Cash on Delivery,Dhaka,14352
+b784ae08-758f-48fa-8614-ac41275c75dc,2024-10-19,অভি তালুকদার,aaliaabbaas@example.net,Toothpaste,Household,18,30,Mobile Payment,Barishal,540
+3a46fbe3-d255-44de-9330-ba8312087e20,2025-06-01,রহিম মোড়ল,bsen@example.com,Notebook,Stationery,5,70,Credit Card,Chittagong,350
+1e494952-ac5d-4e57-a3b6-64f40452f779,2025-01-06,অভিষেক সিনহা,cndrsaaber@example.net,Detergent,Household,13,50,Cash on Delivery,Rangpur,650
+af95be79-c971-4f51-8a32-bb221b2bb2ec,2024-10-08,অনন্যা প্রধান,zmishr@example.net,Electric Kettle,Appliances,19,2095,Credit Card,Khulna,39805
+889157fd-2804-40ac-b957-41bb07e3c39a,2024-09-06,শাওন রাও,monaalisaa24@example.net,Toothpaste,Household,21,30,Credit Card,Barishal,630
+cb863dea-f722-4fbe-aa06-f94be310ff72,2025-05-15,মোস্তাফিজ চৌধুরী,rudraacaaryy@example.org,Rice Cooker,Appliances,22,5772,Mobile Payment,Khulna,126984
+8982cbf8-64e2-49c0-98be-5ff0929daf9f,2025-01-11,আয়ুষ বিশ্বাস,shekhr68@example.org,Notebook,Stationery,21,70,Debit Card,Khulna,1470
+9dec2b83-3885-4f7e-af1a-25a829344e15,2025-05-03,এনামুল তালুকদার,maadhugaangguli@example.net,Electric Kettle,Appliances,17,2095,Credit Card,Chittagong,35615
+12b99a50-8cb6-41f0-a509-6396761579e7,2024-10-03,অলোকা পোদ্দার,islaamaaktaaraa@example.com,Notebook,Stationery,5,70,Mobile Payment,Khulna,350
+20d2b528-5b6d-4b7c-94b2-a582f3981e9e,2025-02-28,আশালতা চ্যাটার্জি,nusraat13@example.com,T-shirt,Clothing,11,1794,Debit Card,Mymensing,19734
+9dc89e1a-540e-4d01-b35d-88f37c6166df,2025-02-24,ইশতিয়াক সিনহা,muntaakim62@example.org,Notebook,Stationery,10,70,Credit Card,Sylhet,700
+38b5e89a-c921-457c-bf05-557c502ed818,2025-03-16,রাশেদ মৃধা,ajit57@example.com,Jeans,Clothing,21,2130,Mobile Payment,Khulna,44730
+4e336644-c657-40ae-9bd6-7d4d7202fae5,2024-12-19,অদিতি প্রামানিক,aacaaryyarnnb@example.net,Detergent,Household,20,50,Credit Card,Khulna,1000
+e2e6e7a6-bbc9-4473-8363-589c32495cff,2025-02-11,সুশান্ত তালুকদার,mnddlaaktaaraa@example.net,Pen,Stationery,19,92,Debit Card,Khulna,1748
+36777be4-970c-4eb4-84ea-4ece67b6e467,2025-05-30,প্রিতম সরকার,xyaadb@example.com,Pen,Stationery,24,92,Mobile Payment,Dhaka,2208
+96f01335-c5ab-48da-a435-4021392a9fc4,2025-03-24,নাইম তাবাসসুম,grhmaan@example.org,Laptop,Electronics,3,65795,Credit Card,Sylhet,197385
+02b622e9-808e-48d2-9d26-4b1b6593b659,2025-02-25,সৌম্য দত্ত,priyaasaahaa@example.org,Jeans,Clothing,19,2130,Cash on Delivery,Dhaka,40470
+a8cf4f62-90d9-470c-b2de-c75c90fcc9f1,2025-05-17,রাজু বসু,hosaainrinaa@example.org,Rice Cooker,Appliances,21,5772,Mobile Payment,Sylhet,121212
+3be8a5df-5e93-4de0-83ac-e8751017ab44,2024-06-29,আরুণি রায়,aariyaa77@example.org,Rice Cooker,Appliances,8,5772,Cash on Delivery,Sylhet,46176
+52f6531f-a605-47c9-bb07-ee930a3731ab,2024-07-23,সাবের মৃধা,aaktaaraa89@example.org,Rice Cooker,Appliances,3,5772,Credit Card,Khulna,17316
+5d8416e0-60e6-46ff-a757-43f9606cc2f5,2025-01-27,অলোকা রায়,antraa38@example.com,Rice Cooker,Appliances,14,5772,Cash on Delivery,Barishal,80808
+585409d9-de22-4c3f-9136-6db15a578607,2024-12-19,মিম হক,rhmaanarnnb@example.com,Jeans,Clothing,11,2130,Debit Card,Mymensing,23430
+83b8fa05-13bc-4dc6-bae0-acdb2a6524af,2025-02-17,একরামুল প্রামানিক,aashutossbos@example.net,Toothpaste,Household,24,30,Mobile Payment,Rangpur,720
+a93e7b5b-1e4a-43a7-9123-f7c1b7a1267e,2024-09-10,মুনতাসির আলম,ejaamaan@example.org,T-shirt,Clothing,12,1794,Credit Card,Mymensing,21528
+d5576899-a5b2-47ea-a947-6f54973e129c,2024-11-19,প্রান্ত চৌধুরী,haimntiisin@example.org,Jeans,Clothing,15,2130,Credit Card,Sylhet,31950
+e40b50e4-0a08-4989-833c-8f55a1298fa2,2025-01-21,আদি দত্ত,prdyumn86@example.net,Rice Cooker,Appliances,8,5772,Debit Card,Chittagong,46176
+04c44853-a33b-4dfd-9048-65c6f8205aa7,2025-05-20,নাইম তালুকদার,priyaakaader@example.com,Laptop,Electronics,10,65795,Cash on Delivery,Rangpur,657950
+6928043e-d492-451a-b828-3a052baa43c9,2025-02-01,তন্ময় সেন,kunaal57@example.net,Jeans,Clothing,6,2130,Mobile Payment,Mymensing,12780
+60d2759a-3ad5-4382-919f-b03e97314c91,2024-11-09,আনন্দ কুমার,aamaayaakhaanm@example.org,Jeans,Clothing,6,2130,Cash on Delivery,Barishal,12780
+79d29001-2d6b-4a4e-98a7-06099b02c535,2025-05-29,অহনা রাও,demim@example.net,Rice Cooker,Appliances,10,5772,Cash on Delivery,Dhaka,57720
+8a0ea57a-9a7d-409d-a6e8-790b215d3b1f,2025-04-30,শুভ সরকার,cbrmn@example.net,Smartphone,Electronics,13,10860,Cash on Delivery,Rajshahi,141180
+f03c664b-3abf-4c65-add0-13f387a20e22,2025-04-20,বিনা মজুমদার,khaatunajit@example.com,Jeans,Clothing,19,2130,Mobile Payment,Dhaka,40470
+e8fb5a96-3b85-46e1-840f-54057a25ed81,2025-05-12,আয়ুষ সিনহা,mmrdhaa@example.org,Laptop,Electronics,10,65795,Cash on Delivery,Barishal,657950
+01d23a76-ca17-4780-be5f-902fb58ac738,2025-01-23,অদিতি সরকার,mukhaarjisaanjidaa@example.org,Detergent,Household,18,50,Credit Card,Chittagong,900
+68aa1236-50de-4f43-8de5-c35ab0117b0a,2024-10-31,অক্ষয় মোড়ল,iusuph86@example.net,Electric Kettle,Appliances,5,2095,Mobile Payment,Mymensing,10475
+fde6849b-468b-42af-9ca4-364d5d9ad9f1,2025-03-04,একরামুল হুরাইরা,xaali@example.net,Electric Kettle,Appliances,12,2095,Credit Card,Rangpur,25140
+fd0ee0b6-40f7-424b-bbd7-b4bf8e0eabb7,2024-10-10,বাঁধন মুখার্জি,sumaaiyaabndopaadhyaay@example.net,Laptop,Electronics,19,65795,Debit Card,Mymensing,1250105
+b3061300-c879-4932-b254-0ab73ad24ac8,2024-08-14,অজয় সরকার,zpaal@example.net,Notebook,Stationery,10,70,Credit Card,Rangpur,700
+b4f02f6f-af3f-4d9a-b272-5aa79d30c42e,2024-07-03,লিটন আচার্য্য,mitrmisstti@example.net,Notebook,Stationery,15,70,Mobile Payment,Chittagong,1050
+4359ff43-1067-43b6-9690-636b6f74e55d,2024-09-07,অভি আক্তার,nsin@example.net,T-shirt,Clothing,4,1794,Cash on Delivery,Mymensing,7176
+f6a9e3e3-b62b-4cb1-8956-0c3685609e8a,2025-01-31,তন্ময় মন্ডল,mpraamaanik@example.net,Toothpaste,Household,18,30,Mobile Payment,Khulna,540
+4937b90f-84a5-418b-8dcd-0a34ee462fcd,2024-08-27,নয়ন সিনহা,cynbos@example.org,Jeans,Clothing,20,2130,Cash on Delivery,Dhaka,42600
+284e4cd4-f9c3-4e05-8012-d399a7af5545,2024-07-16,রায়হান মজুমদার,lsen@example.org,Laptop,Electronics,2,65795,Debit Card,Mymensing,131590
+b4209103-bca7-46eb-83ef-0f77848ac924,2024-07-09,বিনয় মৃধা,shaahaabaaj43@example.net,Rice Cooker,Appliances,17,5772,Cash on Delivery,Khulna,98124
+ee01b9e0-746b-461a-b1cc-6738f68ae9b7,2024-11-16,অর্পিতা পোদ্দার,kbitaapaanndde@example.net,Pen,Stationery,17,92,Debit Card,Mymensing,1564
+5708013e-4b54-4670-80cf-b1db1287e313,2024-07-28,লতা আক্তার,priyaangkaa69@example.com,Pen,Stationery,11,92,Debit Card,Rangpur,1012
+56f401e5-c1e9-44fa-be47-27fdc51c91f4,2025-04-10,মিনা সিনহা,minyaaraaj@example.com,Pen,Stationery,24,92,Mobile Payment,Mymensing,2208
+c9e55c47-a237-48c1-a1f6-dfbe114b3c79,2024-09-06,আশালতা বন্দোপাধ্যায়,hbyaanaarji@example.net,Notebook,Stationery,17,70,Cash on Delivery,Sylhet,1190
+436ae2bb-d509-4e07-b368-d836027d3808,2024-09-17,আজম মোড়ল,prtyy82@example.com,Rice Cooker,Appliances,1,5772,Mobile Payment,Mymensing,5772
+e4f1e8e8-37f3-432b-9a81-762a5059f77b,2025-01-21,ইজাজ বিশ্বাস,puddin@example.net,Smartphone,Electronics,14,10860,Mobile Payment,Dhaka,152040
+34ef71df-43f1-4b58-9f6c-0d603df76a69,2024-09-10,আশীষ বসু,shubhbndopaadhyaay@example.org,Pen,Stationery,16,92,Mobile Payment,Rajshahi,1472
+7e1f48c4-a9d6-490d-b4ad-fa22ad0205f5,2025-02-06,আরিয়ান মন্ডল,nusraat57@example.net,Laptop,Electronics,19,65795,Cash on Delivery,Khulna,1250105
+2ed0b0b2-7da5-4b6e-8654-e77dde67a278,2025-04-05,আশ্বিনী মোড়ল,shubhshriibsu@example.org,Notebook,Stationery,21,70,Cash on Delivery,Khulna,1470
+7a732f35-6c55-40f0-8c9c-f41c86969901,2025-06-12,অনিন্দিতা সরকার,aashaa27@example.org,Jeans,Clothing,2,2130,Credit Card,Rajshahi,4260
+50ce857f-75c7-4fb6-84a9-1789b2c027e8,2025-03-07,অর্ক বিশ্বাস,upaal@example.com,Laptop,Electronics,15,65795,Mobile Payment,Rangpur,986925
+2fe938e4-427b-4ffb-9ca1-adcc9cdf0664,2025-01-12,করিম মৃধা,xpoddaar@example.org,T-shirt,Clothing,14,1794,Debit Card,Rangpur,25116
+6b49acc6-35e5-44e0-ac87-85467faf6458,2025-03-12,বৃষ্টি আবদুল্লাহ,caacaaryy@example.org,Notebook,Stationery,20,70,Cash on Delivery,Dhaka,1400
+936db4a7-fab1-496a-a192-56139247e851,2025-03-06,অর্ণব পাণ্ডে,duurgaataabaassum@example.com,T-shirt,Clothing,17,1794,Debit Card,Mymensing,30498
+f58ab7c7-cccf-4130-a556-03d4323132fa,2025-03-26,রাজু আচার্য্য,ddlihaakim@example.org,Rice Cooker,Appliances,17,5772,Cash on Delivery,Mymensing,98124
+a1726883-d971-4e00-a4ad-5e9bfedd22d9,2024-12-30,ঋষিতা মন্ডল,aabbaas89@example.org,T-shirt,Clothing,15,1794,Mobile Payment,Mymensing,26910
+29d0c613-b0c7-4002-9956-699065fdaadb,2024-07-06,আশুতোষ সাহা,aaoyaalraashed@example.com,Detergent,Household,20,50,Cash on Delivery,Rajshahi,1000
+8eb7c306-8f73-498e-9c3d-0d5f5c6801d6,2025-06-09,নন্দিতা আবদুল্লাহ,raaorudr@example.com,Jeans,Clothing,9,2130,Mobile Payment,Rajshahi,19170
+9b0707e5-f68e-4e81-adf9-568bde0bde18,2024-08-29,শ্রাবন্তী দাস,shhidul58@example.com,Detergent,Household,10,50,Debit Card,Barishal,500
+e3bef3d6-726a-430d-bc8c-fa8fc655a597,2024-07-13,নাইম হাকিম,kunaalpaal@example.com,Toothpaste,Household,16,30,Mobile Payment,Sylhet,480
+679f2f42-9256-4707-9cc0-5b67a19b224a,2025-05-08,অজিত প্রামানিক,aabu55@example.net,Detergent,Household,4,50,Cash on Delivery,Rangpur,200
+9afa8267-4479-4214-b5de-f8074a965478,2025-02-18,নাদিম হাকিম,aasiphaa87@example.com,Toothpaste,Household,5,30,Mobile Payment,Dhaka,150
+05e9f407-daad-40b1-af13-2a6d2ad55c0b,2024-07-31,করিম মৃধা,khaankunaal@example.com,Detergent,Household,23,50,Credit Card,Mymensing,1150
+efd1b588-1054-42d5-9876-35761a5ed196,2025-05-20,সুরভি চৌধুরী,saahaaaaraadhyaa@example.org,Rice Cooker,Appliances,21,5772,Mobile Payment,Barishal,121212
+27c00f89-9e3b-41b3-8330-125c1a9b0d42,2024-07-15,কাবেরি ব্যানার্জি,aajmkumaar@example.com,Jeans,Clothing,7,2130,Mobile Payment,Sylhet,14910
+86d895e5-219b-406d-a05c-8491a06109db,2025-05-04,আকাশ কান্ত,raayhaan77@example.net,T-shirt,Clothing,4,1794,Debit Card,Rajshahi,7176
+71e15b9f-8c6d-468e-85bc-f3baef52d36e,2024-08-04,সাব্বির প্রামানিক,hbegm@example.net,Laptop,Electronics,22,65795,Debit Card,Rajshahi,1447490
+e8af301f-4f45-46f7-88a6-13b4a3b81f92,2024-10-25,শ্রাবন্তী বিশ্বাস,aalibaasir@example.com,Laptop,Electronics,4,65795,Cash on Delivery,Mymensing,263180
+4db6f475-27dd-4ac4-8282-b6e46986305a,2024-06-17,ইমন মজুমদার,misstti80@example.net,Rice Cooker,Appliances,4,5772,Debit Card,Dhaka,23088
+c166a8b3-f26b-4ebf-bdef-3b8eec0dfc3a,2024-12-15,আবু মোড়ল,aaphsaanaa30@example.net,Notebook,Stationery,6,70,Cash on Delivery,Barishal,420
+e1d55f85-6967-4586-b046-30085fa72012,2025-01-16,রায়হান কাদের,rojinaayaadb@example.com,Rice Cooker,Appliances,21,5772,Debit Card,Sylhet,121212
+6c17e150-1447-46cc-8352-acea3878becf,2025-02-10,প্রশান্ত পাণ্ডে,shaarmin84@example.com,Toothpaste,Household,10,30,Credit Card,Chittagong,300
+2eb23ca3-1186-4a93-9a7d-cc533020cf06,2024-08-05,ইকবাল মন্ডল,ssrkaar@example.net,Pen,Stationery,8,92,Credit Card,Khulna,736
+04f718c8-5215-4503-b012-f8197df37378,2024-08-11,আকাশ প্রামানিক,kumaarimtiyaaj@example.org,Electric Kettle,Appliances,6,2095,Credit Card,Rangpur,12570
+0219a9c7-ba23-407a-b03c-1286b71714cd,2024-09-11,অক্ষয় চৌধুরী,vminyaa@example.com,Rice Cooker,Appliances,6,5772,Mobile Payment,Dhaka,34632
+7f96dd35-cca9-4089-8925-4bb54fc37d4e,2024-11-04,অহনা মজুমদার,mitrnyn@example.com,Laptop,Electronics,10,65795,Credit Card,Mymensing,657950
+8b0ea0b9-1246-4474-a475-c0eec6913069,2024-12-12,তনয় পোদ্দার,hbishbaas@example.net,Detergent,Household,15,50,Cash on Delivery,Khulna,750
+f997c779-c56f-45e6-a282-1d613fbbff57,2024-12-02,সুশান্ত কান্ত,binaadaashguptaa@example.net,Notebook,Stationery,15,70,Mobile Payment,Rajshahi,1050
+790b185c-355c-4a9c-bb6b-f1dcaa7f7e06,2024-11-11,আয়ুশি বন্দোপাধ্যায়,mehjaabinaacaaryy@example.net,Smartphone,Electronics,11,10860,Debit Card,Barishal,119460
+1f44aa88-855b-4c5b-8cb1-457eeffad15b,2024-09-19,প্রিয়তি বিশ্বাস,tussaar31@example.org,Detergent,Household,23,50,Debit Card,Dhaka,1150
+03db7a2e-5313-40e0-af25-37cea206527c,2024-08-16,নিশিতা হোসাইন,saahaaaanis@example.org,Toothpaste,Household,10,30,Debit Card,Khulna,300
+c891d55d-94c1-46b9-8ac0-13d5f80590f0,2025-03-08,ইশিতা মজুমদার,praamaanikaashutoss@example.com,Pen,Stationery,21,92,Cash on Delivery,Rangpur,1932
+56a2d49d-9e5f-4273-af9a-116817661795,2025-06-09,অন্তরা খানম,rojinaa28@example.org,Notebook,Stationery,11,70,Credit Card,Rangpur,770
+5115d7ee-3b90-408e-bce3-456320363a73,2025-01-15,বাঁধন কাদের,abhimukhaarji@example.com,Smartphone,Electronics,6,10860,Debit Card,Barishal,65160
+e60ec813-402d-40fa-a27d-ceccb972393a,2024-06-28,মিলা সরকার,aayushi73@example.net,Toothpaste,Household,8,30,Credit Card,Sylhet,240
+52dcbffd-5900-4d65-8b2a-b7592fc6c4e6,2025-03-24,নিশিতা সিনহা,priymshuklaa@example.com,Electric Kettle,Appliances,8,2095,Cash on Delivery,Sylhet,16760
+8aa6b006-436a-4b9d-91c5-6a004bb13407,2024-11-02,অর্পিতা সরকার,baaoyaal@example.net,Toothpaste,Household,10,30,Credit Card,Sylhet,300
+9ec5405d-c6a9-4598-9d34-0833db592a19,2024-09-13,অভিষেক হক,aaraadhyaahaakim@example.net,Toothpaste,Household,23,30,Debit Card,Dhaka,690
+5295ea96-487b-45d7-9cf0-23dd277529a2,2024-11-19,ঋষিতা চট্টোপাধ্যায়,cttttopaadhyaaytnmy@example.org,Smartphone,Electronics,15,10860,Mobile Payment,Khulna,162900
+33bb7382-0801-4e83-9f9d-39102dbb45bd,2024-07-24,কাজল তালুকদার,yaadbsumaaiyaa@example.com,Electric Kettle,Appliances,22,2095,Mobile Payment,Chittagong,46090
+971df5fd-b389-40ce-9fbc-879e869c3a8e,2024-09-20,রোহিত বিশ্বাস,bishbaasmnoj@example.net,Detergent,Household,12,50,Debit Card,Rajshahi,600
+d5030b43-e3c7-4a9a-adab-ddab7dccc026,2024-07-14,অন্তরা মজুমদার,ybrmn@example.net,T-shirt,Clothing,16,1794,Debit Card,Barishal,28704
+440c7e5b-9def-47b4-92da-43ec0eecc013,2025-01-04,অভিষেক মৃধা,minyaaaditi@example.org,Pen,Stationery,12,92,Cash on Delivery,Barishal,1104
+881af04f-3b23-4eed-b9a4-de2b19e9e3a4,2024-11-09,অজয় রায়,maadhuaali@example.net,Notebook,Stationery,22,70,Debit Card,Rajshahi,1540
+bf00f56c-6a49-49a6-8ee2-5e54bfcb3388,2024-07-23,বাঁধন হাকিম,gjaahaan@example.org,Pen,Stationery,3,92,Cash on Delivery,Mymensing,276
+66cc7376-8cca-4963-ae2e-77a4cadec379,2024-12-26,চঞ্চল হাকিম,muntaakim85@example.com,Smartphone,Electronics,19,10860,Credit Card,Dhaka,206340
+6e3b0507-a21c-4209-83a1-962d698f546d,2025-04-29,বাসির সিনহা,maadhuriijaamaan@example.com,Notebook,Stationery,17,70,Debit Card,Khulna,1190
+be9cafcf-ed17-46e9-8cdc-718dc4057420,2024-09-19,সজীব হাকিম,ucaudhurii@example.org,T-shirt,Clothing,11,1794,Cash on Delivery,Chittagong,19734
+042c65ad-9883-49b1-88d3-d2cefba3091f,2024-12-31,প্রত্যয় আচার্য্য,saumik35@example.org,Jeans,Clothing,23,2130,Cash on Delivery,Chittagong,48990
+b0916fb7-f17f-4f92-926a-a790c5828939,2025-04-28,শহিদুল সরকার,littnsinhaa@example.com,Notebook,Stationery,15,70,Credit Card,Barishal,1050
+43d643ed-236e-4832-a7f6-a2ac5b0c4170,2024-11-02,জনা দাশগুপ্তা,naaim19@example.com,T-shirt,Clothing,17,1794,Cash on Delivery,Barishal,30498
+bbf8da91-37a9-4824-aafa-4d5b91ae3d4c,2024-07-12,বাসির মন্ডল,rinaadaashguptaa@example.net,Pen,Stationery,2,92,Cash on Delivery,Sylhet,184
+bb1502ea-0991-4f46-8ce6-928ba46acc9a,2025-04-22,বিনা ঘোষ,daashguptaashaahjaahaan@example.com,Laptop,Electronics,13,65795,Mobile Payment,Dhaka,855335
+1edbbe71-de2a-4ddf-ae24-9b726aa12abd,2025-05-16,ডলি হুরাইরা,mishrtussaar@example.com,Jeans,Clothing,19,2130,Credit Card,Dhaka,40470
+8a38d5aa-51be-4a8e-8a8a-eb94863dfcd6,2025-01-18,বাদল সেন,aashiisskaant@example.net,Electric Kettle,Appliances,12,2095,Credit Card,Dhaka,25140
+f89617fa-6493-45ef-bf53-76a4bb48bbba,2024-12-03,লতা খাতুন,nishitaagaangguli@example.com,Smartphone,Electronics,16,10860,Credit Card,Sylhet,173760
+1521ad35-560f-4e2d-a1d7-243225e42403,2024-12-14,অন্তরা মুখার্জি,miln68@example.com,Electric Kettle,Appliances,6,2095,Debit Card,Rangpur,12570
+c31496ea-2160-446e-b2a7-a475c6196773,2024-08-04,সুরভি বিশ্বাস,psaahaa@example.net,Toothpaste,Household,13,30,Cash on Delivery,Rangpur,390
+ff408dcc-9db1-47f9-8fa8-ae3432339053,2025-03-25,আশালতা বিশ্বাস,mnddlnishitaa@example.com,Electric Kettle,Appliances,3,2095,Debit Card,Mymensing,6285
+16efacdf-9375-4e61-ac94-503eaf4afcdd,2024-07-26,দূর্গা মিত্র,shaahjaahaan35@example.com,Smartphone,Electronics,6,10860,Cash on Delivery,Khulna,65160
+c509d558-0632-4b36-a7c8-f0c59808552c,2024-10-09,রাহুল যাদব,priytikumaar@example.org,Jeans,Clothing,1,2130,Credit Card,Sylhet,2130
+27ef0a4b-5fb2-4838-af73-b3cf331e91f2,2025-04-03,আজম তালুকদার,taalukdaarnusraat@example.org,Rice Cooker,Appliances,22,5772,Cash on Delivery,Rangpur,126984
+49a5baeb-d1f4-4c8d-951b-1974de668dd0,2024-06-18,আবির জামান,bkaader@example.com,Jeans,Clothing,8,2130,Cash on Delivery,Mymensing,17040
+363d75f1-89ba-49c8-bd71-7da33581a632,2024-08-31,মাধু মৃধা,smishr@example.net,T-shirt,Clothing,9,1794,Debit Card,Chittagong,16146
+953fcfd4-6069-4b6d-84b5-1c12ab132032,2025-05-30,মাধু কান্ত,jynt04@example.org,Laptop,Electronics,22,65795,Cash on Delivery,Dhaka,1447490
+4572b385-9e32-4085-b24f-92b9ca0841de,2024-07-03,অর্পিতা তালুকদার,qsrkaar@example.net,Jeans,Clothing,7,2130,Credit Card,Chittagong,14910
+04e25132-1b9e-45f9-9d41-9a675c375254,2024-10-04,মুশফিক আলি,upaal@example.com,Pen,Stationery,2,92,Cash on Delivery,Dhaka,184
+168885c2-8814-4bde-98db-f732dde4d194,2024-08-24,প্রশান্ত শুক্লা,aacaaryyaajm@example.net,Jeans,Clothing,24,2130,Credit Card,Rangpur,51120
+64b5d9a5-7d6c-4d2a-9564-d1d34e0fbae1,2025-03-29,আকাশ বসু,shhidul43@example.net,Rice Cooker,Appliances,8,5772,Debit Card,Dhaka,46176
+a033edad-0fdf-4e19-8fd8-35fc469ff562,2024-09-21,আতাহার খান,ajypoddaar@example.com,T-shirt,Clothing,17,1794,Mobile Payment,Rajshahi,30498
+bada0c94-1679-4be0-a323-8416a82cae18,2024-11-08,আশালতা মোড়ল,haimntiishuklaa@example.com,Pen,Stationery,11,92,Mobile Payment,Rajshahi,1012
+9af97493-e8e4-4b31-8ff8-5111f8751fd4,2024-10-18,শ্রাবন্তী প্রামানিক,saanjidaamukhaarji@example.net,Detergent,Household,5,50,Debit Card,Rangpur,250
+33ca9a6b-ccd3-4f7c-af1d-cfb88a962a11,2025-05-13,প্রত্যয় রায়,nishitaamitr@example.net,Detergent,Household,9,50,Credit Card,Khulna,450
+2875d40a-eac7-4c2e-9099-a283eedb0ce5,2024-10-14,বিনয় সরকার,aaoyaalmostaaphij@example.org,Electric Kettle,Appliances,18,2095,Cash on Delivery,Dhaka,37710
+51958000-c3f3-4c8c-878c-3875ba21e269,2025-05-20,রহিম জামান,jsinhaa@example.org,Toothpaste,Household,21,30,Cash on Delivery,Mymensing,630
+06b4ed27-2f4b-4be8-a1ac-fdb51b555f6d,2025-04-05,নিশিতা দাশগুপ্তা,aataahaarmoddl@example.com,Electric Kettle,Appliances,14,2095,Debit Card,Sylhet,29330
+7a029a6d-c7a2-4171-b02a-06ee14588063,2024-08-04,মাধুরী মজুমদার,aariyaahk@example.com,Electric Kettle,Appliances,6,2095,Cash on Delivery,Rajshahi,12570
+39ed0800-3179-49f9-a9ed-e760233408ba,2024-06-25,আবু খান,vhosaain@example.net,Jeans,Clothing,10,2130,Debit Card,Barishal,21300
+345e2eaf-c1fd-4581-b3ec-e6b1fcfd8547,2024-07-08,সজীব সিং,binaa36@example.com,Laptop,Electronics,18,65795,Cash on Delivery,Rangpur,1184310
+bc3eb402-9ba1-4c35-8ab5-207fc6b6020a,2025-04-29,বাসির হক,paannddebaandhn@example.com,Notebook,Stationery,17,70,Debit Card,Rangpur,1190
+e0b62f90-0adb-44ff-a0b5-5615d3b6ef1b,2024-09-16,হৈমন্তী মোড়ল,yaadbaditi@example.net,Jeans,Clothing,9,2130,Debit Card,Mymensing,19170
+4a8abb17-309a-483a-8c9e-a060f66c7331,2024-11-30,বাকের জামান,bsen@example.com,Smartphone,Electronics,15,10860,Mobile Payment,Chittagong,162900
+b0a0c1cd-0df6-4527-ab45-bc389cf65e33,2024-12-30,রাজ যাদব,rhmaansjiib@example.org,Notebook,Stationery,24,70,Debit Card,Dhaka,1680
+e4f2ae4c-f016-416b-95df-e6cbc75aec94,2025-03-10,আমায়া মোড়ল,cdaas@example.org,Detergent,Household,13,50,Credit Card,Chittagong,650
+e588b999-971e-4a39-b424-6baa2dcafc82,2025-03-16,প্রদ্যুম্ন ঘোষ,mushphik21@example.org,Jeans,Clothing,19,2130,Debit Card,Barishal,40470
+a25291f3-730b-4657-b4cb-46131d39e9c2,2024-10-31,প্রশান্ত মোড়ল,antraamishr@example.org,Jeans,Clothing,11,2130,Mobile Payment,Dhaka,23430
+55cf37ba-e989-45f2-abbf-1e35c4acb57d,2025-01-18,ইশতিয়াক বেগম,jgdiishgaangguli@example.com,Jeans,Clothing,7,2130,Credit Card,Barishal,14910
+c4c4f69f-baeb-415d-8f3c-97714edd2a2a,2024-12-03,ইজাজ তালুকদার,mrnaalcaudhurii@example.net,Jeans,Clothing,23,2130,Debit Card,Rangpur,48990
+75699aef-0320-4c4e-80cb-e188c3f0fac3,2024-12-23,শাহজাহান মিঞা,huraairaaaajaad@example.org,Jeans,Clothing,18,2130,Mobile Payment,Sylhet,38340
+74283491-79c8-42cb-a8d3-110e96bfae6e,2024-11-19,অনন্যা সিনহা,taalukdaariishaani@example.com,Electric Kettle,Appliances,15,2095,Mobile Payment,Sylhet,31425
+d1f379b1-8ebb-4208-a0ee-404f9ea8fcb1,2025-04-29,অশোক দাস,nynprdhaan@example.org,Detergent,Household,12,50,Cash on Delivery,Barishal,600
+aac04912-084d-4822-9a94-8e70253741e4,2025-01-23,বাকের আলম,kaantshubh@example.com,Smartphone,Electronics,24,10860,Cash on Delivery,Mymensing,260640
+ac0e1f71-294d-43ed-ada1-afdafe656dcc,2024-10-01,সুরভি দাস,cbos@example.org,Jeans,Clothing,12,2130,Mobile Payment,Rangpur,25560
+5e5a90c1-52a4-43f9-8c9e-903ac4bd338e,2025-05-27,আনিস হুরাইরা,gaanggulimisstti@example.org,Laptop,Electronics,19,65795,Debit Card,Khulna,1250105
+46404b2a-dc02-48af-b1d2-94571f3cea1d,2024-10-18,দূর্গা সরকার,mnojgnggopaadhyaay@example.org,Laptop,Electronics,9,65795,Cash on Delivery,Sylhet,592155
+a104bdce-fab6-4d91-bacf-7cfc92451cc4,2025-01-04,প্রদীপ সিনহা,nnditaa95@example.com,T-shirt,Clothing,7,1794,Mobile Payment,Rajshahi,12558
+9f8ceda5-feb9-4a24-933c-8d0086800a0b,2024-10-28,রুদ্র রায়,zhuraairaa@example.org,Electric Kettle,Appliances,19,2095,Debit Card,Barishal,39805
+b565f64e-3b93-453f-9c02-040de237c877,2024-10-03,অর্ঘ্য চট্টোপাধ্যায়,uddinphaarihaa@example.org,Notebook,Stationery,21,70,Mobile Payment,Sylhet,1470
+ccb03fc5-3513-4238-991b-1a04bccaba38,2025-02-06,রহিম আক্তার,shaahjaahaan83@example.org,Rice Cooker,Appliances,24,5772,Cash on Delivery,Barishal,138528
+4818b004-b0a4-4557-b381-001fa3ff8fd2,2024-09-19,অর্না আওয়াল,adrtaa85@example.org,T-shirt,Clothing,24,1794,Mobile Payment,Khulna,43056
+57637902-5552-4712-af92-ef221d2467e2,2024-11-13,আতাহার প্রামানিক,rhimpaal@example.net,T-shirt,Clothing,24,1794,Cash on Delivery,Khulna,43056
+cc18dd0e-7978-4c84-aa89-a9797aa6d6ea,2024-06-26,আমায়া সাহা,phaarihaaaabdullaah@example.net,Notebook,Stationery,21,70,Credit Card,Dhaka,1470
+c8b3815e-7664-4043-95c9-bf0fe55b93ad,2025-04-25,আসাদ জামান,duurgaa80@example.org,Smartphone,Electronics,22,10860,Credit Card,Dhaka,238920
+ccae58fe-54eb-4e20-af7c-7d2b93d054e4,2025-06-03,বাঁধন খাতুন,ekraamulmnddl@example.com,Electric Kettle,Appliances,5,2095,Debit Card,Chittagong,10475
+88c62063-a063-43ca-a00f-c79cfbce7087,2025-05-06,লিটন দাস,cttttopaadhyaaymuntaakim@example.net,T-shirt,Clothing,1,1794,Debit Card,Barishal,1794
+16386137-69f3-4b2d-8580-dac20818c965,2024-12-23,জয়ন্ত যাদব,sushaant84@example.org,Toothpaste,Household,2,30,Cash on Delivery,Barishal,60
+0992b886-c8f2-46c1-9fcc-997d1cbb304b,2025-04-11,অজিত যাদব,minyaasurbhi@example.org,Laptop,Electronics,1,65795,Cash on Delivery,Dhaka,65795
+7bc4d138-ec73-4598-9711-d5fd30b1b67b,2025-03-24,সাবের আওয়াল,akssy18@example.net,Laptop,Electronics,17,65795,Mobile Payment,Sylhet,1118515
+b97d7617-3487-446c-a1f9-c072fe22eba1,2024-06-27,বিনা সরকার,taalukdaarmuntaasir@example.org,Laptop,Electronics,17,65795,Cash on Delivery,Khulna,1118515
+df3334c6-9823-4b06-991e-a7e6afe2a940,2024-07-16,রাজ আক্তার,cndrabhi@example.net,Smartphone,Electronics,4,10860,Debit Card,Rajshahi,43440
+e462ff64-a38b-4aa4-8fe8-98d8c22ca6a8,2024-09-02,তনয় উদ্দিন,enaamul85@example.com,Jeans,Clothing,20,2130,Mobile Payment,Mymensing,42600
+2639e214-45cc-4a93-9e1e-5d91abcec90f,2024-08-13,ইকবাল চৌধুরী,kaaderaayushi@example.com,Detergent,Household,13,50,Credit Card,Mymensing,650
+243d116d-4563-4bbe-9188-3a268ca33a54,2025-03-13,প্রীতি হোসাইন,jyntcndr@example.com,Electric Kettle,Appliances,15,2095,Debit Card,Rajshahi,31425
+8a6342ca-56b7-479e-a46a-0b429cfecbd8,2024-12-02,ইমন চৌধুরী,gkaant@example.com,Detergent,Household,22,50,Credit Card,Dhaka,1100
+6454a82a-6d2c-4bf9-960b-eed40dc5d42e,2024-08-21,রাসেল সিনহা,muntaasir53@example.net,Smartphone,Electronics,13,10860,Cash on Delivery,Rangpur,141180
+889277fe-cf2e-45ef-abbe-274ac226ab53,2024-07-13,মিনা হোসাইন,rohituddin@example.org,Notebook,Stationery,16,70,Credit Card,Dhaka,1120
+a4f89e23-af39-42ce-8f75-d45a74a12a0d,2025-03-15,মিনা খান,saumymishr@example.net,T-shirt,Clothing,3,1794,Cash on Delivery,Rangpur,5382
+645f273c-5d0b-442d-a9b1-4c76420fbeef,2024-08-23,মুনতাসির মজুমদার,bhosaain@example.org,Toothpaste,Household,19,30,Credit Card,Dhaka,570
+7a88f162-59f8-468e-9ce6-2a9f79af8348,2024-12-09,ইমতিয়াজ আওয়াল,jobaaydaa92@example.net,Jeans,Clothing,7,2130,Cash on Delivery,Sylhet,14910
+b6da99cd-d14b-456c-a7db-09431a59c3eb,2025-04-18,কুনাল সরকার,cyaattaarjiaashaaltaa@example.com,Laptop,Electronics,3,65795,Mobile Payment,Dhaka,197385
+3d134526-69d7-4427-972d-5d57669be896,2025-02-09,বিনয় দত্ত,emitr@example.com,T-shirt,Clothing,11,1794,Credit Card,Rajshahi,19734
+9749d2b0-b1ad-482a-905c-c78d354f184e,2024-11-27,মিষ্টি হোসাইন,rssitaa32@example.net,Pen,Stationery,5,92,Cash on Delivery,Chittagong,460
+ee4d0dec-bd47-4885-93f0-e33fab6b3f08,2025-03-16,রিনা চট্টোপাধ্যায়,jdeb@example.org,Detergent,Household,6,50,Debit Card,Rangpur,300
+4edb6dc8-2d19-4d52-b1f9-b0e2d2701a52,2024-11-17,মৃনাল তালুকদার,fdeb@example.net,Notebook,Stationery,11,70,Cash on Delivery,Khulna,770
+37b567b4-172d-4bd0-8fbd-4c81a9008ecd,2025-04-26,অর্ক ঠাকুর,baandhngaangguli@example.com,Smartphone,Electronics,17,10860,Mobile Payment,Dhaka,184620
+32173525-7279-401c-93f3-503d9d96232d,2024-08-31,ঋষিতা ব্যানার্জি,priiti51@example.net,Smartphone,Electronics,14,10860,Debit Card,Chittagong,152040
+82ab23a0-fc86-4110-9c8a-a87202141a68,2024-11-16,ইউসুফ আওয়াল,brmniishaani@example.org,Toothpaste,Household,20,30,Cash on Delivery,Mymensing,600
+d21ce315-8f5e-448e-b40f-040e0037447f,2024-10-30,আয়ুষ চৌধুরী,nishitaashuklaa@example.net,Laptop,Electronics,21,65795,Mobile Payment,Barishal,1381695
+67f1c18b-61fe-400a-b636-cc4c5170ca8a,2024-11-08,সাব্বির উদ্দিন,milaamukhaarji@example.org,Rice Cooker,Appliances,8,5772,Mobile Payment,Rangpur,46176
+ecaadafb-d7e4-427a-a274-d2408e301bcc,2024-10-30,রহিম তাবাসসুম,arghy20@example.org,Electric Kettle,Appliances,6,2095,Cash on Delivery,Chittagong,12570
+b8a9b014-24dc-4a07-8405-6d2ba5fcd671,2025-05-22,মিষ্টি প্রামানিক,mukhaarjiraajiyaa@example.com,Pen,Stationery,10,92,Debit Card,Chittagong,920
+c9f7369f-e4c1-4210-b4be-4b20dc32f8a0,2025-03-10,মিষ্টি দাস,jkhaatun@example.com,Smartphone,Electronics,9,10860,Debit Card,Rangpur,97740
+2f900058-39ca-4826-9af5-6a23627ca9f7,2024-11-24,অর্পিতা সিং,surbhimnddl@example.com,T-shirt,Clothing,24,1794,Cash on Delivery,Mymensing,43056
+5df1bf6f-938b-43f8-8bd1-8d4bed3353fc,2024-06-25,রাজু মজুমদার,minyaabaadl@example.org,Toothpaste,Household,4,30,Credit Card,Dhaka,120
+fbcbd6ec-86c2-4d8f-bb36-07b0baed6f49,2025-05-12,নিশিতা কাদের,debaanis@example.com,Detergent,Household,15,50,Mobile Payment,Sylhet,750
+f5dd7f92-a9ea-49ff-bddf-2416a1731ed8,2025-02-27,মনোজ সরকার,taasnim05@example.net,Smartphone,Electronics,5,10860,Credit Card,Khulna,54300
+743b9f71-7807-4947-82c2-b367c74d8df0,2024-12-29,প্রিয়া মোড়ল,naadim42@example.org,Electric Kettle,Appliances,15,2095,Cash on Delivery,Chittagong,31425
+bfda55c9-98fe-44f3-ac40-d95ab1eedf64,2024-10-09,তামিম চৌধুরী,kraay@example.org,Laptop,Electronics,3,65795,Mobile Payment,Chittagong,197385
+cf13cb3d-4ab0-4699-bd88-8cbda8049463,2025-03-26,অঞ্জনা প্রধান,idaas@example.net,Pen,Stationery,20,92,Mobile Payment,Rangpur,1840
+4721194b-c8a4-4e21-99f8-50e913ad3ead,2024-09-18,প্রিয়ম পাণ্ডে,aadi19@example.org,Laptop,Electronics,10,65795,Cash on Delivery,Rangpur,657950
+26b0d2c9-bd2c-44eb-977e-3f2ce8fe6095,2025-02-23,বৃষ্টি প্রামানিক,aajaad72@example.net,Smartphone,Electronics,24,10860,Debit Card,Khulna,260640
+fbec1ed8-57c4-42c3-8878-9ef0dcacfa54,2024-07-15,চয়ন সিং,pmitr@example.net,Electric Kettle,Appliances,6,2095,Debit Card,Sylhet,12570
+2ad3136f-a338-47fa-b9db-138870aff6eb,2024-09-02,বাঁধন গাঙ্গুলি,raaj02@example.com,Detergent,Household,9,50,Cash on Delivery,Khulna,450
+79ec958b-4d26-4574-b9ea-5621661423a7,2025-03-29,শ্রাবন্তী আলি,eyaadb@example.com,Smartphone,Electronics,6,10860,Cash on Delivery,Sylhet,65160
+6f4abfcc-deca-4598-87cb-0e2a25288a1b,2024-06-17,রাসেল মোড়ল,aarunni01@example.net,Electric Kettle,Appliances,10,2095,Cash on Delivery,Chittagong,20950
+d82010d1-f4c8-43a7-9a94-7a40a32e3ab5,2024-11-27,নিশিতা বোস,imtiyaaj14@example.net,Toothpaste,Household,9,30,Debit Card,Barishal,270
+c5ed3982-760b-4673-a422-a73e958c9cfd,2025-03-02,করিম সিনহা,aamaayaapaal@example.net,Pen,Stationery,20,92,Debit Card,Barishal,1840
+5032739c-2e0f-4484-be43-541ab0b6148c,2025-01-11,অর্ক তালুকদার,raaoshaaon@example.net,Smartphone,Electronics,5,10860,Mobile Payment,Dhaka,54300
+59fcfaeb-7229-44a9-af7c-e6091a99aae0,2024-09-06,নাইম মৃধা,imnmoddl@example.net,Electric Kettle,Appliances,11,2095,Cash on Delivery,Mymensing,23045
+98197749-f041-44f7-8e8f-d00b178976de,2025-02-23,একরামুল হক,bndopaadhyaayraahul@example.net,Rice Cooker,Appliances,11,5772,Cash on Delivery,Khulna,63492
+c38c2eaf-a809-4a77-a03e-cfef21419a14,2025-05-28,শুভশ্রী দাস,aaoyaalaabbaas@example.com,Detergent,Household,11,50,Debit Card,Barishal,550
+13620119-efa9-40a3-a915-1364778a669f,2025-02-16,নিশিতা মোড়ল,ikbaal21@example.com,Toothpaste,Household,6,30,Cash on Delivery,Mymensing,180
+637aa999-61ff-4d9a-8ff8-9e8ac6f06a71,2024-10-20,প্রিতম মৃধা,priyticttttopaadhyaay@example.com,Detergent,Household,24,50,Cash on Delivery,Rajshahi,1200
+9c3cbe9d-335f-4d14-adb7-d4e4fabb6609,2024-11-12,রুদ্র চ্যাটার্জি,aayushitaabaassum@example.org,Toothpaste,Household,13,30,Mobile Payment,Rangpur,390
+e9a0c20d-1b33-4e43-a4b1-cf6a9d2ce51b,2024-12-01,তামিম তালুকদার,cndrpriy@example.net,Toothpaste,Household,4,30,Debit Card,Khulna,120
+7225539d-c6f9-43cf-8027-1514ba40662f,2024-06-20,ইশিতা চৌধুরী,yaadbimtiyaaj@example.org,Notebook,Stationery,1,70,Cash on Delivery,Rajshahi,70
+642e3a16-e795-43fb-946f-cba3b336d143,2025-01-22,রুদ্র মন্ডল,usen@example.org,Rice Cooker,Appliances,10,5772,Credit Card,Rangpur,57720
+62699a44-00d8-4046-b9d1-19508a45e02e,2025-03-07,শাহাবাজ জাহান,raashed46@example.org,Rice Cooker,Appliances,5,5772,Mobile Payment,Rajshahi,28860
+a5a6ab3a-f575-4b77-bf3c-6d4ea1dc9cab,2024-07-18,মিলন আওয়াল,pgaangguli@example.org,Detergent,Household,22,50,Debit Card,Rangpur,1100
+f7aeede8-0a11-4bac-8df2-1ad52d36db7e,2024-11-09,আরুণি ব্যানার্জি,opaanndde@example.net,Electric Kettle,Appliances,3,2095,Cash on Delivery,Barishal,6285
+e29d650a-15b9-4c20-bc8b-7f1e5bf88967,2025-02-13,কাজল প্রামানিক,aabdullaahaannd@example.net,Pen,Stationery,13,92,Cash on Delivery,Dhaka,1196
+7d3e5830-3d0d-4c8f-97cb-4585ff12fe28,2024-11-10,সৌম্য সরকার,shraabntii87@example.org,Toothpaste,Household,23,30,Credit Card,Chittagong,690
+5674b9e2-0e59-45aa-96db-638a097ba119,2025-04-14,আজাদ মোড়ল,jaamaansaanjidaa@example.net,Jeans,Clothing,22,2130,Mobile Payment,Khulna,46860
+ad968213-f0a9-497f-b557-c28c85eb2b3f,2025-05-16,সাব্বির তাবাসসুম,priysinhaa@example.net,Pen,Stationery,2,92,Cash on Delivery,Mymensing,184
+04e1502a-a761-40c7-bd28-3421243f45fe,2024-12-13,অহনা পাল,aadiraao@example.net,Electric Kettle,Appliances,4,2095,Credit Card,Chittagong,8380
+d21bf733-4ead-48d3-a797-f3ae0cca0c05,2025-04-17,প্রদ্যুম্ন সিনহা,aaphiphaacyaattaarji@example.org,Detergent,Household,8,50,Debit Card,Barishal,400
+cc96bf43-9850-4072-bf44-cbca1d3ae131,2025-02-07,অজিত দেব,zpaal@example.net,Toothpaste,Household,13,30,Cash on Delivery,Khulna,390
+1eece891-5301-4fb9-a6ea-0949adab7b01,2025-03-05,শ্রাবন্তী চন্দ্র,shekhr09@example.org,Toothpaste,Household,1,30,Cash on Delivery,Chittagong,30
+461de017-1ee9-4d3b-902f-4f5c55e39295,2024-08-06,মিথিলা বেগম,kaaberi27@example.org,Detergent,Household,14,50,Credit Card,Chittagong,700
+22249813-0a6b-4e3d-94fd-0594ecf91245,2024-07-21,বিনা বেগম,hosaainbaadl@example.org,T-shirt,Clothing,12,1794,Mobile Payment,Mymensing,21528
+16d1f5ca-ed17-4fdd-adee-003e01d96e96,2025-03-14,শুভশ্রী প্রধান,skhaan@example.org,Rice Cooker,Appliances,7,5772,Cash on Delivery,Mymensing,40404
+455cf668-a3cb-4e18-a4a1-67fd34c6ea9b,2025-01-02,মিথিলা বিশ্বাস,taasnimsinhaa@example.net,Rice Cooker,Appliances,4,5772,Cash on Delivery,Barishal,23088
+9caf4bfe-7ff8-42c6-b79a-566b2e1482be,2024-07-17,আয়ুশি বসু,jtaalukdaar@example.org,Toothpaste,Household,3,30,Mobile Payment,Dhaka,90
+87bb1f6d-fc92-4c73-9e14-fe0431208bde,2024-07-20,বৃষ্টি রাও,bipaashaakhaan@example.com,Smartphone,Electronics,1,10860,Mobile Payment,Chittagong,10860
+cbeed3e3-1cd8-49e2-b197-91670d95ee72,2024-08-09,মাধুরী সিং,aashutosskumaar@example.org,T-shirt,Clothing,24,1794,Debit Card,Khulna,43056
+35a7ac9b-48f9-4d0d-9d3b-c1d3a5159982,2024-11-28,মুনতাসির সিনহা,gkumaar@example.net,Notebook,Stationery,6,70,Mobile Payment,Rangpur,420
+2d06f862-8990-479c-acc3-b6990d6dcb42,2024-08-13,অঞ্জনা খান,cndraajaad@example.net,Rice Cooker,Appliances,8,5772,Cash on Delivery,Khulna,46176
+5372ebed-946b-4482-97bb-9fbf71dfc82c,2024-11-22,সুশান্ত বন্দোপাধ্যায়,sjiibdeb@example.org,T-shirt,Clothing,21,1794,Cash on Delivery,Rangpur,37674
+699fdb02-bcdd-4b48-bcb3-c9fa191abb3d,2025-05-16,জয়দীপ দাশগুপ্তা,kaaderaaphiyaa@example.com,Laptop,Electronics,24,65795,Debit Card,Barishal,1579080
+251adf0e-6f94-4a50-a3f7-13a70de92f1b,2024-09-04,মিনা দাস,ibaagcii@example.com,Pen,Stationery,14,92,Cash on Delivery,Dhaka,1288
+5bcc90fc-a1cc-42d8-b1b4-2308b8463413,2024-09-25,কুনাল চন্দ্র,ghossekraamul@example.org,Jeans,Clothing,7,2130,Mobile Payment,Chittagong,14910
+75656daf-772d-416d-9a05-d2fc1c71a821,2024-11-22,মিলন দাশগুপ্তা,jobaaydaa29@example.org,Pen,Stationery,4,92,Debit Card,Mymensing,368
+dae18b28-8d81-44b0-b85a-d28793ffc45f,2024-09-10,জগদীশ সরকার,lminyaa@example.com,Toothpaste,Household,7,30,Cash on Delivery,Chittagong,210
+03b68657-4777-4e21-b677-a166d644e9ae,2025-03-23,করিম কাদের,priiti93@example.net,Detergent,Household,22,50,Cash on Delivery,Mymensing,1100
+92de0df8-e9eb-4446-a622-e0d6f23d9820,2025-05-27,শান্ত চৌধুরী,kaaderadrtaa@example.org,Pen,Stationery,13,92,Cash on Delivery,Chittagong,1196
+7ab16533-64f2-4a7c-87f7-97fa6cfa855f,2025-04-23,আরিয়া কাদের,fcaudhurii@example.net,Toothpaste,Household,12,30,Cash on Delivery,Khulna,360
+bb56588b-b172-4c53-832e-2730c0c9c3ed,2024-11-17,অক্ষয় বসু,aasaad10@example.com,Detergent,Household,20,50,Credit Card,Khulna,1000
+b40bc353-296b-4903-8e09-c596ab45eaf0,2024-12-08,আতাহার কাদের,tmukhaarji@example.com,Toothpaste,Household,4,30,Debit Card,Sylhet,120
+5ed3e00e-df1e-44cb-8a34-2e3c2f589a81,2025-02-11,অর্পিতা তালুকদার,hdaashguptaa@example.org,Smartphone,Electronics,6,10860,Mobile Payment,Khulna,65160
+4510eaad-c0bd-44c0-ad07-ee0b4bed523c,2025-03-11,শ্রাবন্তী দে,daashguptaanyn@example.net,Notebook,Stationery,13,70,Cash on Delivery,Khulna,910
+5d2e7b90-acb6-4e81-a8f6-0796f200a32c,2025-05-23,আবির মোড়ল,mithilaa90@example.com,Pen,Stationery,13,92,Cash on Delivery,Khulna,1196
+8f0ce422-a5ee-44a2-acde-531f5dce8d9b,2025-03-13,বিনয় বিশ্বাস,raashedcaudhurii@example.net,Rice Cooker,Appliances,21,5772,Debit Card,Khulna,121212
+bcc4f087-7a7e-4c31-a627-61671d121daf,2025-06-12,খুশি আলি,shhidul48@example.net,Rice Cooker,Appliances,10,5772,Debit Card,Khulna,57720
+1038f676-0df1-472a-86f2-ff386c451540,2024-11-04,সজীব রহমান,kaaderaashaaltaa@example.net,Toothpaste,Household,15,30,Credit Card,Mymensing,450
+4ad1d634-e642-4f0b-8869-372ad34c0a09,2024-12-05,বৃষ্টি গঙ্গোপাধ্যায়,binaadeb@example.org,Laptop,Electronics,16,65795,Debit Card,Rajshahi,1052720
+49d2cac0-2dc6-4c90-a5df-c7af6403c4bc,2024-07-12,অমল মৃধা,mitrshraabntii@example.org,Electric Kettle,Appliances,18,2095,Cash on Delivery,Rangpur,37710
+f3bd2348-854b-48fa-b44a-21b7dfff8cea,2025-02-11,প্রিয় মোড়ল,milaapaanndde@example.com,Rice Cooker,Appliances,14,5772,Cash on Delivery,Barishal,80808
+057fdd20-a50a-4a29-bcda-835f71a0cff8,2024-10-04,অজিত কুমার,aamaayaadaashguptaa@example.com,T-shirt,Clothing,3,1794,Credit Card,Rajshahi,5382
+a5639cf4-a7df-4b92-97c1-3f7e9425fc3a,2025-04-14,রুদ্র হাকিম,kcyaattaarji@example.org,Detergent,Household,2,50,Mobile Payment,Rajshahi,100
+2bf6f6c4-4e76-44e9-8a12-ba49e5f5cdc8,2025-04-15,কাফি মন্ডল,krim02@example.com,Notebook,Stationery,10,70,Debit Card,Barishal,700
+2a96c526-f4ca-4e70-b4b7-99ec48cd42c0,2025-02-08,প্রিয় দাস,aashiisssin@example.org,Pen,Stationery,24,92,Cash on Delivery,Chittagong,2208
+510e641f-fe67-48e9-8a88-e6ca1dee4b6d,2025-01-22,সজীব পোদ্দার,prdiip38@example.net,Pen,Stationery,4,92,Mobile Payment,Mymensing,368
+fa5fafdb-5123-49fa-aa61-b32f08e1624e,2024-10-24,রোহিত যাদব,aashaaltaacyaattaarji@example.org,Notebook,Stationery,2,70,Cash on Delivery,Rajshahi,140
+ee5a8856-6791-459c-8661-7f95eba18fa8,2024-12-23,ইশিতা কাদের,aashiiss08@example.net,Electric Kettle,Appliances,4,2095,Debit Card,Sylhet,8380
+4ba99d78-b498-45d0-a5b1-c79954cecee7,2024-12-14,ইশতিয়াক সিনহা,spaal@example.org,Laptop,Electronics,15,65795,Mobile Payment,Mymensing,986925
+0a42be3f-e671-4582-ba9e-8394bb4ccb14,2024-08-06,হৈমন্তী চট্টোপাধ্যায়,aannd69@example.org,Smartphone,Electronics,15,10860,Credit Card,Rajshahi,162900
+538cc0ca-17ac-47e9-9b7e-24ca722b4439,2024-07-04,কাজল রায়,ekraamulislaam@example.org,Jeans,Clothing,24,2130,Mobile Payment,Rangpur,51120
+72098a7b-d975-4562-89d5-635715661feb,2025-03-02,অলোকা সেন,faabdullaah@example.com,T-shirt,Clothing,20,1794,Debit Card,Rajshahi,35880
+f182cdf7-82f5-42c8-9ae6-61499a6978cf,2024-07-04,ঈশানি মুখার্জি,nnditaabrmn@example.com,Jeans,Clothing,2,2130,Mobile Payment,Sylhet,4260
+584cb0f7-48de-48be-831e-ef965f71dcc4,2024-10-27,রাসেল সরকার,minyaapriyaangkaa@example.net,Pen,Stationery,18,92,Debit Card,Mymensing,1656
+7147f758-cdbe-4548-aa65-66e8fe1ad905,2024-10-03,শুভ মিশ্র,aasiphaadeb@example.org,Detergent,Household,10,50,Mobile Payment,Chittagong,500
+fd06a179-7980-4efa-8da0-8e483531518a,2025-05-15,ঋষিতা তালুকদার,adeb@example.com,T-shirt,Clothing,14,1794,Credit Card,Sylhet,25116
+6a1d9731-45f8-414d-aa16-ce6ea388ca32,2024-08-19,বিদ্যা সিনহা,mrnaalaaoyaal@example.com,T-shirt,Clothing,23,1794,Debit Card,Rajshahi,41262
+0acfc6ac-7d97-44fe-8dca-39084a1a4219,2025-04-28,বাকের হোসাইন,shraabnii87@example.org,T-shirt,Clothing,23,1794,Mobile Payment,Rajshahi,41262
+276e1d67-00a0-486e-8a8d-5d5a06defca8,2024-09-23,শাহাবাজ তালুকদার,khushi27@example.net,Electric Kettle,Appliances,16,2095,Debit Card,Sylhet,33520
+1e8e06ed-0748-4379-bea7-f419a510af65,2025-04-05,শাহজাহান তালুকদার,aaktaaraa79@example.com,Electric Kettle,Appliances,13,2095,Cash on Delivery,Chittagong,27235
+af97fbd2-a0c4-4942-8206-7d80de4beb12,2024-12-14,ইকবাল মজুমদার,mjumdaaraayuss@example.net,Smartphone,Electronics,13,10860,Mobile Payment,Mymensing,141180
+7606fa34-51d6-4f11-a569-3e130efa8993,2025-05-20,ইউসুফ মজুমদার,tussaarsrkaar@example.com,Rice Cooker,Appliances,16,5772,Mobile Payment,Dhaka,92352
+f4852088-e97f-4025-a2e1-17986b65450b,2024-10-29,প্রিয় মৃধা,aabdullaahphaarihaa@example.org,Smartphone,Electronics,24,10860,Cash on Delivery,Mymensing,260640
+c0ac430a-9948-4f82-9831-b802c3c2aee6,2024-08-16,ঋষিতা মজুমদার,ijaaj51@example.net,Smartphone,Electronics,18,10860,Cash on Delivery,Rajshahi,195480
+24caabcb-d2c4-4286-9a04-61c9947defcf,2024-06-18,প্রিয় বর্মন,vraao@example.org,Electric Kettle,Appliances,7,2095,Cash on Delivery,Sylhet,14665
+80ddb386-2790-492f-b7c6-bc5d1a380e8e,2024-09-06,এনামুল মিঞা,aaraabinaa@example.org,Toothpaste,Household,10,30,Mobile Payment,Khulna,300
+ec6494e0-2198-4e3c-919f-cf311dd73f1f,2024-06-19,বাঁধন মৃধা,arnnb79@example.net,Pen,Stationery,16,92,Mobile Payment,Dhaka,1472
+2c15c4ad-5790-4515-b859-396dc37a9ab0,2025-03-15,আতাহার তালুকদার,arghymishr@example.net,Laptop,Electronics,4,65795,Cash on Delivery,Dhaka,263180
+35b823e4-2016-4e6d-8eb3-9f633a00c83e,2024-08-02,জগদীশ তালুকদার,mrdhaamim@example.com,Smartphone,Electronics,6,10860,Cash on Delivery,Barishal,65160
+08651a6e-1b99-4b83-b244-0f070ae263e0,2025-04-16,মাধু গাঙ্গুলি,qbndopaadhyaay@example.org,Laptop,Electronics,14,65795,Debit Card,Khulna,921130
+02a13629-aae6-41a1-8d38-a8d010f59651,2025-04-02,সৌম্য তালুকদার,aasiphaauddin@example.org,Detergent,Household,6,50,Mobile Payment,Chittagong,300
+173d5030-077d-4688-99fe-1c45abac7bf8,2024-08-08,নাদিম হোসাইন,shhidul28@example.net,Toothpaste,Household,9,30,Credit Card,Mymensing,270
+91faf1c7-8141-4b37-bde8-14ac9ceab67b,2024-07-09,বিরাট চৌধুরী,binykumaar@example.org,T-shirt,Clothing,2,1794,Cash on Delivery,Sylhet,3588
+011bb348-8981-4f35-8107-50bce6d33572,2025-03-21,অজয় সরকার,sbsu@example.net,Jeans,Clothing,14,2130,Credit Card,Chittagong,29820
+f52ef4a6-ac6c-4e1b-b08d-f0942f64672f,2024-07-24,রাহুল বাগচী,gjaamaan@example.org,Laptop,Electronics,7,65795,Cash on Delivery,Chittagong,460565
+fc0f94cd-c2eb-4aa2-9ce3-70ed685707ac,2024-10-13,প্রদ্যুম্ন তালুকদার,shraabniibos@example.net,T-shirt,Clothing,19,1794,Debit Card,Barishal,34086
+0a6552a5-b8dd-415d-8ea0-35f049cc253f,2024-07-14,রুদ্র আলম,dkumaar@example.net,Laptop,Electronics,1,65795,Mobile Payment,Chittagong,65795
+f9e6debb-afe2-487f-8fdf-af5dbc75ed53,2025-05-05,ডলি সরকার,bgaangguli@example.org,Electric Kettle,Appliances,23,2095,Debit Card,Barishal,48185
+d74f9844-e50e-43ec-91d1-e7d5db558642,2025-04-20,বৃষ্টি প্রামানিক,hkshaant@example.com,Smartphone,Electronics,8,10860,Cash on Delivery,Chittagong,86880
+ad3053ce-a896-4e70-85cd-338470249792,2024-07-16,অক্ষয় মোড়ল,vpoddaar@example.org,Smartphone,Electronics,4,10860,Mobile Payment,Mymensing,43440
+32f75350-f9a7-42dc-9d1c-19061090dc9d,2024-10-22,মৃনাল মুখার্জি,haakimjnaa@example.net,Detergent,Household,5,50,Cash on Delivery,Khulna,250
+b6a787b1-c3cb-4c28-874c-fa297fc5ae23,2025-04-06,নিশিতা মুখার্জি,milaa96@example.com,T-shirt,Clothing,3,1794,Credit Card,Khulna,5382
+c49b9e62-25ba-4f03-8765-606982ec0fc3,2024-12-06,অর্ণব মৃধা,ohaakim@example.net,Rice Cooker,Appliances,12,5772,Debit Card,Khulna,69264
+197f9b8d-079b-45e6-a275-b1e2f14152c7,2025-03-26,অভিষেক মন্ডল,aaliarnaa@example.net,Electric Kettle,Appliances,20,2095,Cash on Delivery,Rajshahi,41900
+4d8131f5-2719-4fdb-93b3-618bade05648,2025-02-09,আরিয়া গঙ্গোপাধ্যায়,muddin@example.com,Smartphone,Electronics,4,10860,Debit Card,Chittagong,43440
+813a3aa5-7d81-4c21-bf76-4fcea97ef131,2024-09-22,ঋষিতা সরকার,srkaarnishitaa@example.org,Pen,Stationery,24,92,Cash on Delivery,Mymensing,2208
+da55f825-5086-4384-b33a-c54f62359144,2024-11-06,মিনা চৌধুরী,aaliduurgaa@example.net,Electric Kettle,Appliances,11,2095,Debit Card,Rajshahi,23045
+e27bb6c4-4d94-4434-8785-9c05dc409942,2025-03-14,রুদ্র মিত্র,muntaasiryaadb@example.com,Detergent,Household,21,50,Credit Card,Rajshahi,1050
+acce693e-91a0-4ef2-9c00-7554c3963bf9,2024-12-20,হৈমন্তী রাও,jkhaan@example.org,Notebook,Stationery,20,70,Mobile Payment,Dhaka,1400
+436d977b-6431-4bbe-8e44-c9dc81b61c87,2024-12-22,বিনা বসু,mushphik00@example.net,Detergent,Household,7,50,Debit Card,Rangpur,350
+5dcd0d40-d641-4102-a0d1-968f0b8ce21f,2024-10-26,অঞ্জনা হুরাইরা,arnaa16@example.com,Detergent,Household,21,50,Credit Card,Rajshahi,1050
+59ecc846-6974-47ea-9b7c-57e8fdf02450,2024-07-04,আশালতা পাল,rojinaacndr@example.net,Rice Cooker,Appliances,13,5772,Credit Card,Rajshahi,75036
+10c49f9e-b020-421b-a90f-413715bebdd0,2025-05-16,ইকবাল মজুমদার,abhideb@example.org,Rice Cooker,Appliances,21,5772,Credit Card,Dhaka,121212
+6c27316b-dd05-4827-a863-782e75fe2857,2025-01-19,দূর্গা মৃধা,kaaderaasiphaa@example.org,Toothpaste,Household,11,30,Debit Card,Rangpur,330
+9202b09c-60b3-4938-9107-1545fc5b14bd,2024-11-11,আনন্দ রহমান,kaaderraasel@example.com,Pen,Stationery,14,92,Mobile Payment,Khulna,1288
+aad9e93d-c3d0-4de3-8fbb-a84a80b57013,2024-10-22,প্রত্যয় বর্মন,fuddin@example.net,Rice Cooker,Appliances,3,5772,Credit Card,Chittagong,17316
+13483fb3-c982-4300-b95f-17e6d8eae31b,2025-05-05,সাব্বির সুলতানা,ishtiyaak04@example.net,Laptop,Electronics,9,65795,Debit Card,Dhaka,592155
+9fe3f824-39d3-49cf-8dfa-76af66eb43b0,2025-03-28,শেখর সিনহা,paalijaaj@example.org,Laptop,Electronics,13,65795,Mobile Payment,Rangpur,855335
+79ab3018-87f3-49a4-8d1a-810d910171d2,2024-11-25,জয়ন্ত গঙ্গোপাধ্যায়,adrtaa46@example.net,Electric Kettle,Appliances,23,2095,Cash on Delivery,Chittagong,48185
+6a107fb7-3338-4ec9-9037-e6698a3a0129,2024-11-16,শহিদুল মন্ডল,abhissekaaoyaal@example.net,Notebook,Stationery,18,70,Debit Card,Sylhet,1260
+f64d4de0-a92a-4880-b684-13397fcbcf31,2025-04-28,রাশেদুল মৃধা,hghoss@example.org,Smartphone,Electronics,10,10860,Credit Card,Rajshahi,108600
+3d8925a9-25d2-47d0-b665-87075d411ac5,2024-08-10,বাকের মোড়ল,edtt@example.net,T-shirt,Clothing,18,1794,Mobile Payment,Rangpur,32292
+4455d60e-6995-4fd1-9891-4adf341c612a,2025-04-28,ইমতিয়াজ মৃধা,keyaacaudhurii@example.org,Pen,Stationery,21,92,Credit Card,Sylhet,1932
+3edec38e-0717-4ef3-b121-68632663ed11,2025-04-18,বাকের কাদের,bbegm@example.net,Electric Kettle,Appliances,24,2095,Debit Card,Dhaka,50280
+28cbb7ca-33b5-4667-8979-13a0e7d90c1b,2024-09-26,আকাশ পোদ্দার,sumaaiyaa82@example.net,Jeans,Clothing,3,2130,Cash on Delivery,Chittagong,6390
+b8f40e5e-f6ba-4ccc-8acf-bd89da3ed15a,2024-12-18,অঞ্জনা খানম,tthaakurjobaaydaa@example.com,Rice Cooker,Appliances,20,5772,Credit Card,Sylhet,115440
+f480ada5-e68c-4348-9046-e3dfddfef849,2024-11-18,অভি হক,aajaadprdhaan@example.net,T-shirt,Clothing,4,1794,Credit Card,Khulna,7176
+1ee26f39-eed4-4b89-8010-4995bc06e86b,2025-01-01,শুভশ্রী রায়,shraabntii13@example.net,Laptop,Electronics,6,65795,Cash on Delivery,Mymensing,394770
+503ba8c3-ce83-4e27-85ef-d6701f4d88ce,2024-10-18,মুশফিক আলি,jminyaa@example.org,Notebook,Stationery,17,70,Mobile Payment,Khulna,1190
+4648bbe8-f84c-47a9-b6cf-d2d52cd6e8df,2024-11-30,তামিম আক্তার,sbaagcii@example.org,Toothpaste,Household,5,30,Mobile Payment,Chittagong,150
+79900a27-6c7c-4eb7-8bb5-f24251057c35,2025-03-05,আশুতোষ ঠাকুর,milaa54@example.org,Laptop,Electronics,11,65795,Cash on Delivery,Sylhet,723745
+9b16acb8-e7bd-4db7-b780-8afca538c6a7,2024-06-26,আসাদ রহমান,aabbaasmitr@example.com,Notebook,Stationery,3,70,Mobile Payment,Chittagong,210
+5ce4124b-b35b-4f78-b55f-2e80a3922a4e,2025-05-29,আশা মিঞা,priyaangkaayaadb@example.org,Rice Cooker,Appliances,15,5772,Mobile Payment,Dhaka,86580
+ed711fe9-649a-4bf9-b5f3-943ae8e7f030,2025-06-04,বাকের তালুকদার,naaimkhaan@example.org,Rice Cooker,Appliances,19,5772,Debit Card,Mymensing,109668
+5132fe68-a1a0-44a9-b058-3380ea77d1d6,2025-05-20,মিথিলা খানম,baadl77@example.net,T-shirt,Clothing,9,1794,Credit Card,Chittagong,16146
+552d4865-d756-4d35-ad2e-ebea69b7d533,2025-03-18,আব্বাস ইসলাম,adrtaa15@example.com,Jeans,Clothing,24,2130,Credit Card,Dhaka,51120
+8c37e264-d03c-420a-baae-ebf89a244525,2025-03-26,রাজ আলি,aaoyaalmehjaabin@example.com,Laptop,Electronics,8,65795,Credit Card,Barishal,526360
+00c99370-22d6-40a2-a41f-0d38ca803df8,2024-11-15,মৃত্যুঞ্জয় ব্যানার্জি,shubhshrii11@example.org,Toothpaste,Household,13,30,Debit Card,Khulna,390
+f83bf029-b6ac-4048-8430-8e0c3fe604f4,2025-04-07,ইউসুফ হক,cdtt@example.com,Laptop,Electronics,18,65795,Cash on Delivery,Rajshahi,1184310
+42bbeaae-222d-42cf-bc34-3d5ddf9e1425,2024-08-19,শুভশ্রী বন্দোপাধ্যায়,biraatt16@example.com,Toothpaste,Household,8,30,Cash on Delivery,Mymensing,240
+60980b94-e05b-4892-a4bc-08cf2e904b5c,2025-05-03,ডলি কুমার,huraairaaraahul@example.com,Detergent,Household,3,50,Mobile Payment,Chittagong,150
+da119684-b385-49de-8304-38b532c192f1,2024-08-17,শাওন সিনহা,jmjumdaar@example.org,Notebook,Stationery,22,70,Credit Card,Khulna,1540
+f27e8ce7-2b8d-4c49-9e30-03e1f541a44e,2025-01-19,অর্ঘ্য সরকার,raalm@example.com,Jeans,Clothing,17,2130,Credit Card,Rangpur,36210
+340155bd-b6ac-4c8e-b977-c7b41e56d346,2024-08-26,নাদিম আওয়াল,imishr@example.com,Smartphone,Electronics,15,10860,Mobile Payment,Sylhet,162900
+372f5f47-999f-4691-b4e4-20bfdb38f306,2025-04-29,এনামুল মোড়ল,kbitaamitr@example.org,Toothpaste,Household,3,30,Cash on Delivery,Dhaka,90
+3c48c936-4305-4a31-b9e3-89054a4a15ea,2025-02-07,জনা মজুমদার,adaas@example.com,Toothpaste,Household,7,30,Mobile Payment,Sylhet,210
+f9723977-52c0-4f9b-9f16-eb702219b7f7,2025-03-09,একরামুল হক,emrdhaa@example.org,Pen,Stationery,8,92,Cash on Delivery,Mymensing,736
+55367ab6-0d57-4085-8f0a-64508e978ce1,2025-06-09,প্রদীপ বসু,taalukdaaraabbaas@example.net,Pen,Stationery,16,92,Debit Card,Rajshahi,1472
+fa3f012e-4d71-4f28-a185-21ab9ea1e617,2024-11-13,ঈশানি চন্দ্র,aaliiusuph@example.org,T-shirt,Clothing,1,1794,Cash on Delivery,Dhaka,1794
+56d44952-ee29-480e-be2a-c03a80f58b81,2025-05-19,আলিয়া তালুকদার,aarunni62@example.com,Jeans,Clothing,18,2130,Mobile Payment,Dhaka,38340
+fa801062-0b4e-460a-9032-6fe61de95c72,2024-08-01,নিশিতা মজুমদার,qkumaar@example.net,Toothpaste,Household,1,30,Cash on Delivery,Sylhet,30
+4385a3e3-ed3d-4159-82f5-da5fd45ff4db,2024-12-30,শুভ ইসলাম,ltaa28@example.net,Smartphone,Electronics,7,10860,Debit Card,Rangpur,76020
+0d9ff83d-70a3-4883-8c58-2872a2fba345,2024-08-25,আদি দাশগুপ্তা,cynkaader@example.com,Rice Cooker,Appliances,2,5772,Debit Card,Sylhet,11544
+6fb9de37-7796-448f-b4b9-fb7329debccc,2024-07-28,অহনা মন্ডল,bidyaa77@example.com,Smartphone,Electronics,2,10860,Debit Card,Rangpur,21720
+ddebcd5c-b842-4379-9888-dcb61ccc33c1,2024-08-09,জয়ন্ত তালুকদার,kaaphiaaktaar@example.org,Toothpaste,Household,15,30,Credit Card,Chittagong,450
+45d5aacb-d294-400f-823c-a34abffbd93b,2025-01-17,শুভশ্রী দে,aaktaarkhushi@example.org,Notebook,Stationery,5,70,Cash on Delivery,Chittagong,350
+ad49e072-7f84-4004-84ac-41b53f042c7b,2024-07-19,আকাশ জামান,shuklaaahnaa@example.net,Pen,Stationery,19,92,Credit Card,Rangpur,1748
+d6442365-1b27-45f6-b383-24f7eddcac0a,2024-10-16,আকাশ ঘোষ,djaamaan@example.net,T-shirt,Clothing,8,1794,Mobile Payment,Sylhet,14352
+a87319fe-981d-4530-84f2-0d97f4881671,2024-06-15,আরিয়ান হাকিম,maadhu23@example.org,Toothpaste,Household,13,30,Mobile Payment,Mymensing,390
+52bb530d-486f-4c8f-a4c5-dae5cd32e712,2025-04-18,অভিষেক সরকার,zde@example.com,Rice Cooker,Appliances,9,5772,Debit Card,Chittagong,51948
+c5583a17-f70d-48a0-bd75-e4232d921dab,2025-05-15,আজম আলি,aayussyaadb@example.com,Jeans,Clothing,5,2130,Credit Card,Khulna,10650
+f455af73-c0a7-4d9c-a5ac-cd5a48f18eed,2025-02-22,আবির ব্যানার্জি,vtaabaassum@example.com,Smartphone,Electronics,6,10860,Cash on Delivery,Barishal,65160
+219c00cb-9a7f-4e23-af59-aa66e75b2113,2024-10-30,অদিতি বর্মন,ltaaaaktaar@example.com,Toothpaste,Household,14,30,Credit Card,Mymensing,420
+99afee64-9024-4225-84bb-10e079f7f38c,2024-11-24,সৌমিক মোড়ল,taamaannaa26@example.net,Jeans,Clothing,15,2130,Mobile Payment,Barishal,31950
+836a5887-0a5a-4698-97cb-67b86d0f74e6,2024-10-23,ডলি প্রামানিক,sdaas@example.com,Detergent,Household,4,50,Credit Card,Khulna,200
+cd320878-e83e-43a0-9445-587e6ff6881f,2024-12-15,ইশতিয়াক প্রামানিক,aajm86@example.com,Detergent,Household,23,50,Credit Card,Rajshahi,1150
+1397a29f-8d0d-46f6-8c37-eb80918b8e18,2025-06-04,আনন্দ সরকার,graao@example.com,Toothpaste,Household,5,30,Credit Card,Rajshahi,150
+d0154898-9187-49a0-b866-3c7ca92dcf4f,2024-09-19,প্রিতম আওয়াল,byaanaarjibipaashaa@example.org,Toothpaste,Household,13,30,Credit Card,Sylhet,390
+6498da39-d7c8-402c-aea5-312ac942e6e8,2024-06-30,জগদীশ মৃধা,aasiphaa77@example.net,Detergent,Household,6,50,Credit Card,Rangpur,300
+f77aefe1-5761-4099-83db-ea42cece36ae,2025-06-04,ইজাজ সুলতানা,baadlmjumdaar@example.net,Rice Cooker,Appliances,18,5772,Debit Card,Chittagong,103896
+04961795-88cc-4dbc-af0d-72291b387c72,2024-06-15,ইকবাল আলি,saanjidaajaamaan@example.com,Rice Cooker,Appliances,4,5772,Debit Card,Chittagong,23088
+a86025bf-de68-466d-a7b4-1520b11a3696,2025-03-29,রিনা ব্যানার্জি,aaliyaa41@example.org,Laptop,Electronics,2,65795,Debit Card,Khulna,131590
+1ca64c33-30d8-47cd-838d-5f5a2296d3f6,2025-04-25,তনয় চৌধুরী,mimmitr@example.net,Jeans,Clothing,13,2130,Mobile Payment,Chittagong,27690
+a0456992-d793-40f1-af8f-d55c3de54ee2,2025-05-12,শ্রাবন্তী সুলতানা,cyaattaarjibipaashaa@example.org,Pen,Stationery,19,92,Mobile Payment,Chittagong,1748
+1dd03ecd-0595-49a3-ac00-46f07957595f,2024-08-16,সজীব সিং,cmjumdaar@example.net,Laptop,Electronics,3,65795,Debit Card,Barishal,197385
+91c631cf-4b7a-423e-b38a-ea2d3e1cfa14,2025-05-01,রায়হান খানম,aariyaan16@example.com,T-shirt,Clothing,3,1794,Mobile Payment,Chittagong,5382
+9423251e-bcb1-4a00-bee6-67ded93eea4d,2025-01-30,নাইম চৌধুরী,fsin@example.net,Laptop,Electronics,15,65795,Credit Card,Khulna,986925
+ef6e9295-9c8a-4485-b980-50a6974e598d,2025-03-03,শাহজাহান আলি,mrdhaajnaa@example.net,Pen,Stationery,14,92,Cash on Delivery,Barishal,1288
+4491be40-1042-4a8e-8da2-2a3950db8e34,2025-05-25,দূর্গা সাহা,huraairaaphaujiyaa@example.net,Laptop,Electronics,13,65795,Cash on Delivery,Khulna,855335
+6facc50d-b290-4e73-b2c5-73e958c58875,2024-06-21,প্রিয় দেব,cpaanndde@example.org,Toothpaste,Household,7,30,Debit Card,Sylhet,210
+e8b8d252-9670-4d19-b83e-69a481f46dfd,2025-03-06,রাজ আবদুল্লাহ,aariyaa65@example.com,Detergent,Household,15,50,Debit Card,Dhaka,750
+297a8503-d833-43c3-b88f-a199ccbcbf4b,2025-02-09,আয়ুষ ঘোষ,lbrmn@example.org,Pen,Stationery,20,92,Debit Card,Sylhet,1840
+19d4d39a-7dff-427d-9b12-5dfb2804335a,2025-04-17,শাহজাহান জামান,mnojkaant@example.org,Rice Cooker,Appliances,14,5772,Cash on Delivery,Dhaka,80808
+5b673a25-42c4-4041-a183-10035bd972c7,2025-03-02,তন্ময় সেন,cyaattaarjiraasel@example.com,Smartphone,Electronics,9,10860,Cash on Delivery,Khulna,97740
+1ee56930-3a08-4f6a-9e18-9a981d2d1771,2025-01-17,প্রদীপ পোদ্দার,shhidul08@example.com,Electric Kettle,Appliances,7,2095,Debit Card,Dhaka,14665
+b0acb9ba-da78-44c5-a6b3-a03ae57513a5,2025-05-18,অদিতি চৌধুরী,waabdullaah@example.org,Electric Kettle,Appliances,23,2095,Mobile Payment,Barishal,48185
+9c4e7b65-c81a-4f0f-9b1b-ba94f9834d4b,2025-02-04,আরিয়া মিঞা,poddaarkunaal@example.net,Notebook,Stationery,16,70,Mobile Payment,Mymensing,1120
+e9365d1b-3494-4114-9ef1-4d581e392331,2024-10-31,প্রিয় যাদব,jpaal@example.net,Electric Kettle,Appliances,9,2095,Debit Card,Dhaka,18855
+23450e72-d1b4-4562-95a8-d6a15d1ddcb7,2024-07-30,এনামুল কাদের,ptaalukdaar@example.com,Toothpaste,Household,20,30,Debit Card,Dhaka,600
+2bd7d038-8149-4b7a-8968-fdf25760c094,2024-07-16,মোস্তাফিজ মোড়ল,mehjaabin32@example.net,Detergent,Household,2,50,Cash on Delivery,Mymensing,100
+235398a6-3a6a-42d9-8986-f8936bf5fc98,2025-04-20,রহিম হুরাইরা,bbos@example.com,Pen,Stationery,8,92,Debit Card,Chittagong,736
+b7b651ee-028b-4fb6-8528-ac362545034c,2025-04-22,অলোকা তালুকদার,muntaakim62@example.com,Jeans,Clothing,22,2130,Debit Card,Sylhet,46860
+097ef98d-c25a-4eb3-a4ad-19050fbc6377,2025-02-24,আমায়া গাঙ্গুলি,ddli68@example.com,Notebook,Stationery,24,70,Credit Card,Rajshahi,1680
+e8c35a79-504e-44ac-be21-6c79b8b791b0,2024-10-24,প্রিয়ম সরকার,keyaaaaktaar@example.net,Pen,Stationery,13,92,Mobile Payment,Khulna,1196
+9fd60922-8b5f-44aa-a338-6d523483a23b,2025-04-15,মিলা বসু,tislaam@example.org,T-shirt,Clothing,8,1794,Mobile Payment,Mymensing,14352
+63d69dd8-55a1-4414-8995-3dd10976e09f,2025-03-21,ইউসুফ সরকার,shekhr18@example.net,Pen,Stationery,1,92,Mobile Payment,Khulna,92
+c1cdc9a4-5738-4277-8576-44724fefc63f,2025-02-14,আকাশ কুমার,aasaad46@example.net,Pen,Stationery,7,92,Cash on Delivery,Sylhet,644
+d7720330-0f58-4a93-bb63-721d1c45eba3,2024-11-04,শহিদুল মজুমদার,kaantshaarmin@example.org,T-shirt,Clothing,16,1794,Credit Card,Chittagong,28704
+bca2c581-928b-4e4b-8c47-2ded72e06bb4,2024-06-15,প্রিয়া বিশ্বাস,shaahjaahaanghoss@example.com,Laptop,Electronics,8,65795,Debit Card,Dhaka,526360
+b700b3c5-d0a9-4840-88e7-f2f6aabb6cac,2025-01-21,আমায়া বাগচী,shaantdeb@example.net,Notebook,Stationery,16,70,Credit Card,Mymensing,1120
+c74f054f-d2a5-4216-b14b-4d3695162359,2024-10-31,আরিয়া প্রামানিক,fraao@example.org,Pen,Stationery,7,92,Debit Card,Mymensing,644
+214bd473-e375-4867-acc5-60710febecad,2024-12-14,প্রদ্যুম্ন গঙ্গোপাধ্যায়,aaraadhyaa69@example.net,T-shirt,Clothing,11,1794,Credit Card,Dhaka,19734
+df3c5c8a-6510-46d6-8761-0e8384d99451,2024-09-23,রিনা মিত্র,uhk@example.com,T-shirt,Clothing,19,1794,Debit Card,Chittagong,34086
+817b2f21-24f3-4f14-a9b0-1062d2e55512,2024-08-01,মিনা প্রামানিক,jaamaanbrsstti@example.com,Notebook,Stationery,12,70,Credit Card,Mymensing,840
+f1ae8af9-2826-4561-bf1a-61d70858f527,2025-01-16,আবির হুরাইরা,bndopaadhyaayanyjnaa@example.net,Electric Kettle,Appliances,19,2095,Credit Card,Mymensing,39805
+273ef6f4-85d4-4f0f-8a4f-ee3b4a229ba5,2024-07-28,প্রত্যয় হোসাইন,naadim70@example.org,Detergent,Household,11,50,Debit Card,Khulna,550
+6bf843df-96f1-4d54-88a6-a0052463463c,2024-07-01,নাইম বিশ্বাস,ltaacaudhurii@example.org,Electric Kettle,Appliances,21,2095,Cash on Delivery,Mymensing,43995
+ded44617-114b-48ca-9941-0ea38c2b678e,2024-06-30,শাহাবাজ জামান,ypaal@example.com,T-shirt,Clothing,23,1794,Mobile Payment,Rajshahi,41262
+d56c478f-b854-4d6a-959f-2b6979a8832f,2025-02-03,ইমন সেন,qaaoyaal@example.com,Pen,Stationery,6,92,Cash on Delivery,Sylhet,552
+53415fe2-ba55-4e35-9dc8-d27b2623b91a,2024-07-17,মিথিলা ইসলাম,aaliyaapaal@example.net,Detergent,Household,5,50,Debit Card,Dhaka,250
+e3d9de7f-aba2-4511-b544-b28c0bbad72a,2024-12-02,নাদিম তালুকদার,aanndcndr@example.net,Pen,Stationery,13,92,Credit Card,Khulna,1196
+8f31bf2e-a4d7-4f64-9fb0-26cca5292f56,2024-07-16,মৃনাল রাও,aalmmilaa@example.net,Pen,Stationery,11,92,Debit Card,Chittagong,1012
+a8835c66-1eca-40c0-84c7-2b2ae598e5c2,2025-06-11,আরাধ্যা চৌধুরী,mrtyunyjy39@example.com,Rice Cooker,Appliances,5,5772,Mobile Payment,Chittagong,28860
+9b5ad674-8896-44b2-8e92-605915ab7cd2,2024-10-15,আজাদ রহমান,poddaarpriiti@example.org,Jeans,Clothing,12,2130,Mobile Payment,Khulna,25560
+872491ca-dc11-4b13-8628-98786a394607,2024-10-14,তামিম আওয়াল,paalaayushi@example.org,Smartphone,Electronics,23,10860,Mobile Payment,Barishal,249780
+416c0562-2ec3-4411-a4df-6dcc490ccf97,2025-04-07,অক্ষয় মৃধা,draay@example.net,Laptop,Electronics,9,65795,Debit Card,Rajshahi,592155
+06f4b0ee-2e74-4569-9346-405cf60c2dd3,2025-03-17,প্রত্যয় মোড়ল,dttakssy@example.com,Smartphone,Electronics,12,10860,Mobile Payment,Chittagong,130320
+6021a15b-4207-4b51-92ff-eff5e49c5edd,2025-06-13,ইকবাল খানম,aasaadrhmaan@example.com,Laptop,Electronics,2,65795,Cash on Delivery,Barishal,131590
+62928cdc-8121-4051-809c-a132823500f9,2024-07-27,আসাদ মজুমদার,eraay@example.com,Electric Kettle,Appliances,6,2095,Cash on Delivery,Barishal,12570
+3bd66a06-a22f-4331-a851-83410766699f,2025-06-02,প্রিয়ম সরকার,praamaanikduurgaa@example.net,Electric Kettle,Appliances,12,2095,Cash on Delivery,Chittagong,25140
+91788bdd-4dfb-4b6e-a025-7194c903cc1d,2024-11-17,অনন্যা সরকার,akssybaagcii@example.net,Rice Cooker,Appliances,19,5772,Debit Card,Khulna,109668
+3ec2e72a-c832-43f0-ab0e-63fdfc3d3138,2025-01-07,রাসেল আক্তার,islaamnusraat@example.com,Rice Cooker,Appliances,3,5772,Credit Card,Sylhet,17316
+002394e2-2ad9-4682-b8da-5a79a72edd5f,2024-07-06,নিশিতা সিনহা,arnaa53@example.net,Laptop,Electronics,11,65795,Mobile Payment,Chittagong,723745
+0ba4e32b-4804-444c-82a4-e22ed7371450,2024-08-14,সাব্বির সিনহা,ghossraahul@example.com,Smartphone,Electronics,11,10860,Debit Card,Rangpur,119460
+23c01eb1-d49b-462d-9f7b-6b19b2cc4372,2025-03-21,আশ্বিনী মোড়ল,taasnimdtt@example.net,T-shirt,Clothing,24,1794,Credit Card,Chittagong,43056
+42e88605-a29a-4e5f-97b6-f1aaf2064a1c,2025-04-01,রাসেল মৃধা,mushphikpoddaar@example.org,Toothpaste,Household,20,30,Cash on Delivery,Dhaka,600
+5415c636-9979-4a46-b580-8b5975b568d7,2024-06-19,ইউসুফ চৌধুরী,ataalukdaar@example.net,Electric Kettle,Appliances,21,2095,Debit Card,Rangpur,43995
+e5304b87-8e48-4bc0-a9c5-0d692c6cdb5a,2025-03-10,শাহজাহান মোড়ল,tthaakuraashbinii@example.org,T-shirt,Clothing,2,1794,Credit Card,Mymensing,3588
+abeed5b2-d0e9-45d4-9503-72a8e47f9c7e,2024-12-02,অদিতি বসু,ybndopaadhyaay@example.org,Jeans,Clothing,7,2130,Cash on Delivery,Sylhet,14910
+b2709103-cfd6-4161-8499-68ddd6d24227,2024-06-16,প্রদ্যুম্ন মজুমদার,priyaangkaapraamaanik@example.org,Detergent,Household,10,50,Debit Card,Chittagong,500
+47f86de4-c227-40f2-8510-6943be3eb6f7,2025-03-04,মুনতাকিম বিশ্বাস,cyaattaarjisaumik@example.org,Laptop,Electronics,13,65795,Cash on Delivery,Khulna,855335
+5ced83b3-f7a0-4e7a-be6a-3ea7fae91634,2024-06-27,শাহজাহান সিনহা,aakaashislaam@example.net,Laptop,Electronics,12,65795,Credit Card,Rangpur,789540
+47003fcf-deb2-4490-9c66-fdd96565e779,2025-01-20,মাধুরী প্রামানিক,sumaaiyaaraao@example.org,Smartphone,Electronics,10,10860,Cash on Delivery,Rajshahi,108600
+10a71298-bef8-4d85-a0d4-c1659691f45d,2024-08-01,কাফি সরকার,biny08@example.net,Smartphone,Electronics,1,10860,Debit Card,Khulna,10860
+e212f7e1-8f63-42bb-ae41-115540bf6f6b,2024-12-06,শুভ চৌধুরী,nishitaa64@example.org,Detergent,Household,3,50,Cash on Delivery,Chittagong,150
+7eddfc17-7772-4a5a-84ae-ffbeae1fd957,2024-10-31,অনিন্দিতা বিশ্বাস,aacaaryyddli@example.net,Detergent,Household,13,50,Cash on Delivery,Barishal,650
+6450dd3c-0152-4e60-90f5-3bd872e89652,2024-08-27,অভি আলি,jnaatthaakur@example.org,Detergent,Household,3,50,Cash on Delivery,Khulna,150
+4f90f91a-5448-40de-aa1b-76e3326684ff,2024-07-07,অদিতি কুমার,ztaabaassum@example.org,Toothpaste,Household,13,30,Mobile Payment,Khulna,390
+ef60250e-a055-41d3-8c16-ab4e97b018b0,2024-10-20,তামিম আলি,khaanaasaad@example.com,Rice Cooker,Appliances,2,5772,Mobile Payment,Barishal,11544
+55660d8e-d256-47ad-8def-4fd0d51fde3f,2024-12-31,জনা খাতুন,odaashguptaa@example.com,Rice Cooker,Appliances,9,5772,Debit Card,Sylhet,51948
+f97a822c-15e5-4a0f-9ff4-9f0a94350cb1,2024-07-06,লিটন মজুমদার,bsupraant@example.com,Pen,Stationery,2,92,Debit Card,Chittagong,184
+a04dac84-9c59-4e03-8d2d-35570e06a416,2024-11-27,অর্ণব চৌধুরী,gnggopaadhyaayarnaa@example.com,Smartphone,Electronics,22,10860,Mobile Payment,Rangpur,238920
+693e5fcf-c080-4ba4-9e07-809d188854db,2024-09-11,আবু কাদের,yislaam@example.com,Pen,Stationery,8,92,Credit Card,Rangpur,736
+19ed59a5-9e85-44d4-9ec6-20e0e143a0ad,2024-10-22,অদৃতা শুক্লা,aasiphaa31@example.org,Notebook,Stationery,14,70,Cash on Delivery,Rajshahi,980
+114a9827-b69a-4a1e-985d-654b03255820,2025-01-29,কাজল হোসাইন,maalihaamrdhaa@example.com,Rice Cooker,Appliances,10,5772,Credit Card,Rangpur,57720
+9ef01577-b980-4521-bb3c-fc106bc71d7f,2024-12-02,প্রান্ত চন্দ্র,ghossarghy@example.com,Laptop,Electronics,17,65795,Debit Card,Chittagong,1118515
+f5b19be4-835c-4541-af93-be2a95a340d9,2025-02-21,বাঁধন আওয়াল,amlkaader@example.com,Rice Cooker,Appliances,6,5772,Debit Card,Rajshahi,34632
+5e6ba460-4a83-4ab5-97c8-50b09a73cd2f,2024-06-16,শুভশ্রী প্রামানিক,rhmaanadrtaa@example.net,Jeans,Clothing,5,2130,Credit Card,Rangpur,10650
+5804550b-6c0c-42f9-8dfa-be46dbd3e865,2024-08-27,মৃত্যুঞ্জয় দেব,poddaarprshaant@example.net,Smartphone,Electronics,22,10860,Cash on Delivery,Rajshahi,238920
+fb5f5290-b11c-4dff-b1dd-348c79c91e00,2024-12-11,প্রিয়া বোস,ddli52@example.org,T-shirt,Clothing,20,1794,Mobile Payment,Mymensing,35880
+e9195919-ca08-4252-a048-72dc744d2442,2024-06-29,ডলি চৌধুরী,aabuuddin@example.net,Smartphone,Electronics,3,10860,Cash on Delivery,Rangpur,32580
+bc0dd6ed-7b12-4ee5-bd30-5a0736903edb,2025-04-07,মুনতাসির ইসলাম,ishitaaaaoyaal@example.org,Notebook,Stationery,11,70,Mobile Payment,Barishal,770
+5b9e75f4-12e0-4b9c-8288-49d95ce195be,2024-06-24,অদিতি প্রামানিক,priyti39@example.com,Laptop,Electronics,23,65795,Cash on Delivery,Chittagong,1513285
+32f9b771-0799-4940-b9ad-de7d0b3d58ad,2024-08-28,ইজাজ বিশ্বাস,jydiip58@example.org,Electric Kettle,Appliances,5,2095,Debit Card,Chittagong,10475
+2d1368f3-0580-4066-b22c-3dae2db4e428,2025-05-06,আব্বাস চৌধুরী,arnaaprdhaan@example.com,Smartphone,Electronics,19,10860,Credit Card,Sylhet,206340
+74c9c3ad-4e19-492b-b5d2-1deaefa52c8a,2024-09-14,রোহিত ইসলাম,hcyaattaarji@example.org,Notebook,Stationery,12,70,Cash on Delivery,Sylhet,840
+cb7e717c-217b-429e-ac95-73e9e1fa2466,2024-08-25,বিনয় বাগচী,mostaaphij96@example.net,Electric Kettle,Appliances,21,2095,Cash on Delivery,Barishal,43995
+c3595dc2-0bd3-42a9-abc7-8c063e9ace12,2025-02-07,কাজল রাও,ajy53@example.org,Laptop,Electronics,6,65795,Mobile Payment,Rangpur,394770
+df73321d-47b2-424d-8bad-3916a1243bea,2024-08-01,শহিদুল হোসাইন,ukhaan@example.org,T-shirt,Clothing,20,1794,Cash on Delivery,Dhaka,35880
+a9db47b9-ca7e-4b33-b87d-a6d7c8dfd1f1,2025-02-06,অমল সরকার,fbaagcii@example.net,Electric Kettle,Appliances,11,2095,Debit Card,Dhaka,23045
+b6658a34-5263-4028-add2-d8c076da3875,2024-11-05,মাধুরী মন্ডল,lmnddl@example.com,Rice Cooker,Appliances,9,5772,Mobile Payment,Dhaka,51948
+957fe29f-ca66-4da6-abd2-cb71a35ae369,2025-02-20,তুষার বিশ্বাস,baandhnrhmaan@example.com,Toothpaste,Household,10,30,Mobile Payment,Sylhet,300
+e3826da1-6cce-4c23-8e55-f3fe37f5c238,2024-11-06,কেয়া বর্মন,iishaani12@example.org,Rice Cooker,Appliances,23,5772,Credit Card,Rajshahi,132756
+5a00d0f2-84d1-4f5e-b1cb-19b34b88445a,2024-09-10,অহনা শুক্লা,nnditaa77@example.com,T-shirt,Clothing,10,1794,Cash on Delivery,Mymensing,17940
+7f5efb6b-cdf4-4137-9e15-433b68b1211a,2024-10-14,মুশফিক চৌধুরী,priyaangkaahaakim@example.com,Detergent,Household,24,50,Cash on Delivery,Chittagong,1200
+e6c71f15-5bed-43be-936d-6ccea535f9d7,2024-07-15,শহিদুল সরকার,sinhaaaabu@example.org,Jeans,Clothing,15,2130,Debit Card,Rangpur,31950
+09cccf1a-5c38-4c2a-9243-e8381e5bc68b,2025-01-11,কুনাল দেব,aabbaas44@example.org,Rice Cooker,Appliances,17,5772,Mobile Payment,Dhaka,98124
+234b20fd-ff7c-458f-9aa1-f98bb4a4feee,2025-05-11,শ্রাবন্তী আক্তার,ghosskaaphi@example.com,Notebook,Stationery,6,70,Credit Card,Sylhet,420
+f220eeb5-6760-4abd-bf31-0f21c87b17d9,2024-11-17,আবু খান,aaliyaahuraairaa@example.org,Notebook,Stationery,13,70,Debit Card,Dhaka,910
+7974c90b-35ba-4e93-bfc7-7282b92c8a72,2024-09-11,শুভশ্রী সরকার,vislaam@example.org,T-shirt,Clothing,7,1794,Debit Card,Dhaka,12558
+6dc56044-3016-462b-9886-75455025ac18,2025-04-08,রহিম বিশ্বাস,jaaoyaal@example.org,Jeans,Clothing,2,2130,Cash on Delivery,Dhaka,4260
+dfae1803-93d7-47e7-a392-3df45fec59ac,2024-08-01,আবু মন্ডল,raasel36@example.com,Toothpaste,Household,23,30,Debit Card,Sylhet,690
+c34995ff-6743-4c04-80ac-1c00af8e26b2,2025-04-11,সাব্বির মৃধা,aasiphaa09@example.org,Toothpaste,Household,15,30,Cash on Delivery,Chittagong,450
+fa2c9e79-2758-4f1a-a39e-5593ec11a44d,2024-10-19,বিপাশা বাগচী,aashaacyaattaarji@example.net,Laptop,Electronics,8,65795,Mobile Payment,Barishal,526360
+1bcfb92f-798b-4757-b036-f6b962ed5403,2024-10-18,মিলা ব্যানার্জি,raayshaant@example.net,Pen,Stationery,15,92,Debit Card,Barishal,1380
+d393daad-0835-475f-ad79-8f3e8d8b4c60,2025-03-07,রিনা কুমার,biraattcttttopaadhyaay@example.com,Pen,Stationery,18,92,Mobile Payment,Mymensing,1656
+4a85e443-3ba8-48d9-b4b5-5b8648a84587,2025-02-24,অলোকা মন্ডল,brmnaditi@example.org,T-shirt,Clothing,9,1794,Credit Card,Sylhet,16146
+e8e977f0-dc15-47c5-93a7-55812bfcc524,2024-11-19,ইমতিয়াজ আলম,aashbiniikhaanm@example.com,Laptop,Electronics,13,65795,Credit Card,Khulna,855335
+f48138b5-6395-49c4-919a-7396be3e9a90,2025-05-29,একরামুল তাবাসসুম,muntaasirtaabaassum@example.net,Pen,Stationery,7,92,Debit Card,Rajshahi,644
+9a8cb3d7-28a5-434d-b98b-2f02aa2fd9d1,2025-01-22,এনামুল সরকার,msinhaa@example.org,Jeans,Clothing,9,2130,Cash on Delivery,Dhaka,19170
+1060573a-721b-4707-a487-7651fdb7c107,2025-04-29,করিম মিঞা,daabdullaah@example.net,Laptop,Electronics,16,65795,Debit Card,Khulna,1052720
+49b49625-1752-415c-bcbf-15830a0175e5,2025-02-18,বাঁধন মৃধা,araao@example.org,Pen,Stationery,1,92,Debit Card,Sylhet,92
+bbb5e037-9e23-4af9-a664-14db2df8d4a8,2024-11-27,বিনা প্রামানিক,shuklaatnmy@example.org,Pen,Stationery,10,92,Mobile Payment,Rangpur,920
+461633bc-286e-4f0a-9edb-aec4e2b2de4b,2025-05-21,হৈমন্তী প্রধান,minyaashraabnii@example.com,Electric Kettle,Appliances,12,2095,Cash on Delivery,Sylhet,25140
+1f08f855-8d85-4df1-8309-4f28fe0d40b4,2024-11-03,সৌমিক তালুকদার,kbitaa72@example.com,Jeans,Clothing,15,2130,Mobile Payment,Rangpur,31950
+76509bcd-0b6d-45d7-818d-72af3516567d,2024-06-23,মৃত্যুঞ্জয় মন্ডল,vpoddaar@example.com,Pen,Stationery,4,92,Credit Card,Mymensing,368
+09ab99a3-658c-42ee-b1c4-6ef9db13f2ec,2024-06-17,ইকবাল প্রামানিক,bipaashaa77@example.org,Notebook,Stationery,21,70,Mobile Payment,Sylhet,1470
+3e06f427-a832-4228-8c65-d01b1521e825,2025-03-17,আলিয়া মন্ডল,aayuss20@example.net,Smartphone,Electronics,16,10860,Credit Card,Mymensing,173760
+1fc8628d-4b4d-4079-ad5f-60d919bb5bf0,2025-01-06,রায়হান প্রামানিক,praamaanikijaaj@example.org,Detergent,Household,21,50,Mobile Payment,Sylhet,1050
+3777d823-2d8d-4db8-9bab-96cc70cef646,2025-03-17,তুষার মন্ডল,poddaaraariyaa@example.net,Detergent,Household,21,50,Mobile Payment,Rajshahi,1050
+9923fc7a-0d6b-460f-b1a9-1c814eee5680,2024-06-14,লিটন বিশ্বাস,ahnaacaudhurii@example.org,T-shirt,Clothing,17,1794,Debit Card,Dhaka,30498
+07275940-6bf3-4656-841b-1878176519e7,2024-06-18,তনয় আওয়াল,littnsen@example.net,Pen,Stationery,13,92,Mobile Payment,Khulna,1196
+833334f6-6a6a-4149-8b44-676d2ac39be9,2024-07-24,বাসির আলম,phaujiyaakhaan@example.net,Laptop,Electronics,21,65795,Cash on Delivery,Sylhet,1381695
+1eed0236-6d89-4035-b05d-45c76522e8b9,2024-09-11,অর্ণব বসু,jydiip06@example.net,Detergent,Household,14,50,Cash on Delivery,Rangpur,700
+3677f5b4-63a1-4caa-8311-362650f51e97,2024-12-08,অজিত পাণ্ডে,tnmy13@example.com,Laptop,Electronics,19,65795,Debit Card,Mymensing,1250105
+7fe436d1-994f-4c31-847d-d6784d315923,2024-07-22,সাব্বির সিনহা,aabbaasdaashguptaa@example.net,Jeans,Clothing,22,2130,Cash on Delivery,Mymensing,46860
+b241b95b-a180-4402-bb3e-127f5308e1f2,2024-11-10,আমায়া বোস,monaalisaadtt@example.net,Notebook,Stationery,10,70,Debit Card,Khulna,700
+0484a1b3-55c9-44a4-9148-90547b6ce596,2025-02-04,মিলা বাগচী,surbhibishbaas@example.org,Detergent,Household,4,50,Cash on Delivery,Khulna,200
+e593562b-c249-459a-9dc9-06df056e3d78,2024-07-31,করিম মোড়ল,nusraatdtt@example.org,Detergent,Household,24,50,Debit Card,Mymensing,1200
+4beef160-7fac-49fe-9fe0-c7c32336d60b,2024-08-30,লিটন দে,rhmaanaayeshaa@example.com,Smartphone,Electronics,8,10860,Mobile Payment,Rajshahi,86880
+225f52ab-5425-44b8-a098-d2e3bd3fdb62,2024-09-29,আরিয়ান হুরাইরা,aannd35@example.com,Detergent,Household,14,50,Mobile Payment,Mymensing,700
+0dd7cac2-8a10-45c5-b4b0-738e3e040782,2025-05-31,আশালতা দাশগুপ্তা,ldaas@example.com,Detergent,Household,19,50,Mobile Payment,Barishal,950
+deaf9631-108a-4b5c-818c-0313a1396d49,2024-12-20,অজয় চৌধুরী,mrtyunyjybsu@example.org,Smartphone,Electronics,16,10860,Credit Card,Chittagong,173760
+d4cae432-8c81-4e53-97b6-a4612c7604c1,2025-04-17,আশীষ সেন,jaahaanmithilaa@example.com,Rice Cooker,Appliances,7,5772,Credit Card,Rangpur,40404
+3eb366fd-3291-4c95-b8bf-9cae2a064fd2,2024-11-24,প্রান্ত ব্যানার্জি,shubhshrii73@example.com,Notebook,Stationery,10,70,Cash on Delivery,Dhaka,700
+147bed20-7b2e-40e6-8802-8d0edcc7eb51,2024-10-30,মুশফিক ইসলাম,bsultaanaa@example.net,T-shirt,Clothing,5,1794,Debit Card,Mymensing,8970
+c2a49fd8-6ef5-4cee-bc24-3f9f9c014262,2024-08-12,শাহাবাজ আরা,fjaahaan@example.com,Electric Kettle,Appliances,19,2095,Cash on Delivery,Khulna,39805
+8d87b7be-271d-40f1-8985-c98d985defc4,2025-03-22,প্রিতম বাগচী,dcttttopaadhyaay@example.com,Toothpaste,Household,23,30,Debit Card,Chittagong,690
+7b189d5d-9b24-4a55-8fe8-8b776009a05a,2024-07-10,ইমন রহমান,aashiissaalm@example.org,Rice Cooker,Appliances,11,5772,Debit Card,Mymensing,63492
+baf9706d-802d-4cc4-9c95-6e3103491b41,2025-03-21,রুদ্র হক,vsaahaa@example.com,Laptop,Electronics,1,65795,Cash on Delivery,Sylhet,65795
+a41bc4c2-4ecc-40ab-bd53-38ca625046c0,2025-01-27,জগদীশ চৌধুরী,mitrmaadhurii@example.org,Jeans,Clothing,6,2130,Debit Card,Barishal,12780
+f5044d15-6fb1-48c2-8350-bf4f31b8f079,2024-09-20,বাঁধন জামান,sbrmn@example.org,Smartphone,Electronics,5,10860,Cash on Delivery,Rangpur,54300
+6c8de840-ed30-4556-a2a5-3193a6a1cc2b,2025-03-25,আশীষ সাহা,bosmehjaabin@example.net,Electric Kettle,Appliances,14,2095,Cash on Delivery,Rangpur,29330
+aa69b7f7-b28d-4cb8-873b-ca43ad2a3a7c,2025-02-18,প্রিতম শুক্লা,ikbaalpraamaanik@example.net,Laptop,Electronics,2,65795,Debit Card,Mymensing,131590
+d76d9612-a9a0-458e-b3a7-bd25940e3521,2024-08-14,আবির তালুকদার,tsaahaa@example.net,Laptop,Electronics,11,65795,Debit Card,Dhaka,723745
+84bed7ed-1491-451d-a6a7-a6b0f9619ae2,2025-06-01,জগদীশ দত্ত,sbishbaas@example.com,Laptop,Electronics,21,65795,Debit Card,Rajshahi,1381695
+a8928ad4-887f-419c-b7ba-19f9802a63cc,2025-05-23,বাকের হুরাইরা,paannddemonaalisaa@example.net,Toothpaste,Household,10,30,Debit Card,Chittagong,300
+d0713f73-582a-4099-8c2b-2f49c6d53a90,2024-08-07,একরামুল মোড়ল,aakaash27@example.org,Electric Kettle,Appliances,17,2095,Mobile Payment,Khulna,35615
+b241cfd3-c614-4017-91e1-21c718cc8417,2024-11-22,দূর্গা মৃধা,lraay@example.com,Smartphone,Electronics,2,10860,Mobile Payment,Sylhet,21720
+32b1792b-2263-460a-b43c-6fef2fb7e9bd,2024-12-18,আবির যাদব,prdiipuddin@example.org,Rice Cooker,Appliances,24,5772,Mobile Payment,Rangpur,138528
+c2589de2-cf26-4489-aec7-5a83bffa7a4f,2024-08-26,রহিম মন্ডল,senbaadl@example.com,T-shirt,Clothing,11,1794,Cash on Delivery,Mymensing,19734
+46d9e34d-1feb-41c7-a0b2-d14b15f0e5ea,2024-07-07,আকাশ কাদের,rhosaain@example.org,Jeans,Clothing,6,2130,Cash on Delivery,Dhaka,12780
+c075e119-441d-4e33-8fa1-659f026f05f6,2024-06-15,শুভশ্রী কান্ত,jaamaanaamaayaa@example.org,Jeans,Clothing,8,2130,Debit Card,Rajshahi,17040
+fca54576-8523-43d7-9a5d-376e602ba256,2025-04-04,শাহজাহান মন্ডল,jobaaydaa65@example.com,Laptop,Electronics,19,65795,Debit Card,Chittagong,1250105
+ffdba2ee-57d3-4c63-a3e1-03bbae8e6075,2024-10-13,করিম আবদুল্লাহ,nmukhaarji@example.org,Toothpaste,Household,23,30,Credit Card,Rangpur,690
+548b9bb7-df82-40b8-9b24-bb54f9ad97ae,2025-04-22,অর্ঘ্য মন্ডল,bmukhaarji@example.net,Detergent,Household,18,50,Credit Card,Dhaka,900
+478b2f00-87d7-4309-9e77-21561f76043f,2025-03-11,জনা আবদুল্লাহ,gkhaan@example.com,Smartphone,Electronics,21,10860,Credit Card,Dhaka,228060
+fc76627b-00cd-41a8-b01c-8108a904babd,2025-02-15,বাসির আরা,tnmy57@example.org,Smartphone,Electronics,14,10860,Cash on Delivery,Rangpur,152040
+bd3c83c3-6671-49de-bc0a-8f909b54d227,2025-02-05,অনন্যা আবদুল্লাহ,qkhaan@example.net,Smartphone,Electronics,18,10860,Mobile Payment,Barishal,195480
+628616f4-bbf9-404b-99b7-775fe7bb5e42,2024-10-05,কাজল ঠাকুর,bsushraabntii@example.org,T-shirt,Clothing,7,1794,Credit Card,Sylhet,12558
+ff0dd3c2-ac4d-4d33-9515-28af4d25298f,2025-01-12,রাশেদুল বেগম,ebyaanaarji@example.net,Electric Kettle,Appliances,22,2095,Credit Card,Sylhet,46090
+362e17d4-3e4c-443a-bdab-ba618a693650,2024-08-18,অনন্যা জাহান,kmnddl@example.com,Pen,Stationery,20,92,Debit Card,Rangpur,1840
+47c58839-c42c-40ba-a22c-636fe713f930,2024-09-06,তামিম মন্ডল,baagciiaashaaltaa@example.net,Smartphone,Electronics,17,10860,Credit Card,Sylhet,184620
+cba88a28-1727-40d8-bdf1-02c2b9b4c225,2025-03-08,নয়ন আওয়াল,antraa68@example.com,Smartphone,Electronics,4,10860,Cash on Delivery,Rajshahi,43440
+4253fb27-393a-40a9-bbbd-f80ccef66a14,2024-07-27,আজম তালুকদার,poddaaraaphiphaa@example.org,Pen,Stationery,7,92,Mobile Payment,Rajshahi,644
+92a593c8-1db9-4330-b127-6a5cbe9f44cb,2024-11-02,বাদল বাগচী,cndrpraant@example.net,Toothpaste,Household,23,30,Cash on Delivery,Sylhet,690
+635d8150-d8dc-43a5-b09a-8327891d47fe,2024-11-24,রোহিত আবদুল্লাহ,shubhsaahaa@example.org,T-shirt,Clothing,2,1794,Cash on Delivery,Rajshahi,3588
+50e08a81-75ea-4023-9a34-65d989cd90e7,2024-08-08,নাইম আলি,jaalm@example.net,Rice Cooker,Appliances,11,5772,Debit Card,Dhaka,63492
+aa546c79-bf3f-41d5-a557-c82c488c6ea4,2025-05-08,অহনা হক,muntaasir81@example.com,Laptop,Electronics,22,65795,Credit Card,Chittagong,1447490
+92efd363-b4de-44a4-9900-da4bff317846,2024-12-15,আরুণি সিং,antraa05@example.org,Pen,Stationery,22,92,Cash on Delivery,Khulna,2024
+d91b1cb6-35ea-4d3e-b77d-ff3ad3f04058,2025-03-24,ডলি রহমান,aalirinaa@example.net,Smartphone,Electronics,17,10860,Credit Card,Chittagong,184620
+d0a4a31a-fc00-43e7-8c91-ef0e644d852c,2025-02-24,ইমতিয়াজ আরা,bpaal@example.net,Detergent,Household,21,50,Debit Card,Barishal,1050
+c1f98e90-592a-487b-bd85-3cf8793228b9,2024-11-11,আনিস জামান,biny86@example.org,Detergent,Household,9,50,Cash on Delivery,Dhaka,450
+ca9128fb-c094-4932-92cb-8f692182b518,2025-01-24,আসাদ রহমান,binaa29@example.org,Smartphone,Electronics,6,10860,Credit Card,Sylhet,65160
+4a84525f-7b81-4ce1-b22a-2428711f4ae4,2025-05-27,তুষার দে,shaarminpraamaanik@example.com,Toothpaste,Household,22,30,Mobile Payment,Rangpur,660
+1a1940e4-935f-46e2-9b2c-1379b9d859f5,2025-03-03,ইশিতা ইসলাম,draay@example.org,Smartphone,Electronics,4,10860,Credit Card,Dhaka,43440
+2dfc6b9c-794f-4bef-b962-77e55b078b11,2024-07-03,প্রশান্ত মজুমদার,oyaadb@example.net,T-shirt,Clothing,22,1794,Debit Card,Mymensing,39468
+1e69d7ef-08b3-4111-beb8-62c6676c269f,2024-09-14,শাহজাহান জামান,saanjidaamukhaarji@example.net,Toothpaste,Household,15,30,Mobile Payment,Chittagong,450
+a894b11e-abb5-48e1-8b9a-6ed5fdbcebdb,2024-07-17,মিনা হুরাইরা,osinhaa@example.net,Toothpaste,Household,11,30,Debit Card,Chittagong,330
+1eb85863-02f8-4044-9e08-e24971f34593,2024-07-28,অর্ণব মন্ডল,abhijaamaan@example.com,Electric Kettle,Appliances,13,2095,Cash on Delivery,Sylhet,27235
+cb5a1c0e-1834-440d-becf-ddedb198047f,2025-01-29,লিটন সাহা,kghoss@example.org,Electric Kettle,Appliances,23,2095,Cash on Delivery,Rangpur,48185
+b6b98240-1041-4cbc-9342-34cf1974fb71,2025-05-31,সাব্বির বেগম,zmjumdaar@example.net,T-shirt,Clothing,4,1794,Debit Card,Dhaka,7176
+cfec1804-c891-49c6-8952-9c51d1453eb7,2025-01-04,অর্না সরকার,khaansumaaiyaa@example.org,T-shirt,Clothing,4,1794,Cash on Delivery,Barishal,7176
+b1f9ab31-995e-49de-9cac-41f82e4001c1,2024-08-21,সজীব মজুমদার,aacaaryyarghy@example.net,Pen,Stationery,22,92,Cash on Delivery,Khulna,2024
+167b6ea0-2945-4370-a713-72ab34cb7b9a,2025-01-17,আজাদ তালুকদার,ghossarpitaa@example.net,Pen,Stationery,13,92,Mobile Payment,Dhaka,1196
+f1fa7e6a-fa23-4dbb-ac4d-17742bee2fff,2025-02-23,প্রান্ত মৃধা,gnggopaadhyaaysumaaiyaa@example.net,T-shirt,Clothing,16,1794,Cash on Delivery,Chittagong,28704
+7d8da92b-93ba-44a3-a3cd-8a4471e64bce,2025-03-09,রাহুল উদ্দিন,kumaaraajaad@example.org,Electric Kettle,Appliances,15,2095,Credit Card,Chittagong,31425
+db2865da-4cb9-4e7b-a444-4f6430259856,2025-05-02,অক্ষয় দে,ekraamul29@example.com,Detergent,Household,21,50,Mobile Payment,Dhaka,1050
+42bb8f63-4145-4abc-8cc2-e0f013093c17,2024-11-08,আরাধ্যা মুখার্জি,qdaas@example.net,Notebook,Stationery,24,70,Debit Card,Mymensing,1680
+24aba2a0-b1cb-4263-b0b0-e7296ce34d67,2025-01-07,অজিত পাণ্ডে,ahnaasin@example.com,Notebook,Stationery,17,70,Credit Card,Rangpur,1190
+fe11230e-50fc-4daa-a74b-369ed2524487,2025-04-14,মুশফিক আলি,prtyysrkaar@example.org,Jeans,Clothing,16,2130,Mobile Payment,Rangpur,34080
